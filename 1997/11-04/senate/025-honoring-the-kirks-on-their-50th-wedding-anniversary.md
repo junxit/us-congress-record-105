@@ -1,0 +1,36 @@
+---
+granule: CREC-1997-11-04-pt1-PgS11665-2
+date: 1997-11-04
+edition: CREC
+section: SENATE
+page: S11665
+citation: 143 Cong. Rec. S11665
+---
+
+# HONORING THE KIRKS ON THEIR 50TH WEDDING ANNIVERSARY
+
+**Speaking:** Ashcroft, John (A000356) [R-MO]
+
+```
+          HONORING THE KIRKS ON THEIR 50TH WEDDING ANNIVERSARY
+
+  Mr. ASHCROFT. Mr. President, families are the cornerstone of America.
+
+[[Page S11666]]
+
+ The data are undeniable: Individuals from strong families contribute 
+to the society. In an era when nearly half of all couples married today 
+will see their union dissolve into divorce, I believe it is both 
+instructive and important to honor those who have taken the commitment 
+of ``till death us do part'' seriously, demonstrating successfully the 
+timeless principles of love, honor, and fidelity. These characteristics 
+make our country strong.
+  For these important reasons, I rise today to honor Frankie and Harlan 
+Kirk of St. Louis, MO, who on November 15, 1997, will celebrate their 
+50th wedding anniversary. My wife, Janet, and I look forward to the day 
+we can celebrate a similar milestone. The Kirks' commitment to the 
+principles and values of their marriage deserves to be saluted and 
+recognized.
+
+                          ____________________
+```
