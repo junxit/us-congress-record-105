@@ -1,0 +1,71 @@
+---
+granule: CREC-1997-07-11-pt1-PgH5169-9
+date: 1997-07-11
+edition: CREC
+section: HOUSE
+page: H5169
+citation: 143 Cong. Rec. H5169
+---
+
+# STUDY ON OPERATION AND EFFECT OF THE NORTH AMERICAN FREE TRADE AGREEMENT--MESSAGE FROM THE PRESIDENT OF THE UNITED STATES
+
+```
+                              {time}  1430
+    STUDY ON OPERATION AND EFFECT OF THE NORTH AMERICAN FREE TRADE 
+       AGREEMENT--MESSAGE FROM THE PRESIDENT OF THE UNITED STATES
+
+  The SPEAKER pro tempore (Mr. Chabot) laid before the House the 
+following message from the President of the United States; which was 
+read and, together with the accompanying papers, without objection, 
+referred to the Committee on Ways and Means:
+
+To the Congress of the United States:
+  I am pleased to transmit the Study on the Operation and Effect of the 
+North American Free Trade Agreement (NAFTA), as required by section 512 
+of the NAFTA Implementation Act (Public Law 103-182; 107 Stat. 2155; 19 
+U.S.C. 3462). The Congress and the Administration are right to be proud 
+of this historic agreement. This report provides solid evidence that 
+NAFTA has already proved its worth to the United States during the 3 
+years it has been in effect. We can look forward to realizing NAFTA's 
+full benefits in the years ahead.
+
+[[Page H5170]]
+
+  NAFTA has also contributed to the prosperity and stability of our 
+closest neighbors and two of our most important trading partners. NAFTA 
+aided Mexico's rapid recovery from a severe economic recession, even as 
+that country carried forward a democratic transformation of historic 
+proportions.
+  NAFTA is an integral part of a broader growth strategy that has 
+produced the strongest U.S. economy in a generation. This strategy 
+rests on three mutually supportive pillars: deficit reduction, 
+investing in our people through education and training, and opening 
+foreign markets to allow America to compete in the global economy. The 
+success of that strategy can be seen in the strength of the American 
+economy, which continues to experience strong investment, low 
+unemployment, healthy job creation, and subdued inflation.
+  Export growth has been central to America's economic expansion. 
+NAFTA, together with the Uruguay Round Agreement, the Information 
+Technology Agreement, the WTO Telecommunications Agreement, 22 sectoral 
+trade agreements with Japan, and over 170 other trade agreements, has 
+contributed to overall U.S. real export growth of 37 percent since 
+1993. Exports have contributed nearly one-third of our economic 
+growth--and have grown three times faster than overall income.
+  Workers, business executives, small business owners, and farmers 
+across American have contributed to the resurgence in American 
+competitiveness. The ability and determination of working people across 
+America to rise to the challenges of rapidly changing technologies and 
+global economic competition is a great source of strength for this 
+Nation.
+  Cooperation between the Administration and the Congress on a 
+bipartisan basis has been critical in our efforts to reduce the 
+deficit, to conclude trade agreements that level the global playing 
+field for America, to secure peace and prosperity along America's 
+borders, and to help prepare all Americans to benefit from expanded 
+economic opportunities. I hope we can continue working together to 
+advance these vital goals in the years to come.
+                                                  William J. Clinton.  
+  The White House, July 11, 1997.
+
+                          ____________________
+```
