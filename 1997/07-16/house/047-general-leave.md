@@ -1,0 +1,31 @@
+---
+granule: CREC-1997-07-16-pt1-PgH5372
+date: 1997-07-16
+edition: CREC
+section: HOUSE
+page: H5372
+citation: 143 Cong. Rec. H5372
+---
+
+# GENERAL LEAVE
+
+**Speaking:** Skeen, Joe (S000463) [R-NM]
+
+**Measures:** H.R. 2160
+
+```
+                              {time}  2000
+                             GENERAL LEAVE
+
+  Mr. SKEEN. Mr. Speaker, I ask unanimous consent that all Members may 
+have 5 legislative days within which to revise and extend their remarks 
+on the bill (H.R. 2160) making appropriations for Agriculture, Rural 
+Development, Food and Drug Administration, and Related Agencies 
+programs for the fiscal year ending September 30, 1998, and for other 
+purposes, and that I may include tabular and extraneous material.
+  The SPEAKER pro tempore (Mr. Hastings of Washington). Is there 
+objection to the request of the gentleman from New Mexico?
+  There was no objection.
+
+                          ____________________
+```
