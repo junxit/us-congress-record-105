@@ -1,0 +1,47 @@
+---
+granule: CREC-1997-01-28-pt1-PgS771-3
+date: 1997-01-28
+edition: CREC
+section: SENATE
+page: S771
+citation: 143 Cong. Rec. S771
+---
+
+# LAWRENCE B. LINDSEY'S DEPARTURE FROM THE BOARD OF GOVERNORS OF THE FEDERAL RESERVE
+
+**Speaking:** Abraham, Spencer (A000355) [R-MI]
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+  LAWRENCE B. LINDSEY'S DEPARTURE FROM THE BOARD OF GOVERNORS OF THE 
+                            FEDERAL RESERVE
+
+  ● Mr. ABRAHAM. Mr. President, I rise today to note the 
+departure of Lawrence B. Lindsey, member of the Board of Governors of 
+the Federal Reserve System, from that body. Mr. Lindsey's departure is 
+a great loss for the Federal Reserve, and the nation. His tenure on the 
+Board of Governors has been invaluable. His service as chairman of the 
+Board's Consumer and Community Affairs Committee and as chairman of the 
+Neighborhood Reinvestment Corporation, as well as his participation in 
+the general business of the Board, have played a vital role in 
+sustaining economic growth and price stability in this country. He will 
+be missed.
+  One can hardly blame Mr. Lindsey, however, for seizing the exciting 
+and well-deserved opportunities that have come his way. As the Arthur 
+F. Burns Chair in Economics at the American Enterprise Institute and as 
+managing director of economic strategies, an economic advisory service 
+based in New York City, Mr. Lindsey will be in a position to 
+participate in both the intellectual and practical sides of global 
+economic life during an exciting time. I am confident that all of us 
+will benefit from the work he will be doing in both positions.
+  I am certain that the economic community will be hearing from Mr. 
+Lindsey more than ever in his new capacities. I would like to take this 
+opportunity to wish him the best of luck and offer him my heart-felt 
+congratulations.●
+
+                          ____________________
+```
