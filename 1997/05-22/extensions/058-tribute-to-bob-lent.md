@@ -1,0 +1,68 @@
+---
+granule: CREC-1997-05-22-pt1-PgE1037-2
+date: 1997-05-22
+edition: CREC
+section: EXTENSIONS
+page: E1037
+citation: 143 Cong. Rec. E1037
+---
+
+# TRIBUTE TO BOB LENT
+
+**Speaking:** Bonior, David E. (B000619) [D-MI]
+
+```
+                          TRIBUTE TO BOB LENT
+
+                                 ______
+                                 
+
+                          HON. DAVID E. BONIOR
+
+                              of michigan
+
+                    in the house of representatives
+
+                         Thursday, May 22, 1997
+
+  Mr. BONIOR. Mr. Speaker, I take great pride in rising today to ask my 
+colleagues to join me in recognizing Bob Lent, UAW Region 1 director, 
+who will be honored by UAW Local 909 on June 29, 1997.
+  Through the years, Bob Lent has been a fighter. His tireless efforts 
+have improved the lives of the working families throughout southeastern 
+Michigan. Bob is a man who has dedicated his life to securing dignity 
+and respect for all people. He has been a champion of civil rights and 
+civil liberties, and has helped create a stronger, more united 
+community.
+  In 1949, Bob Lent began a career with the UAW that has spanned 48 
+years. He started as a spray painter at the Dodge main plant of Local 3 
+in Hamtramck, MI. After serving his country as an Army paratrooper from 
+1951 to 1953, Bob returned to Michigan to become a millwright 
+apprentice and a skilled tradesman at the Chrysler 9-Mile Road Press 
+Plant, Local 869.
+  While at UAW Local 869, Bob's strong leadership and vision were 
+recognized and he was chosen by his colleagues to serve in a 
+distinguished list of appointed and elected positions. He was an 
+alternate chief steward, trustee chairman, vice president, president, 
+education representative, and assistant director. His vast knowledge 
+and experience made him a logical choice for director.
+  Bob was first elected to the UAW executive board as a regional 
+director at the UAW's 27th Constitutional Convention in May 1983, at 
+Dallas, TX. After his re-election to a third term, Bob was elected 
+director of UAW Region 1 which covers Detroit's East Side, Pontiac, 
+Macomb, and St. Clair Counties and part of the ``Thumb'' area of 
+southeastern Michigan, and including Canada.
+  Bob is not only an active union leader, but a community leader as 
+well. He served on the labor advisory committee at both Oakland and 
+Wayne State University. He has been a Democratic precinct delegate. He 
+is a lifetime member of the NAACP. He also serves on the board of 
+directors of the United Way of Pontiac-Oakland County and Detroit Area 
+United Foundation.
+  Few people have given to their community with the vision and 
+commitment that Bob Lent has given to his. He is a person who has 
+inspired the admiration of many. I am honored to call him a friend. I 
+want to congratulate Bob on his very distinguished career and I wish 
+him and his family all of the best.
+
+                          ____________________
+```
