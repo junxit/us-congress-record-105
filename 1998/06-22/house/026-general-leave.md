@@ -1,0 +1,28 @@
+---
+granule: CREC-1998-06-22-pt1-PgH4901
+date: 1998-06-22
+edition: CREC
+section: HOUSE
+page: H4901
+citation: 144 Cong. Rec. H4901
+---
+
+# GENERAL LEAVE
+
+**Speaking:** Smith, Linda (S000587) [R-WA]
+
+**Measures:** H.R. 2411
+
+```
+                             GENERAL LEAVE
+
+  Mrs. LINDA SMITH of Washington. Mr. Speaker, I ask unanimous consent 
+that all Members may have 5 legislative days within which to revise and 
+extend their remarks and include extraneous material on H.R. 2411, the 
+bill just passed.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentlewoman from Washington?
+  There was no objection.
+
+                          ____________________
+```

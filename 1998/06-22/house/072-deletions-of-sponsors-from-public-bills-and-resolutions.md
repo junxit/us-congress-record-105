@@ -1,0 +1,23 @@
+---
+granule: CREC-1998-06-22-pt1-PgH4962
+date: 1998-06-22
+edition: CREC
+section: HOUSE
+page: H4962
+citation: 144 Cong. Rec. H4962
+---
+
+# DELETIONS OF SPONSORS FROM PUBLIC BILLS AND RESOLUTIONS
+
+**Measures:** H.R. 2908
+
+```
+        DELETIONS OF SPONSORS FROM PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 4 of rule XXII, sponsors were deleted from public bills 
+and resolutions as follows:
+
+       H.R. 2908: Mr. WATT of North Carolina.
+
+                          ____________________
+```
