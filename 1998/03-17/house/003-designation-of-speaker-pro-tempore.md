@@ -1,0 +1,27 @@
+---
+granule: CREC-1998-03-17-pt1-PgHnull
+date: 1998-03-17
+edition: CREC
+section: HOUSE
+page: H1169
+citation: 144 Cong. Rec. H1169
+---
+
+# DESIGNATION OF SPEAKER PRO TEMPORE
+
+```
+                   DESIGNATION OF SPEAKER PRO TEMPORE
+
+  The SPEAKER pro tempore laid before the House the following 
+communication from the Speaker:
+
+                                               Washington, DC,
+
+                                                   March 17, 1998.
+       I hereby designate the Honorable David L. Hobson to act as 
+     Speaker pro tempore on this day.
+                                                    Newt Gingrich,
+     Speaker of the House of Representatives.
+
+                          ____________________
+```
