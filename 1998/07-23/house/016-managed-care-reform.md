@@ -1,0 +1,36 @@
+---
+granule: CREC-1998-07-23-pt1-PgH6191
+date: 1998-07-23
+edition: CREC
+section: HOUSE
+page: H6191
+citation: 144 Cong. Rec. H6191
+---
+
+# MANAGED CARE REFORM
+
+**Speaking:** Ewing, Thomas W. (E000282) [R-IL]
+
+```
+                          MANAGED CARE REFORM
+
+  (Mr. EWING asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. EWING. Madam Speaker, it is much easier to be a liberal than to 
+be a conservative. Just consider for a moment what has been said by our 
+colleagues on the other side during the debate on managed care over the 
+past 2 weeks. The pattern here, you can see on almost every public 
+policy issue. First, declare a crisis. Really? Although we know there 
+are problems with legitimate managed care, the polls show 90 percent of 
+the people with this care are satisfied. Second, propose a solution 
+that will make the problem worse, thus giving the Democrats more 
+opportunity to declare a crisis. The solution for the other side is 
+always the same, more mandates, more lawyers, and, let us not forget, 
+more government. This will raise the price, making health care less 
+affordable than it was before. The final step is to deny that their 
+proposal will do anything of the sort. Then in a few years when the 
+problem is even worse, they will declare their outrage again, just as 
+they are doing now.
+
+                          ____________________
+```
