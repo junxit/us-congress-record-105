@@ -1,0 +1,304 @@
+---
+granule: CREC-1998-10-13-pt1-PgS12461-2
+date: 1998-10-13
+edition: CREC
+section: SENATE
+page: S12461
+citation: 144 Cong. Rec. S12461
+---
+
+# SALTON SEA RECLAMATION ACT OF 1998
+
+**Speaking:** Gorton, Slade (G000333) [R-WA]
+
+**Measures:** H.R. 3267
+
+```
+                   SALTON SEA RECLAMATION ACT OF 1998
+
+  Mr. GORTON. Mr. President, I ask unanimous consent that the Senate 
+proceed to the immediate consideration of H.R. 3267, which was received 
+from the House.
+  The PRESIDING OFFICER. The clerk will report.
+  The legislative clerk read as follows:
+
+       A bill (H.R. 3267) to direct the Secretary of the Interior, 
+     acting through the Bureau of Reclamation, to conduct a 
+     feasibility study and construct a project to reclaim the 
+     Salton Sea.
+
+  The PRESIDING OFFICER. Is there objection to the immediate 
+consideration of the bill?
+  There being no objection, the Senate proceeded to consider the bill.
+
+
+                           Amendment No. 3821
+
+  Mr. GORTON. Mr. President, there is an amendment at the desk offered 
+by Senator Kyl, and I ask for its immediate consideration.
+  The PRESIDING OFFICER. The clerk will report.
+  The legislative clerk read as follows:
+
+       The Senator from Washington (Mr. Gorton), for Mr. Kyl, 
+     proposes an amendment numbered 3821.
+
+  Mr. GORTON. I ask unanimous consent that reading of the amendment be 
+dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+
+     SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+       (a) Short Title.--This Act may be cited as the ``Salton Sea 
+     Reclamation Act of 1998''.
+       (b) Table of Contents--The table of contents of this Act is 
+     as follows:
+
+Sec. 1. Short title; table of contents.................................
+Sec. 2. Definitions....................................................
+
+                 TITLE I--SALTON SEA FEASIBILITY STUDY
+
+     Sec. 101. Feasibility study authorization.
+     Sec. 102. Concurrent wildlife resources studies.
+     Sec. 103. Salton Sea National Wildlife Refuge renamed as 
+         Sonny Bono Salton Sea National Wildlife Refuge.
+
+TITLE II--EMERGENCY ACTION TO IMPROVE WATER QUALITY IN THE ALAMO RIVER 
+                             AND NEW RIVER
+
+     Sec. 201. Alamo River and New River irrigation drainage 
+         water.
+
+     SEC. 2. DEFINITIONS.
+
+       In this Act:
+       (1) The term `Committees' means the Committee on Resources 
+     and the Committee on Transportation and Infrastructure of the 
+     House of Representatives and the Committee on Energy and 
+     Natural Resources and the Committee on Environment and Public 
+     Works of the Senate.
+       (2) The term `Salton Sea Authority' means the Joint Powers 
+     Authority by that name established under the laws of the 
+     State of California by a Joint Power Agreement signed on June 
+     2, 1993.
+       (3) The term `Secretary' means the Secretary of the 
+     Interior, acting through the Bureau of Reclamation.
+
+                 TITLE II--SALTON SEA FEASIBILITY STUDY
+
+     SEC. 101. SALTON SEA FEASIBILITY STUDY AUTHORIZATION.
+
+       (a) In General.--No later than January 1, 2000, the 
+     Secretary, in accordance with this section, shall complete 
+     all feasibility studies and cost analyses for the options set 
+     forth in subsection (b)(2)(A) necessary for Congress to fully 
+     evaluate such options.
+       (b) Feasibility Study.--
+       (1) In general.--
+       (A) the Secretary shall complete all studies, including, 
+     but not limited to environmental and other reviews, of the 
+     fasibility and benefit-cost of various options that permit 
+     the continued use of the Salton Sea as a reservoir for 
+     irrigation drainage and (1) reduce and stabilize the overall 
+     salinity of the Salton Sea, (2) stabilize the surface 
+     elevation of the Salton Sea, (3) reclaim, in the long term, 
+     healthy fish and wildlife resources and their habitats, and 
+     (4) enhance the potential for recreational uses and economic 
+     development of the Salton Sea.
+       (B) Based solely on whatever information is available at 
+     the time of submission of the report, the Secretary shall (1) 
+     identify any options he deems economically feasible and cost 
+     effective, (2) identify any additional information necessary 
+     to develop construction specifications, and (3) submit any 
+     recommendations, along with the results of the study to the 
+     Committees no later than January 1, 2000.
+       (B)(i) The Secretary shall carry out the feasibility study 
+     in accordance with a memorandum of understanding entered into 
+     by the Secretary, the Salton Sea Authority, and the Governor 
+     of California.
+       (ii) The memorandum of understanding shall, at a minimum, 
+     establish criteria for evaluation and selection of options 
+     under subparagraph (2)(A), including criteria for determining 
+     benefits and the magnitude and practicability of costs of 
+     construction, operation, and maintenance of each options 
+     evaluated.
+       (2) Options to be considered.--Options considered in the 
+     feasibility study--
+       (A) shall consist of, but need not be limited to--
+       (i) use of impoundments to segregate a portion of the 
+     waters of the Salton Sea in one or more evaporation ponds 
+     located in the Salton Sea basin;
+       (ii) pumping water out of the Salton Sea;
+       (iii) augmented flows of water into the Salton Sea;
+       (iv) a combination of the options referred to in clauses 
+     (i), (ii), and (iii); and
+       (v) any other economically feasible remediation option the 
+     Secretary considers appropriate and for which feasibility 
+     analyses and cost estimates can be completed by January 1, 
+     2000;
+       (B) shall be limited to proven technologies; and
+       (C) shall not include any option that--
+       (i) relies on the importation of any new or additional 
+     water from the Colorado River; or
+       (ii) is inconsistent with the provisions of subsection (c).
+       (3) Assumptions.--In evaluating options, the Secretary 
+     shall apply assumptions regarding water inflows into the 
+     Salton Sea Basin that encourage water conservation, account 
+     for transfers of water out of the Salton Sea Basin, and are 
+     based on a maximum likely reduction in inflows into the 
+     Salton Sea Basin which could be 800,000 acre-feet or less per 
+     year.
+       (4) Consideration of costs.--In evaluating the feasibility 
+     of options, the Secretary shall consider the ability of 
+     Federal, tribal, State and local government sources and 
+     private sources to fund capital construction costs and annual 
+     operation, maintenance, energy, and replacement costs and 
+     shall set forth the basis for any cost sharing allocations as 
+     well as anticipated repayment, if any, of federal 
+     contributions.
+       (c) Relationship to Other Law.--
+       (1) Reclamation laws.--Activities authorized by this Act 
+     shall not be subject to the Act of June 17, 1902 (32 Stat. 
+     388; 43 U.S.C. 391 et seq.), and Acts amendatory thereof and 
+     supplemental thereto. Amounts expended for those activities 
+     shall be considered nonreimbursable for purposes of those 
+     laws and shall not be considered to be a supplemental or 
+     additional benefit for purposes of the Reclamation Reform Act 
+     of 1982 (96 Stat. 1263; 43 U.S.C. 390aa et seq.).
+       (2) Preservation of rights and obligations with respect to 
+     the colorado river--This Act shall not be considered to 
+     supersede or otherwise affect any treaty, law, decree, 
+     contract, or agreement governing use of water from the 
+     Colorado River. All activities taken under this Act must be 
+     carried out in a manner consistent with rights 
+     and obligations of persons under those treaties, laws, 
+     decrees, contracts, and agreements.
+
+     SEC. 102. CONCURRENT WILDLIFE RESOURCES STUDIES.
+
+       (a) In General.--The Secretary shall provide for the 
+     conduct, concurrently with the feasibility study under 
+     section 101(b), of studies of hydrology, wildlife pathology, 
+     and toxicology relating to wildlife resources of the Salton 
+     Sea by Federal and non-Federal entities.
+       (b) Selection of Topics and Management of Studies.--
+       (1) In general.--The Secretary shall establish a committee 
+     to be known as the ``Salton Sea Research Management 
+     Committee''. The committee shall select the topics of studies 
+     under this section and manage those studies.
+       (2) Membership.--The committee shall consist of the 
+     following five members:
+       (A) The Secretary.
+       (B) The Governor of California.
+       (C) The Executive Director of the Salton Sea Authority.
+       (D) The Chairman of the Torres Martinez Desert Cahuilla 
+     Tribal Government.
+       (E) The Director of the California Water Resources Center.
+
+[[Page S12462]]
+
+       (c) Coordination.--The Secretary shall require that studies 
+     under this section are coordinated through the Science 
+     Subcommittee which reports to the Salton Sea Research 
+     Management Committee. In addition to the membership provided 
+     for by the Science Subcommittee's charter, representatives 
+     shall be invited from the University of California, 
+     Riverside; the University of Redlands; San Diego State 
+     University; the Imperial Valley College; and Los Alamos 
+     National Laboratory.
+       (d) Peer Review.--The Secretary shall require that studies 
+     under this section are subjected to peer review.
+       (e) Authorization of Appropriations.--For wildlife 
+     resources studies under this section there are authorized to 
+     be appropriated to the Secretary, through accounts within the 
+     Fish and Wildlife Service exclusively, $5,000,000.
+       (f) Advisory Committee Act.--The committee, and its 
+     activities, are not subject to the Federal Advisory Committee 
+     Act (5 U.S.C. app.).
+
+     SEC. 103. SALTON SEA NATIONAL WILDLIFE REFUGE RENAMED AS 
+                   SONNY BONO SALTON SEA NATIONAL WILDLIFE REFUGE.
+
+       (a) Refuge Renamed.--The Salton Sea National Wildlife 
+     Refuge, located in Imperial County, California, is hereby 
+     renamed and shall be known as the ``Sonny Bono Salton Sea 
+     National Wildlife Refuge'`.
+       (b) References.--Any reference in any statute, rule, 
+     regulation, executive order, publication, map, or paper or 
+     other document of the United States to the Salton Sea 
+     National Wildlife Refuge is deemed to refer to the Sonny Bono 
+     Salton Sea National Wildlife Refuge.
+
+TITLE II--EMERGENCY ACTION TO IMPROVE WATER QUALITY IN THE ALAMO RIVER 
+                             AND NEW RIVER
+
+     SEC. 201. ALAMO RIVER AND NEW RIVER IRRIGATION DRAINAGE 
+                   WATER.
+
+       (a) River Enhancement.--
+       (1) In general.--The Secretary is authorized and directed 
+     to promptly conduct research and construct river reclamation 
+     and wetlands projects to improve water quality in the Alamo 
+     River and New River, Imperial County, California, by treating 
+     water in those rivers and irrigation drainage water that 
+     flows into those rivers.
+       (2) Acquisitions.--The Secretary may acquire equipment, 
+     real property from willing sellers, and interests in real 
+     property (including site access) from willing sellers as 
+     needed to implement actions under this section if the State 
+     of California, a political subdivision of the State, or 
+     Desert Wildlife Unlimited has entered into an agreement with 
+     the Secretary under which the State, subdivision, or Desert 
+     Wildlife Unlimited, respectively, will, effective 1 year 
+     after the date that systems for which the acquisitions are 
+     made are operational and functional--
+       (A) accept all right, title, and interest in and to the 
+     equipment, property, or interests; and
+       (B) assume responsibility for operation and maintenance of 
+     the equipment, property, or interests.
+       (3) Transfer of title.--Not later than 1 year after the 
+     date a system developed under this section is operational and 
+     functional, the Secretary shall transfer all right, title, 
+     and interest of the United States in and to all equipment, 
+     property, and interests acquired for the system in accordance 
+     with the applicable agreement under paragraph (2).
+       (4) Monitoring and other actions.--The Secretary shall 
+     establish a long-term monitoring program to maximize the 
+     effectiveness of any wetlands developed under this title and 
+     may implement other actions to improve the efficacy of 
+     actions implemented pursuant to this section.
+       (b) Cooperation.--The Secretary shall implement subsection 
+     (a) in cooperation with the Desert Wildlife Unlimited, the 
+     Imperial Irrigation District, California, and other 
+     interested persons.
+       (c) Federal Water Pollution Control.--Water withdrawn 
+     solely for the purpose of a wetlands project to improve water 
+     quality under subsection (a)(1), when returned to the Alamo 
+     River or New River, shall not be required to meet water 
+     quality standards under the Federal Water Pollution Control 
+     Act (33 U.S.C. 1251 et seq.).
+       (d) Authorization of Appropriations.--For river reclamation 
+     and other irrigation drainage water treatment actions under 
+     this section, there are authorized to be appropriated to the 
+     Secretary $3,000,000.
+
+  Mr. GORTON. Mr. President, I ask unanimous consent that the amendment 
+be agreed to.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment (No. 3821) was agreed to.
+  Mr. GORTON. I ask unanimous consent that the bill, as amended, be 
+read a third time and passed, the title amendment be agreed to, the 
+motion to reconsider be laid upon the table, and that any statements 
+relating to the bill appear at the appropriate place in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The bill (H.R. 3267), as amended, was considered read the third time 
+and passed.
+
+       The title was amended so as to read: ``An act to direct the 
+     Secretary of the Interior, acting through the Bureau of 
+     Reclamation, to complete a feasibility study relating to 
+     the Salton Sea, and for other purposes.''.
+
+                          ____________________
+```
