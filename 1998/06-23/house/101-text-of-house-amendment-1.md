@@ -1,0 +1,68 @@
+---
+granule: CREC-1998-06-23-pt1-PgH5065-14
+date: 1998-06-23
+edition: CREC
+section: HOUSE
+page: H5065
+citation: 144 Cong. Rec. H5065
+---
+
+# Text of House Amendment 1
+
+**Speaking:** Gutierrez, Luis V. (G000535) [D-IL]
+
+**Measures:** H.R. 4112
+
+```
+H.R. 4112
+
+                       Offered By: Mr. Gutierrez
+
+       Amendment No. 1: In Title III--General Provisions--after 
+     the last section insert the following new section:
+     SEC. 310. The Architect of the Capitol--
+       (1) shall develop and implement a cost-effective energy 
+     conservation strategy for all facilities currently 
+     administered by Congress to achieve a net reduction of 20 
+     percent in energy consumption on the congressional campus 
+     compared to fiscal year 1991 consumption levels on a Btu-per-
+     gross-square-foot basis not later than 7 years after the 
+     adoption of this resolution;
+       (2) shall submit to Congress no later than 10 months after 
+     the adoption of this resolution a comprehensive energy 
+     conservation and management plan which includes life cycle 
+     costs methods to determine the cost-effectiveness of proposed 
+     energy efficiency projects;
+       (3) shall submit to the Committee on Appropriations in the 
+     Senate and the House of Representatives a request for the 
+     amount of appropriations necessary to carry out this 
+     resolution;
+       (4) shall present to Congress annually a report on 
+     congressional energy management and conservation programs 
+     which details energy expenditures for each facility, energy 
+     management and conservation projects, and future priorities 
+     to ensure compliance with the requirements of this 
+     resolution;
+       (5) shall perform energy surveys of all congressional 
+     buildings and update such surveys as needed;
+       (6) shall use such surveys to determine the cost and 
+     payback period of energy and water conservation measures 
+     likely to achieve the required energy consumption levels;
+       (7) shall install energy and water conservation measures 
+     that will achieve the requirements through previously 
+     determined life cycle cost methods and procedures;
+       (8) may contract with nongovernmental entities and employ 
+     private sector capital to finance energy conservation 
+     projects and achieve energy consumption targets;
+       (9) may develop innovative contracting methods that will 
+     attract private sector funding for the installation of 
+     energy-efficient and renewable energy technology to meet the 
+     requirements of this resolution;
+       (10) may participate in the Department of Energy's 
+     Financing Renewable Energy and Efficiency (FREE Savings) 
+     contracts program for Federal Government facilities; and
+       (11) shall produce information packages and ``how-to'' 
+     guides for each Member and employing authority of the 
+     Congress that detail simple, cost-effective methods to save 
+     energy and taxpayer dollars.
+```
