@@ -1,0 +1,132 @@
+---
+granule: CREC-1997-06-27-pt1-PgS6792-5
+date: 1997-06-27
+edition: CREC
+section: SENATE
+page: S6792
+citation: 143 Cong. Rec. S6792
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate June 27, 1997:
+
+
+                             the judiciary
+
+       James S. Ware, of California, to be U.S. Circuit Judge for 
+     the Ninth Circuit, vice J. Clifford Wallace, retired.
+
+
+                          in the marine corps
+
+       THE FOLLOWING-NAMED LIMITED DUTY OFFICERS FOR APPOINTMENT 
+     TO THE GRADES INDICATED IN THE U.S. MARINE CORPS UNDER TITLE 
+     10, UNITED STATES CODE SECTION 624:
+
+                        To be lieutenant colonel
+
+DEMETRICE M. BABB, 0000
+JOHN W. BLOODWORTH, JR. 0000
+DEBRA A. FLETCHER, 0000
+HAROLD J. GUILLORY, 0000
+MARIE G. JULIANO, 0000
+MARSHALL L. KINDRED, 0000
+PETER J. KOUTROUBA, 0000
+MICHAEL P. LINEHAM, 0000
+ALBERT A. LUCKEY, 0000
+DANIEL P. LYBERT, 0000
+HECTOR L. MELENDEZ, 0000
+LARRY T. MESSNER, 0000
+MICHAEL C. MONTCRIEFF, 0000
+WILLIAM J. RESAVY, JR., 0000
+TIMOTHY R. ROLLINS, 0000
+STANLEY D. TEMPLE, 0000
+JOHN M. THORNTON, 0000
+BERNDT H. TIETJEN, 0000
+MICHAEL K. TOELLNER, 0000
+
+                              To be major
+
+ERNEST D. BANKS, 0000
+THOMAS P. BARZDITIS, 0000
+BRAD W. BERGMAN, 0000
+WILLIAM BEROTTE, JR., 0000
+MICHAEL J. BISSONNETTE, 0000
+CARMINE J. BORRELLI, 0000
+JACK V. BUTLER, JR., 0000
+RICHARD W. BYNO, JR., 0000
+FRED M. CALLIES, 0000
+ARTHUR P. COCHRAN, 0000
+ROBERT N. CONQUEST, 0000
+JOSEPH A. COPPOLA, 0000
+NELLO E. DACHMAN, 0000
+GERARD F. DORRE, 0000
+ROURK A. ELLQUIST, 0000
+DOUGLAS M. FARLEY, 0000
+DAVID W. FISHER, 0000
+VERNON R. FREDERICK, JR., 0000
+MICHAEL J. GALLAGHER, 0000
+LOWELL B. GOUTREMOUT, JR., 0000
+RAYMOND L. KESSLER, 0000
+MARK A. KNOWLES, 0000
+RICHARD D. KOSS, 0000
+MICHAEL J. LEWIS, 0000
+JAMES R. LOGAN, 0000
+KEVIN F. MASON, 0000
+THOMAS P. MCCABE, 0000
+DANIEL J. MCLEAN, 0000
+WILLIAM A. MEZNARICH, JR., 0000
+WILLIE J. MOORE, 0000
+ROBERT M. REILLY, 0000
+THOMAS R. RICE, 0000
+GUILLERMO R. RIVERO, 0000
+CARL J. SCHEIDT, 0000
+SHANE D. SELLERS, 0000
+DANIEL L. SPEEDY, 0000
+LARRY E. SPICER, 0000
+STANLEY E. THOMAS, 0000
+DARRELL W. TIBBETS, JR., 0000
+JAMES E. TURNER, 0000
+GEORGE M. WYGANT, 0000
+JOHN E. ZEGER, JR., 0000
+
+
+                              in the army
+
+       THE FOLLOWING-NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE RESERVE OF THE ARMY UNDER TITLE 10, UNITED 
+     STATES CODE, SECTIONS 12203 and 1552:
+
+                             To be colonel
+
+TERRY L. BELVIN, 0000
+MYRON J. BERMAN, 0000
+ERWIN A. BURTNICK, 0000
+GARY W. GARDENHIRE, 0000
+GEORGE C. GOLLER II, 0000
+KNUTE M. MILLER, 0000
+JERRY W. RESHETAR, 0000
+JAMES SPECHT, 0000
+MARK O. WALSH, 0000
+GEORGE W. WELLS, JR., 0000
+JAMES A. ZERNICKE, 0000
+
+
+                department of health and human services
+
+       Nancy-Ann Minn Deparle, of Tennessee, to be Administrator 
+     of the Health Care Financing Administration, vice Bruce C. 
+     Vladeck.
+
+
+                       department of the treasury
+
+       David A. Lipton, of Massachusetts, to be an Under Secretary 
+     of the Treasury, vice Jeffrey R. Shafer, resigned.
+
+                          ____________________
+```
