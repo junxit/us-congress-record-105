@@ -1,0 +1,76 @@
+---
+granule: CREC-1997-02-25-pt1-PgH618
+date: 1997-02-25
+edition: CREC
+section: HOUSE
+page: H618
+citation: 143 Cong. Rec. H618
+---
+
+# SUPPLEMENTARY AGREEMENT ON SOCIAL SECURITY BETWEEN THE GOVERMENT OF UNITED STATES AND GOVERNMENT OF UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND--MESSAGE FROM THE PRESIDENT OF THE UNITED...
+
+```
+  SUPPLEMENTARY AGREEMENT ON SOCIAL SECURITY BETWEEN THE GOVERMENT OF 
+  UNITED STATES AND GOVERNMENT OF UNITED KINGDOM OF GREAT BRITAIN AND 
+ NORTHERN IRELAND--MESSAGE FROM THE PRESIDENT OF THE UNITED STATES (H. 
+                              DOC. 105-47)
+
+  The SPEAKER pro tempore laid before the House the following message 
+from the President of the United States; which was read and, together 
+with the accompanying papers, without objection, referred to the 
+Committee on Ways and Means and ordered to be printed:
+To the Congress of the United States:
+  Pursuant to section 233(e)(1) of the Social Security Act, as amended 
+by the Social Security Amendments of 1977 (Public Law 95-216, 42 U.S.C. 
+433(e)(1)), I transmit herewith the Supplementary Agreement Amending 
+the Agreement Between the Government of the United States of America 
+and the Government of the United Kingdom of Great Britain and Northern 
+Ireland on Social Security (the Supplementary Agreement), which 
+consists of two separate instruments: a principal agreement and an 
+administrative arrangement. The Supplementary Agreement, signed at 
+London on June 6, 1996, is intended to modify certain provisions of the 
+original United States-United Kingdom Social Security Agreement signed 
+at London February 13, 1984.
+  The United States-United Kingdom Social Security Agreement is similar 
+in objective to the social security agreements with Austria, Belgium, 
+Canada, Finland, France, Germany, Greece, Ireland, Italy, Luxembourg, 
+The Netherlands, Norway, Portugal, Spain, Sweden, and Switzerland. Such 
+bilateral agreements provide for limited coordination between the U.S. 
+and foreign social security systems to eliminate dual social security 
+coverage and taxation, and to help prevent the loss of benefit 
+protection that can occur when workers divide their careers between two 
+countries.
+  The Supplementary Agreement, which would amend the 1984 Agreement to 
+update and clarify several of its provisions, is necessitated by 
+changes that have occurred in U.S. and English law in recent years. 
+Among other things, the Supplementary Agreement removes certain 
+restrictions in the original agreement concerning payment of
+
+[[Page H619]]
+
+UK disability benefits to residents of the United States. The 
+Supplementary Agreement will also make a number of minor revisions in 
+the Agreement to take account of other changes in U.S. and English law 
+that have occurred in recent years.
+  The United States-United Kingdom Social Security Agreement, as 
+amended, would continue to contain all provisions mandated by section 
+233 and other provisions that I deem appropriate to carry out the 
+provisions of section 233, pursuant to section 233(c)(4) of the Act.
+  I also transmit for the information of the Congress a report prepared 
+by the Social Security Administration explaining the key points of the 
+Supplementary Agreement, along with a paragraph-by-paragraph 
+explanation of the effect of the amendments on the principal agreement 
+and the related administrative arrangement. Annexed to this report is 
+the report required by section 233(e)(1) of the Act on the effect of 
+the Agreement, as amended, on income and expenditures of the U.S. 
+Social Security program and the number of individuals affected by the 
+amended Agreement. The Department of State and the Social Security 
+Administration have recommended the Supplementary Agreement and related 
+documents to me.
+  I commend the United States-United Kingdom Social Security Agreement 
+and related documents.
+                                                  William J. Clinton.  
+  The White House, February 25, 1997.
+
+                          ____________________
+```
