@@ -1,0 +1,73 @@
+---
+granule: CREC-1997-01-09-pt1-PgS112-4
+date: 1997-01-09
+edition: CREC
+section: SENATE
+page: S112
+citation: 143 Cong. Rec. S112
+---
+
+# SENATE RESOLUTION 10--MAKING MAJORITY PARTY APPOINTMENTS TO CERTAIN SENATE COMMITTEES FOR THE 105TH CONGRESS
+
+**Measures:** S.Res. 10
+
+```
+  SENATE RESOLUTION 10--MAKING MAJORITY PARTY APPOINTMENTS TO CERTAIN 
+                SENATE COMMITTEES FOR THE 105TH CONGRESS
+
+  Mr. LOTT submitted the following resolution; which was considered and 
+agreed to:
+
+                               S. Res. 10
+
+       Resolved, That notwithstanding the provisions of Rule XXV, 
+     the following shall constitute the majority party's 
+     membership on the following standing committees for the 105th 
+     Congress, or until their successors are chosen:
+       Committee on Agriculture: Mr. Lugar (Chair), Mr. Helms, Mr. 
+     Cochran, Mr. McConnell, Mr. Coverdell, Mr. Santorum, Mr. 
+     Roberts, Mr. Grassley, Mr. Gramm of Texas, and Mr. Craig.
+       Appropriations: Mr. Stevens (Chair), Mr. Cochran, Mr. 
+     Specter, Mr. Domenici, Mr. Bond, Mr. Gorton, Mr. McConnell, 
+     Mr. Burns, Mr. Shelby, Mr. Gregg, Mr. Bennett, Mr. Campbell, 
+     Mr. Craig, Mr. Faircloth, and Mrs. Hutchison of Texas.
+       Committee on Armed Services: Mr. Thurmond (Chair), Mr. 
+     Warner, Mr. McCain, Mr. Coats, Mr. Smith of New Hampshire, 
+     Mr. Kempthorne, Mr. Inhofe, Mr. Santorum, Ms. Snowe, and Mr. 
+     Roberts.
+       Committee on Banking, Housing, and Urban Affairs: Mr. 
+     D'Amato (Chair), Mr. Gramm of Texas, Mr. Shelby, Mr. Mack, 
+     Mr. Faircloth, Mr. Bennett, Mr. Grams, Mr. Allard, Mr. Enzi, 
+     and Mr. Hagel.
+       Committee on Commerce, Science, and Transportation: Mr. 
+     McCain (Chair), Mr. Stevens, Mr. Burns, Mr. Gorton, Mr. Lott, 
+     Mrs. Hutchison of Texas, Ms. Snowe, Mr. Ashcroft, Mr. Frist, 
+     Mr. Abraham, and Mr. Brownback.
+       Committee on Energy and Natural Resources: Mr. Murkowski 
+     (Chair), Mr. Domenici, Mr. Nickles, Mr. Craig, Mr. Campbell, 
+     Mr. Thomas, Mr. Kyl, Mr. Grams, Mr. Smith of Oregon, Mr. 
+     Gorton, and Mr. Burns.
+       Committee on Environment and Public Works: Mr. Chafee 
+     (Chair), Mr. Warner, Mr. Smith of New Hampshire, Mr. 
+     Kempthorne, Mr. Inhofe, Mr. Thomas, Mr. Bond, Mr. Hutchinson 
+     of Arkansas, Mr. Allard, and Mr. Sessions.
+       Committee on Finance: Mr. Roth (Chair), Mr. Chafee, Mr. 
+     Grassley, Mr. Hatch, Mr. D'Amato, Mr. Murkowski, Mr. Nickles, 
+     Mr. Gramm of Texas, Mr. Lott, Mr. Jeffords, and Mr. Mack.
+       Committee on Foreign Relations: Mr. Helms (Chair), Mr. 
+     Lugar, Mr. Coverdell, Mr. Hagel, Mr. Smith of Oregon, Mr. 
+     Thomas, Mr. Ashcroft, Mr. Grams, Mr. Frist, and Mr. 
+     Brownback.
+       Committee on Governmental Affairs: Mr. Thompson (Chair), 
+     Mr. Roth, Mr. Stevens, Ms. Collins, Mr. Brownback, Mr. 
+     Domenici, Mr. Cochran, Mr. Nickles, and Mr. Specter.
+       Committee on the Judiciary: Mr. Hatch (Chair), Mr. 
+     Thurmond, Mr. Grassley, Mr. Specter, Mr. Thompson, Mr. Kyl, 
+     Mr. DeWine, and Mr. Ashcroft.
+       Committee on Labor and Human Resources: Mr. Jeffords 
+     (Chair), Mr. Coats, Mr. Gregg, Mr. Frist, Mr. DeWine, Mr. 
+     Enzi, Mr. Hutchinson of Arkansas, Ms. Collins, Mr. Warner, 
+     and Mr. McConnell.
+
+                          ____________________
+```
