@@ -1,0 +1,63 @@
+---
+granule: CREC-1998-10-19-pt1-PgH11043-6
+date: 1998-10-19
+edition: CREC
+section: HOUSE
+page: H11043
+citation: 144 Cong. Rec. H11043
+---
+
+# DESIGNATION OF HON. EDWARD A. PEASE TO ACT AS SPEAKER PRO TEMPORE TO SIGN ENROLLED BILLS AND JOINT RESOLUTIONS THROUGH OCTOBER 20, 1998
+
+```
+ DESIGNATION OF HON. EDWARD A. PEASE TO ACT AS SPEAKER PRO TEMPORE TO 
+   SIGN ENROLLED BILLS AND JOINT RESOLUTIONS THROUGH OCTOBER 20, 1998
+
+  The SPEAKER pro tempore laid before the House the following 
+communication from the Speaker:
+
+
+                                                                                                                
+                                                                                                                
+-----------------------------------------------------------------------------------------------------------------
+                                                   N O T I C E                                                  
+                                                                                                                
+    If the 105th Congress adjourns sine die on or before October 20, 1998, a final issue of the Congressional   
+ Record for the 105th Congress will be published on October 28, 1998, in order to permit Members to revise and  
+ extend their remarks.                                                                                          
+    All material for insertion must be signed by the Member and delivered to the respective offices of the      
+ Official Reporters of Debates (Room HT-60 or S-123 of the Capitol), Monday through Friday, between the hours of
+ 10:00 a.m. and 3:00 p.m. through October 27. The final issue will be dated October 28, 1998, and will be       
+ delivered on Thursday, October 29.                                                                             
+    If the 105th Congress does not adjourn until a later date in 1998, the final issue will be printed at a date
+ to be announced.                                                                                               
+    None of the material printed in the final issue of the Congressional Record may contain subject matter, or  
+ relate to any event that occurred after the sine die date.                                                     
+    Senators' statements should also be submitted electronically, either on a disk to accompany the signed      
+ statement, or by e-mail to the Official Reporters of Debates at ``Records@Reporters''.                         
+    Members of the House of Representatives' statements may also be submitted electronically on a disk to       
+ accompany the signed statement and delivered to the Official Reporter's office in room HT-60.                  
+    Members of Congress desiring to purchase reprints of material submitted for inclusion in the Congressional  
+ Record may do so by contacting the Congressional Printing Management Division, at the Government Printing      
+ Office, on 512-0224, between the hours of 8:00 a.m. and 4:00 p.m. daily.                                       
+    By order of the Joint Committee on Printing.                                                                
+                                                                        JOHN W. WARNER, Chairman.               
+----------------------------------------------------------------------------------------------------------------
+
+
+[[Page H11044]]
+
+                                               Washington, DC,
+
+                                                 October 19, 1998.
+       I hereby designate the Honorable Edward A. Pease to act as 
+     Speaker pro tempore to sign enrolled bills and joint 
+     resolutions through October 20, 1998.
+                                                    Newt Gingrich,
+                          Speaker of the House of Representatives.
+  The SPEAKER pro tempore. Without objection, the designation is agreed 
+to.
+  There was no objection.
+
+                          ____________________
+```
