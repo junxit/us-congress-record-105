@@ -1,0 +1,171 @@
+---
+granule: CREC-1998-06-09-pt1-PgH4296-5
+date: 1998-06-09
+edition: CREC
+section: HOUSE
+page: H4296
+citation: 144 Cong. Rec. H4296
+---
+
+# INTERNATIONAL CRIME CONTROL ACT OF 1998--MESSAGE FROM THE PRESIDENT OF THE UNITED STATES
+
+```
+INTERNATIONAL CRIME CONTROL ACT OF 1998--MESSAGE FROM THE PRESIDENT OF 
+                           THE UNITED STATES
+
+  The SPEAKER pro tempore laid before the House the following message 
+from the President of the United States; which was read and, together 
+with accompanying papers, without objection, referred to the Committee 
+on the Judiciary, the Committee on Commerce, the Committee on 
+Transportation and Infrastructure, the Committee on Ways and Means, the 
+Committee on Government Reform and Oversight, the Committee on Banking 
+and Financial Services, and the Committee on International Relations, 
+and ordered to be printed:
+
+To the Congress of the United States:
+  I am transmitting for immediate consideration and enactment the 
+``International Crime Control Act of 1998''(ICCA). The ICCA is one of 
+the foremost initiatives highlighted in my Administration's 
+International Crime Control Strategy, which I announced on May 12, 
+1998. The proposed legislation would substantially improve the ability 
+of U.S. law enforcement agencies to investigate and prosecute 
+international criminals, seize their money and assets, intercept them 
+at our borders, and prevent them from striking at our people and 
+institutions.
+  Advances in technology, the resurgence of democracy, and the lowering 
+of global political and economic barriers have brought increased 
+freedom and higher living standards to countries around the world, 
+including our own. However, these changes have also provided new 
+opportunities for international criminals trafficking in drugs, 
+firearms, weapons of mass destruction, and human beings, and engaging 
+in fraud, theft, extortion, and terrorism.
+  In response to these formidable threats to the American people, I 
+have directed the Departments of Justice, State, and the Treasury, as 
+well as the Federal law enforcement and intelligence communities, to 
+intensify their ongoing efforts to combat international crime. In order 
+to carry out this mandate most effectively, the many departments and 
+agencies involved need the additional tools in the proposed ICCA that 
+will enhance Federal law enforcement authority in several key areas, 
+close gaps in existing laws, and facilitate global cooperation against 
+international crime.
+
+[[Page H4297]]
+
+  The ICCA's provisions focus on seven essential areas to improve the 
+Federal Government's ability to prevent, investigate, and punish 
+international crimes and criminals:
+
+
+  (1) investigating and punishing acts of violence committed against 
+                            americans abroad
+
+  --Broadens existing criminal law to authorize the investigation and 
+    punishment of organized crime groups who commit serious criminal 
+    acts against Americans abroad. (Current law generally requires a 
+    link to terrorist activity.)
+  --Provides jurisdiction in the United States over violent acts 
+    committed abroad against State and local officials while in other 
+    countries on official Federal business.
+
+
+           (2) strengthening u.s. air, land, and sea borders
+
+  --Increases penalties for smugglers who endanger Federal law 
+    enforcement officials seeking to interdict their activities, 
+    introducing the Federal criminal offense of ``portrunning'' (i.e., 
+    evading border inspections, often through the use of force).
+  --Addresses gaps in current law relating to maritime drug 
+    interdiction operations, introducing the criminal offense of 
+    failing to stop (``heave to'') a vessel at the direction of a Coast 
+    Guard or other Federal law enforcement official seeking to board 
+    that vessel.
+  --Provides clear authority to search international, outbound letter-
+    class mail if there is reasonable cause to suspect that the mail 
+    contains monetary instruments, drugs, weapons of mass destruction, 
+    or merchandise mailed in violation of several enumerated statutes 
+    (including obscenity and export control laws).
+  --Broadens the ability to prosecute criminals smuggling goods out of 
+    the United States.
+
+
+           (3) denying safe haven to international fugitives
+
+  --Authorizes the extradition, in certain circumstances, of suspected 
+    criminals to foreign nations in two separate cases not covered by a 
+    treaty: (1) when the United States has an extradition treaty with 
+    the nation, but the applicable treaty is an outdated ``list'' 
+    treaty that does not cover the offense for which extradition is 
+    sought; and (2) when the United States does not have an extradition 
+    treaty with the requesting nation.
+  --Provides for exclusion from the United States of drug traffickers 
+    and their immediate family members and of persons who attempt to 
+    enter the United States in order to avoid prosecution in another 
+    country.
+
+
+    (4) seizing and forfeiting the assets of international criminals
+
+  --Expands the list of money laundering ``predicate crimes'' to 
+    include certain violent crimes, international terrorism, and 
+    bribery of public officials, thus increasing the availability of 
+    money laundering enforcement tools.
+  --Broadens the definition of ``financial institution'' to include 
+    foreign banks, thereby closing a loophole involving criminally 
+    derived funds laundered through foreign banks doing business here.
+  --Provides new tools to crack down on businesses illegally 
+    transmitting money, and to investigate money laundering under the 
+    Bank Secrecy Act.
+  --Toughens penalties for violations of the International Emergency 
+    Economic Powers Act.
+  --Criminalizes attempted violations of the Trading With the Enemy 
+    Act.
+
+
+        (5) responding to emerging international crime problems
+
+  --Enhances enforcement tools for combating arms trafficking, 
+    including requiring ``instant checks'' of the criminal history of 
+    those acquiring explosive materials from Federal licensees and 
+    clarifying Federal authority to conduct undercover transactions 
+    subject to the Arms Export Control Act for investigative purposes.
+  --Addresses the increasing problem of alien smuggling by authorizing 
+    the forfeiture of the proceeds and all instrumentalities of alien 
+    smuggling.
+  --Cracks down on the international shipment of ``precursor 
+    chemicals'' used to manufacture illicit drugs, primarily by 
+    authorizing the Drug Enforcement Administration to require 
+    additional ``end-use'' verification.
+  --Provides extraterritorial jurisdiction for fraud involving credit 
+    cards and other ``access devices,'' which cost U.S. businesses 
+    hundreds of millions of dollars every year.
+  --Authorizes wiretapping for investigations of felony computer crime 
+    offenses.
+
+
+                    (6) promoting global cooperation
+
+  --Expands the authority of U.S. law enforcement agencies to share the 
+    seized assets of international criminals with foreign law 
+    enforcement agencies.
+  --Provides new authority, applicable in cases where there is no 
+    mutual legal assistance treaty provision, to transfer a person in 
+    United States Government custody to a requesting country 
+    temporarily for purposes of a criminal proceeding.
+
+
+  (7) streamlining the investigation and prosecution of international 
+                          crime in u.s. courts
+
+  --Authorizes the Attorney General to use funds to defray translation, 
+    transportation, and other costs of State and local law enforcement 
+    agencies in cases involving fugitives or evidence overseas.
+  --Facilitates the admission into evidence in U.S. court proceedings 
+    of certain foreign government records.
+  The details of this proposal are described in the enclosed section-
+by-section analysis. I urge the prompt and favorable consideration of 
+this legislative proposal by the Congress.
+                                                  William J. Clinton.  
+  The White House, June 9, 1998.
+
+                          ____________________
+```
