@@ -1,0 +1,74 @@
+---
+granule: CREC-1998-06-16-pt1-PgH4633-8
+date: 1998-06-16
+edition: CREC
+section: HOUSE
+page: H4633
+citation: 144 Cong. Rec. H4633
+---
+
+# Text of House Amendment 86
+
+**Speaking:** Doolittle, John T. (D000429) [R-CA]
+
+**Measures:** H.R. 2183
+
+```
+H.R. 2183
+
+                       Offered By: Mr. Doolittle
+
+         (To the Amendment Offered By: Mr. Shays or Mr. Meehan)
+
+       Amendment No. 86: Add at the end the following new title:
+
+ TITLE __--TERMINATION OF TAXPAYER FINANCING OF PRESIDENTIAL ELECTION 
+                               CAMPAIGNS
+
+     SEC. __01. TERMINATION OF TAXPAYER FINANCING OF PRESIDENTIAL 
+                   ELECTION CAMPAIGNS.
+
+       (a) Termination of Designation of Income Tax Payments.--
+     Section 6096 of the Internal Revenue Code of 1986 is amended 
+     by adding at the end the following new subsection:
+       ``(d) Termination.--This section shall not apply to taxable 
+     years beginning after December 31, 1998.''
+       (b) Termination of Fund and Account.--
+       (1) Termination of presidential election campaign fund.--
+       (A) In general.--Chapter 95 of subtitle H of such Code is 
+     amended by adding at the end the following new section:
+
+     ``SEC. 9014. TERMINATION.
+
+     ``The provisions of this chapter shall not apply with respect 
+     to any presidential election (or any presidential nominating 
+     convention) after December 31, 1998, or to any candidate in 
+     such an election.''
+       (B) Transfer of excess funds to general fund.--Section 9006 
+     of such Code is amended by adding at the end the following 
+     new subsection:
+       ``(d) Transfer of Funds Remaining After 1998.--The 
+     Secretary shall transfer all amounts in the fund after 
+     December 31, 1998, to the general fund of the Treasury.''
+       (2) Termination of account.--Chapter 96 of subtitle H of 
+     such Code is amended by adding at the end the following new 
+     section:
+
+     ``SEC. 9043. TERMINATION.
+
+     ``The provisions of this chapter shall not apply to any 
+     candidate with respect to any presidential election after 
+     December 31, 1998.''
+       (c) Clerical Amendments.--
+       (1) The table of sections for chapter 95 of subtitle H of 
+     such Code is amended by adding at the end the following new 
+     item:
+
+``Sec. 9014. Termination.''
+
+       (2) The table of sections for chapter 96 of subtitle H of 
+     such Code is amended by adding at the end the following new 
+     item:
+
+``Sec. 9043. Termination.''
+```
