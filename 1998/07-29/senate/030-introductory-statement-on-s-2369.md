@@ -1,0 +1,1789 @@
+---
+granule: CREC-1998-07-29-pt1-PgS9244
+date: 1998-07-29
+edition: CREC
+section: SENATE
+page: S9244
+citation: 144 Cong. Rec. S9244
+---
+
+# Introductory Statement on S. 2369
+
+**Speaking:** Roth Jr., William V. (R000460) [R-DE]
+
+**Measures:** S. 2369
+
+```
+      By Mr. Roth:
+  S. 2369. A bill to amend the Social Security Act to establish the 
+Personal Retirement Accounts Program; to the Committee on Finance.
+
+
+              the personal retirement accounts act of 1998
+
+  Mr. ROTH. Mr. President, I rise today to introduce the Personal 
+Retirement Accounts Act of 1998. This legislation has a simple but 
+powerful purpose--to establish personal retirement accounts for working 
+Americans. In my view, these accounts promise to give working Americans 
+not only a more secure retirement future but a new stake in the 
+Nation's economic growth. And, as I will describe, these accounts may 
+provide the model for future Social Security reform.
+  A few years ago personal retirement accounts were an exotic and even 
+controversial concept. But no longer! In 1996, a majority of a Clinton 
+Administration task force on Social Security reform endorsed the 
+concept. Today, personal retirement accounts are a bipartisan, even 
+mainstream, idea. In March, Senator Moynihan, the ranking Democrat on 
+the Finance Committee, and Senator Kerrey introduced legislation that 
+would create retirement accounts as part of an overhaul of Social 
+Security.
+  And earlier this month, bipartisan, bicameral Social Security reform 
+legislation that included personal retirement accounts was introduced 
+by Senators Gregg and Breaux in the Senate, and by Congressmen Kolbe 
+and Stenholm in the House. Their bill is based on the unanimous 
+recommendations of a privately sponsored National Commission on 
+Retirement Policy--comprised of 24 lawmakers, economists, pension 
+experts, and businessmen.
+  Yesterday, at a Social Security town hall meeting in Albquqerque, NM, 
+the President said he had an ``open mind'' on personal retirement 
+accounts. And in testimony before the Senate Finance Committee last 
+week, a top Clinton Administration official offered several guidelines 
+for designing such accounts, including efficiency, such as low 
+administrative costs, and protection of the progressive benefits. My 
+bill meets these guidelines.
+  Mr. President, let me explain why retirement accounts find so much 
+support--not only in Congress but among the American people. With even 
+conservative investment, such accounts have the potential to provide 
+Americans with a substantial retirement nest egg, and an estate they 
+can leave to their children and grandchildren.
+  Creating these accounts would also give the majority of Americans who 
+do not own any investment assets a new stake in America's economic 
+growth--because that growth will be returned directly to their benefit. 
+More Americans will be the owners of capital--not just workers.
+  Creating these accounts may encourage Americans to save more. Today, 
+Americans save less than people in almost every other country. But 
+personal
+
+[[Page S9245]]
+
+retirement accounts will demonstrate to all Americans the magic of 
+compound interest as even small savings grow significantly over time.
+  Lastly, creating these accounts will help Americans to better prepare 
+for retirement. According to the CRS, 60 percent of Americans are not 
+actively participating in a retirement program other than Social 
+Security. A recent survey by the Employee Benefits Research Institute 
+found that only about 45 percent of working Americans have tried to 
+calculate how much they will need for retirement. It is my belief that 
+retirement accounts will prompt Americans--particularly baby boomers--
+to think more about retirement planning.
+  Mr. President, let me describe a few of the features of my bill. 
+First, the program would run for 5 years, from 1999 to 2003, utilizing 
+half the budget surplus projected by CBO earlier this month.
+  Each year, every working American who earned a minimum of 4 quarters 
+of Social Security coverage--about $2,900 in 1999--would receive a 
+deposit in his or her personal retirement account. About 127 million 
+Americans would receive a deposit in 1999.
+  The formula for sharing the surplus among the accounts is 
+progressive. Each eligible individual would receive a minimum amount of 
+$250 per year, plus an additional amount based on how much they paid in 
+payroll taxes.
+  Over the life of the program, a minimum wage earner--someone earning 
+$12,400 this year--would receive about $1,720. That amount is equal to 
+a 34-percent rebate of his or her payroll taxes.
+  An average wage earner--earning $27,600--would receive about $2,300--
+equal to a 20-percent rebate of payroll taxes. And an individual who 
+paid the maximum Social Security tax would get $3,840, a 14-percent 
+rebate of payroll taxes. These figures do not include any investment 
+income or deductions for the costs of running the program.
+  Account holders would have three investment choices--prudent choices 
+that balance risk and return. The three choices are a stock index 
+fund--a mutual fund that reflects the overall performance of the stock 
+market; a fund that invests in corporate bonds and other fixed income 
+securities; and a fund that invests in U.S. Treasury bonds.
+  However, my legislation also provides for a study of additional 
+investment options--of other types of investment funds and investment 
+managers.
+
+  An account holder would become eligible for benefits when he or she 
+signs up for Social Security. An individual could choose between an 
+annuity or annual payments based on life expectancy.
+  The bill also provides a number of features to ensure the program is 
+properly run. First, the program would be neither on budget nor off 
+budget. Instead, the program would be outside the Federal budget. The 
+money in the program could be used for no other purpose than retirement 
+benefits and the program's operating expenses.
+  Second, the program would be supervised by a new, independent 
+Personal Retirement Board, with members appointed by the President and 
+Congressional leaders and subject to Senate confirmation. Board 
+officials would be fiduciaries, and required by law to act only in the 
+best financial interests of beneficiaries.
+  Lastly, the stock funds would be managed by private sector investment 
+managers. To insulate companies represented in the stock funds from 
+politics, no board official or other government employee would be 
+eligible to vote company proxies--only the investment managers.
+  Mr. President, the design of this personal retirement accounts plan 
+follows a proven model--the Federal Thrift Savings Plan. Back in 1983, 
+when I was Chairman of the Governmental Affairs Committee, the 
+retirement program for Federal employees needed to be revamped. One of 
+the new elements we added was the Federal Thrift Savings Plan--a 
+defined contribution employee benefit plan--that has been a great 
+success.
+  Mr. President, many Americans will undoubtedly ask, ``What size nest 
+egg might grow in my personal retirement account?'' According to an 
+analysis done by Social Security's actuaries, someone earning the 
+minimum wage would have an account worth about $2,150 in 2004, assuming 
+a 7.5 percent interest rate. For the average wage earner, the account 
+would be worth about $2,870, and for the individual paying the maximum 
+Social Security tax, about $4,770.
+  Of course, over the long term, accounts can grow significantly. For 
+the minimum wage person, after 40 years--in 2039--his or her account 
+would be worth about $27,000; the average wage earner would have 
+$36,000; and the person paying the maximum payroll tax, $60,000.
+  Mr. President, some might ask, ``Why start with personal retirement 
+accounts rather than proposing comprehensive Social Security reform?'' 
+Indeed, my bill will not affect the current Social Security program. 
+Personal retirement accounts are an exciting concept, but still a big 
+job, requiring careful work by the Finance Committee.
+  And unlike many other Social Security reform proposals, retirement 
+accounts have broad support. So let's get these accounts up and 
+running, proven and tested, while Congress considers carefully 
+protecting and preserving Social Security for the long term.
+  Mr. President, in closing, let me add that personal retirement 
+accounts have another big promise. Such accounts--if later made a part 
+of Social Security--may help restore the confidence of the American 
+people in Social Security. Polls show that Social Security is among the 
+most popular of government programs, deservedly so. But many 
+Americans--particularly young Americans--appear to have lost confidence 
+in the program. They believe that there will be no benefits for them 
+when they retire. Personal retirement accounts will provide the 
+accountability and assurances that Americans are asking for.
+  I encourage my colleagues to take a careful look at my bill, and I 
+invite members to co-sponsor it.
+  Mr. President, I ask for unanimous consent that a copy of this bill 
+be printed into the Record.
+  There being no objection, the bill was ordered to be printed in the 
+Record, as follows:
+
+                                S. 2369
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+       (a) Short Title.--This Act may be cited as the ``Personal 
+     Retirement Accounts Act of 1998''.
+       (b) Table of Contents.--The table of contents of this Act 
+     is as follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Findings.
+Sec. 3. Save Social Security First Trust Fund.
+Sec. 4. Establishment of Personal Retirement Accounts Program.
+
+            ``TITLE I--PERSONAL RETIREMENT ACCOUNTS PROGRAM
+
+  ``Subtitle A--Management of the Personal Retirement Accounts Program
+
+``Sec. 101. Personal Retirement Accounts Board.
+``Sec. 102. Executive director.
+
+   ``Subtitle B--Establishment of Personal Retirement Savings Fund; 
+                      Personal Retirement Accounts
+
+``Sec. 111. Appropriations; annual transfers to the Personal Retirement 
+              Savings Fund.
+``Sec. 112. Personal Retirement Savings Fund.
+``Sec. 113. Personal retirement accounts.
+
+  ``Subtitle C--Investment and Administration of Personal Retirement 
+                                Accounts
+
+``Sec. 121. Investment of personal retirement accounts.
+``Sec. 122. Accounting and information.
+``Sec. 123. Distribution of benefits.
+``Sec. 124. Annuities: methods of payment; election; purchase.
+``Sec. 125. Protections for spouses and former spouses.
+``Sec. 126. Designation of beneficiary; order of precedence.
+``Sec. 127. Tax treatment of the Personal Retirement Savings Fund.
+``Sec. 128. Administrative provisions.
+
+                 ``Subtitle D--Beneficiary Protections
+
+``Sec. 131. Fiduciary responsibilities; liability and penalties.
+``Sec. 132. Bonding.
+``Sec. 133. Investigative authority.
+``Sec. 134. Exculpatory provisions; insurance.
+Sec. 5. Report and recommendations regarding investment options.
+
+     SEC. 2. FINDINGS.
+
+       Congress makes the following findings:
+       (1) The social security program is the foundation of 
+     retirement income for most Americans, and solving the 
+     financial problems of the social security program is a vital 
+     national priority and essential for the retirement security 
+     of today's working Americans and their families.
+
+[[Page S9246]]
+
+       (2) There is a growing bipartisan consensus that personal 
+     retirement accounts should be an important feature of social 
+     security reform.
+       (3) Personal retirement accounts can provide a substantial 
+     retirement nest egg and real personal wealth. For an 
+     individual 28 years old on the date of enactment of this Act, 
+     earning an average wage, and retiring at age 65 in 2035, just 
+     1 percent of that individual's wages deposited each year in a 
+     personal retirement account and invested in securities 
+     consisting of the Standard & Poors 500 would grow to 
+     $132,000, and be worth approximately 20 percent of the 
+     benefits that would be provided to the individual under the 
+     current provisions of the social security program.
+       (4) Personal retirement accounts would give the majority of 
+     Americans who do not own any investment assets a new stake in 
+     the economic growth of America.
+       (5) Personal retirement accounts would demonstrate the 
+     value of savings and the magic of compound interest to all 
+     Americans. Today, Americans save less than people in almost 
+     every other country.
+       (6) Personal retirement accounts would help Americans to 
+     better prepare for retirement generally. According to the 
+     Congressional Research Service, 60 percent of Americans are 
+     not actively participating in a retirement plan other than 
+     social security, although social security was never intended 
+     to be the sole source of retirement income.
+       (7) The Federal budget will register a surplus of 
+     $583,000,000,000 over fiscal years 1998 through 2003, 
+     offering a unique opportunity to begin a permanent solution 
+     to social security's financing.
+       (8) Using the Federal budget surplus to fund personal 
+     retirement accounts would be an important first step in 
+     comprehensive social security reform and ensuring the 
+     delivery of promised retirement benefits.
+
+     SEC. 3. SAVE SOCIAL SECURITY FIRST TRUST FUND.
+
+       (a) Establishment of Trust Fund.--There is established in 
+     the Treasury of the United States a trust fund to be known as 
+     the ``Save Social Security First Trust Fund'' (in this 
+     section referred to as the ``Trust Fund''), consisting of 
+     such amounts as are appropriated or credited to the Trust 
+     Fund as provided in this section.
+       (b) Appropriation to Trust Fund.--There is appropriated to 
+     the Trust Fund, out of any sums in the Treasury not otherwise 
+     appropriated, an amount equal to $31,500,000,000 for fiscal 
+     year 1998 and $40,000,000,000 for fiscal year 1999. The 
+     Secretary of the Treasury shall transfer such amounts to the 
+     Trust Fund not later than--
+       (1) September 30, 1998, in the case of the amount 
+     appropriated for fiscal year 1998; and
+       (2) September 30, 1999, in the case of the amount 
+     appropriated for fiscal year 1999.
+       (c) Investment of Trust Fund.--The Secretary of the 
+     Treasury shall invest the Trust Fund in public debt 
+     securities with suitable maturities and bearing interest at 
+     rates determined by the Secretary, taking into consideration 
+     current market yields on outstanding marketable obligations 
+     of the United States of comparable maturities. The income on 
+     such investments shall be credited to and form a part of the 
+     Trust Fund.
+       (d) Limitation on Use of Trust Fund.--Amounts in the Trust 
+     Fund shall not be appropriated or used for any purpose other 
+     than to be transferred to the Personal Retirement Savings 
+     Fund established under section 112 of the Social Security Act 
+     in accordance with section 111(b)(1) of such Act.
+       (e) Dissolution of Trust Fund.--On the date of the transfer 
+     of all amounts in the Trust Fund to the Personal Retirement 
+     Savings Fund in accordance with section 111(b)(1) of the 
+     Social Security Act, the Trust Fund established under this 
+     section shall be dissolved.
+
+     SEC. 4. ESTABLISHMENT OF PERSONAL RETIREMENT ACCOUNTS 
+                   PROGRAM.
+
+       The Social Security Act (42 U.S.C. 301 et seq.) is 
+     amended--
+       (1) by redesignating title I as title VI; and
+       (2) by inserting before title II the following:
+            ``TITLE I--PERSONAL RETIREMENT ACCOUNTS PROGRAM
+  ``Subtitle A--Management of the Personal Retirement Accounts Program
+
+     ``SEC. 101. PERSONAL RETIREMENT ACCOUNTS BOARD.
+
+       ``(a) Establishment.--There is established in the Executive 
+     Branch of the Government a Personal Retirement Accounts Board 
+     (in this title referred to as the `Board').
+       ``(b) Composition.--The Board shall be composed of--
+       ``(1) 3 members appointed by the President, of whom 1 shall 
+     be designated by the President as Chairman; and
+       ``(2) 2 members appointed by the President, of whom--
+       ``(A) 1 shall be appointed by the President after taking 
+     into consideration the recommendation made by the Speaker of 
+     the House of Representatives in consultation with the 
+     Minority Leader of the House of Representatives; and
+       ``(B) 1 shall be appointed by the President after taking 
+     into consideration the recommendation made by the Majority 
+     Leader of the Senate in consultation with the Minority Leader 
+     of the Senate.
+       ``(c) Advice and Consent.--Appointments under subsection 
+     (b) shall be made by and with the advice and consent of the 
+     Senate.
+       ``(d) Membership Requirements.--Members of the Board shall 
+     have substantial experience, training, and expertise in the 
+     management of financial investments and pension benefit 
+     plans.
+       ``(e) Length of Appointments.--
+       ``(1) Terms.--A member of the Board shall be appointed for 
+     a term of 4 years, except that of the members first appointed 
+     under subsection (b)--
+       ``(A) the Chairman shall be appointed for a term of 4 
+     years;
+       ``(B) the members appointed under subsection (b)(2) shall 
+     be appointed for terms of 3 years; and
+       ``(C) the remaining members shall be appointed for terms of 
+     2 years.
+       ``(2) Vacancies.--
+       ``(A) In general.--A vacancy on the Board shall be filled 
+     in the manner in which the original appointment was made and 
+     shall be subject to any conditions that applied with respect 
+     to the original appointment.
+       ``(B) Completion of term.--An individual chosen to fill a 
+     vacancy shall be appointed for the unexpired term of the 
+     member replaced.
+       ``(3) Expiration.--The term of any member shall not expire 
+     before the date on which the member's successor takes office.
+       ``(f) Duties.--The Board shall--
+       ``(1) administer the program established under this title;
+       ``(2) establish policies for the investment and management 
+     of the Personal Retirement Savings Fund, including policies 
+     applicable to the outside entities and qualified professional 
+     asset managers with responsibility for managing the 
+     investment options described in section 121(b), that shall 
+     provide for--
+       ``(A) prudent investments suitable for accumulating funds 
+     for payment of retirement income; and
+       ``(B) low administrative costs.
+       ``(3) review the performance of investments made for the 
+     Personal Retirement Savings Fund;
+       ``(4) review and approve the budget of the Board; and
+       ``(5) comply with the provisions of subtitle D.
+       ``(g) Administrative Provisions.--
+       ``(1) In general.--The Board may--
+       ``(A) adopt, alter, and use a seal;
+       ``(B) except as provided in paragraph (2), direct the 
+     Executive Director to take such action as the Board considers 
+     appropriate to carry out the provisions of this title and the 
+     policies of the Board;
+       ``(C) upon the concurring votes of 4 members, remove the 
+     Executive Director from office for good cause shown; and
+       ``(D) take such other actions as may be necessary to carry 
+     out the functions of the Board.
+       ``(2) Meetings.--The Board shall meet--
+       ``(A) not less than once during each month; and
+       ``(B) at additional times at the call of the Chairman.
+       ``(3) Exercise of powers.--
+       ``(A) In general.--Except as provided in paragraph (1)(C) 
+     and section 102(a)(1), the Board shall perform the functions 
+     and exercise the powers of the Board on a majority vote of a 
+     quorum of the Board. Three members of the Board shall 
+     constitute a quorum for the transaction of business.
+       ``(B) Vacancies.--A vacancy on the Board shall not impair 
+     the authority of a quorum of the Board to perform the 
+     functions and exercise the powers of the Board.
+       ``(4) Limitation on investments.--Except in the case of 
+     investments required by section 121 to be invested in 
+     securities of the Government, the Board may not direct the 
+     Executive Director to invest or to cause to be invested any 
+     sums in the Personal Retirement Savings Fund in a specific 
+     asset or to dispose of or cause to be disposed of any 
+     specific asset of such Fund.
+       ``(h) Compensation.--
+       ``(1) In general.--Each member of the Board who is not an 
+     officer or employee of the Federal Government shall be 
+     compensated at the daily rate of basic pay for level IV of 
+     the Executive Schedule for each day during which such member 
+     is engaged in performing a function of the Board.
+       ``(2) Expenses.--A member of the Board shall be paid 
+     travel, per diem, and other necessary expenses under 
+     subchapter I of chapter 57 of title 5, United States Code, 
+     while traveling away from such member's home or regular place 
+     of business in the performance of the duties of the Board.
+       ``(3) Source of funds.--Payments authorized under this 
+     subsection shall be paid from the Personal Retirement Savings 
+     Fund.
+       ``(i) Discharge of Responsibilities.--The members of the 
+     Board shall discharge their responsibilities solely in the 
+     interest of account holders and beneficiaries under this 
+     title.
+       ``(j) Annual Independent Audit.--The Board shall annually 
+     engage an independent qualified public accountant to audit 
+     the activities of the Board.
+       ``(k) Submission of Budget to Congress.--The Board shall 
+     prepare and submit to the President, and, at the same time, 
+     to the appropriate committees of Congress, an annual budget 
+     of the expenses and other items relating to the Board which 
+     shall be included as a separate item in the budget required 
+     to be transmitted to Congress under section 1105 of title 31, 
+     United States Code.
+       ``(l) Submission of Legislative Recommendations.--The Board 
+     may submit to the President, and, at the same time, shall 
+     submit to each House of Congress, any legislative 
+     recommendations of the Board relating to any of its functions 
+     under this title or any other provision of law.
+
+[[Page S9247]]
+
+     ``SEC. 102. EXECUTIVE DIRECTOR.
+
+       ``(a) Appointment of Executive Director.--
+       ``(1) In general.--The Board shall appoint, without regard 
+     to the provisions of law governing appointments in the 
+     competitive service, an Executive Director by action agreed 
+     to by a majority of the members of the Board.
+       ``(2) Requirements.--The Executive Director shall have 
+     substantial experience, training, and expertise in the 
+     management of financial investments and pension benefit 
+     plans.
+       ``(b) Duties.--The Executive Director shall--
+       ``(1) carry out the policies established by the Board;
+       ``(2) invest and manage the Personal Retirement Savings 
+     Fund in accordance with the investment policies and other 
+     policies established by the Board;
+       ``(3) purchase annuity contracts and provide for the 
+     payment of benefits under this title;
+       ``(4) administer the provisions of this title; and
+       ``(5) prescribe such regulations (other than regulations 
+     relating to fiduciary responsibilities) as may be necessary 
+     for the administration of this title.
+       ``(c) Administrative Authority.--The Executive Director 
+     may--
+       ``(1) prescribe such regulations as may be necessary to 
+     carry out the responsibilities of the Executive Director 
+     under this section, other than regulations relating to 
+     fiduciary responsibilities;
+       ``(2) appoint such personnel as may be necessary to carry 
+     out the provisions of this title;
+       ``(3) subject to approval by the Board, procure the 
+     services of experts and consultants under section 3109 of 
+     title 5, United States Code;
+       ``(4) secure directly from an Executive agency, the United 
+     States Postal Service, or the Postal Rate Commission any 
+     information necessary to carry out the provisions of this 
+     title and the policies of the Board;
+       ``(5) make such payments out of sums in the Personal 
+     Retirement Savings Fund as the Executive Director determines 
+     are necessary to carry out the provisions of this title and 
+     the policies of the Board;
+       ``(6) pay the compensation, per diem, and travel expenses 
+     of individuals appointed under paragraphs (2), (3), and (7) 
+     from the Personal Retirement Savings Fund;
+       ``(7) accept and use the services of individuals employed 
+     intermittently in the Government service and reimburse such 
+     individuals for travel expenses, as authorized by section 
+     5703 of title 5, United States Code, including per diem as 
+     authorized by section 5702 of such title;
+       ``(8) except as otherwise expressly prohibited by law or 
+     the policies of the Board, delegate any of the Executive 
+     Director's functions to such employees under the Board as the 
+     Executive Director may designate and authorize such 
+     successive redelegations of such functions to such employees 
+     under the Board as the Executive Director may consider to be 
+     necessary or appropriate; and
+       ``(9) take such other actions as are appropriate to carry 
+     out the functions of the Executive Director.
+   ``Subtitle B--Establishment of Personal Retirement Savings Fund; 
+                      Personal Retirement Accounts
+
+     ``SEC. 111. APPROPRIATIONS; ANNUAL TRANSFERS TO THE PERSONAL 
+                   RETIREMENT SAVINGS FUND.
+
+       ``(a) Appropriations.--Out of any money in the Treasury of 
+     the United States not otherwise appropriated, there are 
+     appropriated for the purpose of making the transfers required 
+     under subsection (b)--
+       ``(1) for fiscal year 2000, $40,000,000,000;
+       ``(2) for fiscal year 2001, $43,000,000,000;
+       ``(3) for fiscal year 2002, $70,000,000,000; and
+       ``(4) for fiscal year 2003, $68,000,000,000.
+       ``(b) Transfers to the Personal Retirement Savings Fund.--
+       ``(1) Transfer of amounts in the save social security first 
+     trust fund.--Not later than October 1, 1999, the Secretary of 
+     the Treasury shall transfer the obligations held by the 
+     Secretary for the Save Social Security First Trust Fund 
+     established under section 3 of the Personal Retirement 
+     Accounts Act of 1998, and the amount standing to the credit 
+     of such Trust Fund on the books of the Treasury on such date 
+     to the Personal Retirement Savings Fund established under 
+     section 112.
+       ``(2) Transfer of appropriated amounts.--With respect to a 
+     fiscal year for which an amount is appropriated under 
+     subsection (a), the Secretary of the Treasury shall transfer 
+     to the Personal Retirement Savings Fund established under 
+     section 112 the amount appropriated under subsection (a) for 
+     that fiscal year not later than--
+       ``(A) September 30, 2000, in the case of the amount 
+     appropriated under such subsection for fiscal year 2000;
+       ``(B) September 30, 2001, in the case of the amount 
+     appropriated under such subsection for fiscal year 2001;
+       ``(C) September 30, 2002, in the case of the amount 
+     appropriated under such subsection for fiscal year 2002; and
+       ``(D) September 30, 2003, in the case of the amount 
+     appropriated under such subsection for fiscal year 2003.
+
+     ``SEC. 112. PERSONAL RETIREMENT SAVINGS FUND.
+
+       ``(a) Establishment of Trust Fund.--There is established in 
+     the Treasury of the United States a Personal Retirement 
+     Savings Fund, consisting of all amounts deposited by the 
+     Secretary of the Treasury in accordance with section 111(b), 
+     increased by the total net earnings from investments of sums 
+     in the Personal Retirement Savings Fund or reduced by the 
+     total net losses from investments of the Fund, and reduced by 
+     the total amount of payments made from the Fund (including 
+     payments for administrative expenses).
+       ``(b) Availability.--The sums in the Personal Retirement 
+     Savings Fund are appropriated and shall remain available 
+     without fiscal year limitation--
+       ``(1) to invest under section 121;
+       ``(2) to pay benefits or purchase annuity contracts under 
+     this title;
+       ``(3) to pay the administrative expenses of the Board;
+       ``(4) to make distributions in accordance with sections 123 
+     and 124; and
+       ``(5) to purchase insurance as provided in section 
+     134(b)(2).
+       ``(c) Limitations on Use of Funds.--
+       ``(1) In general.--Sums in the Personal Retirement Savings 
+     Fund credited to the account of an individual may not be used 
+     for, or diverted to, purposes other than for the exclusive 
+     benefit of the account holder or the account holder's 
+     beneficiaries under this title.
+       ``(2) Assignments.--Except as provided in paragraph (3), 
+     sums in the Personal Retirement Savings Fund may not be 
+     assigned or alienated and are not subject to execution, levy, 
+     attachment, garnishment, or other legal process.
+       ``(3) Support obligations.--Moneys due or payable from the 
+     Personal Retirement Savings Fund to any account holder shall 
+     be subject to legal process for the enforcement of the 
+     account holder's legal obligations to provide child support 
+     or make alimony payments as provided in section 459 or for 
+     the enforcement of a court order or other similar process in 
+     the nature of a garnishment for the enforcement of a judgment 
+     rendered against the account holder for physically, sexually, 
+     or emotionally abusing a child.
+       ``(d) Payment of Administrative Expenses.--Administrative 
+     expenses incurred to carry out this title shall be paid out 
+     of net earnings in the Personal Retirement Savings Fund in 
+     conjunction with the allocation of investment earnings and 
+     losses under section 122(a)(2).
+       ``(e) Limitation.--The sums in the Personal Retirement 
+     Savings Fund shall not be appropriated for any purpose other 
+     than the purposes specified in this section and may not be 
+     used for any other purpose.
+       ``(f) Funds Held in Trust.--All sums transferred to the 
+     Personal Retirement Savings Fund for the benefit of 
+     individuals eligible for personal retirement accounts, and 
+     all net earnings in such Fund attributable to investment of 
+     such sums, are held in such Fund in trust for such 
+     individuals.
+
+     ``SEC. 113. PERSONAL RETIREMENT ACCOUNTS.
+
+       ``(a) Establishment of Individual Accounts.--
+       ``(1) Fiscal year 2000.--Not later than October 1, 1999, 
+     the Executive Director shall establish and maintain a 
+     personal retirement savings account for any individual who 
+     has worked 4 qualifying quarters of coverage, as determined 
+     under title II, in calendar year 1998.
+       ``(2) Subsequent fiscal years.--Not later than October 1 of 
+     each fiscal year beginning after fiscal year 2000, the 
+     Executive Director shall establish and maintain a personal 
+     retirement savings account for any individual who has worked 
+     4 qualifying quarters of coverage, as determined under title 
+     II, in the calendar year ending on December 31 of the 
+     preceding fiscal year and for whom the Executive Director has 
+     not previously established an account.
+       ``(b) Allocation of Funds to Accounts.--Beginning on 
+     October 1, 1999, and annually thereafter, the Executive 
+     Director shall allocate to each personal retirement savings 
+     account maintained on such date for the benefit of an 
+     individual who has worked 4 qualifying quarters of coverage, 
+     as determined under title II, in the calendar year ending on 
+     December 31 of the preceding fiscal year the amount 
+     determined under subsection (c).
+       ``(c) Amount Determined.--
+       ``(1) In general.--For any fiscal year, the amount 
+     determined under this subsection is equal to the sum of--
+       ``(A) $250, plus
+       ``(B) the amount determined under paragraph (2) (if any).
+       ``(2) Pro rata share of remainder.--For any fiscal year, 
+     the amount determined under this paragraph with respect to 
+     the account of each individual maintained on October 1 of 
+     such fiscal year is equal to the product of--
+       ``(A) the remainder of the Fund Balance for such fiscal 
+     year, determined after the application of paragraph (1)(A); 
+     and
+       ``(B) the ratio determined under paragraph (3).
+       ``(3) Ratio determined.--The ratio determined under this 
+     paragraph is the ratio, expressed as a percentage, of--
+       ``(A) the excess of--
+       ``(i) the sum of--
+
+       ``(I) the total tax imposed on the individual's wages under 
+     section 3101(a) of the Internal Revenue Code of 1986 
+     (relating to taxes on employees) for the taxable year ending 
+     in the preceding fiscal year, plus
+       ``(II) 50 percent of the total tax imposed on the 
+     individual's self-employment income under section 1401(a) of 
+     such Code (relating
+
+[[Page S9248]]
+
+     to tax on self-employment income) for such taxable year, over
+
+       ``(ii) $250; to
+       ``(B) the total amount of such excess for all such 
+     individuals for such fiscal year.
+       ``(4) Definition of fund balance.--In this subsection, the 
+     term `Fund balance' means the net earnings and net losses 
+     from the investment of the sums transferred to the Personal 
+     Retirement Savings Fund in accordance with section 111(b), 
+     reduced by the appropriate share of the administrative 
+     expenses paid out of the net earnings under section 112(d), 
+     as determined by the Executive Director.
+  ``Subtitle C--Investment and Administration of Personal Retirement 
+                                Accounts
+
+     ``SEC. 121. INVESTMENT OF PERSONAL RETIREMENT ACCOUNTS.
+
+       ``(a) Definitions.--In this section--
+       ``(1) the term `Common Stock Index Investment Fund' means 
+     the Common Stock Index Investment Fund established under 
+     subsection (b)(1)(C);
+       ``(2) the term `equity capital' means common and preferred 
+     stock, surplus, undivided profits, contingency reserves, and 
+     other capital reserves;
+       ``(3) the term `Fixed Income Investment Fund' means the 
+     Fixed Income Investment Fund established under subsection 
+     (b)(1)(B);
+       ``(4) the term `Government Securities Investment Fund' 
+     means the Government Securities Investment Fund established 
+     under subsection (b)(1)(A);
+       ``(5) the term `net worth' means capital, paid-in and 
+     contributed surplus, unassigned surplus, contingency 
+     reserves, group contingency reserves, and special reserves;
+       ``(6) the term ``plan'' means an employee benefit plan, as 
+     defined in section 3(3) of the Employee Retirement Income 
+     Security Act of 1974 (29 U.S.C. 1002(3));
+       ``(7) the term `qualified professional asset manager' 
+     means--
+       ``(A) a bank, as defined in section 202(a)(2) of the 
+     Investment Advisers Act of 1940 (15 U.S.C. 80b-2(a)(2)) 
+     which--
+       ``(i) has the power to manage, acquire, or dispose of 
+     assets of a plan; and
+       ``(ii) has, as of the last day of its latest fiscal year 
+     ending before the date of a determination for the purpose of 
+     this clause, equity capital in excess of $1,000,000;
+       ``(B) a savings and loan association, the accounts of which 
+     are insured by the Federal Deposit Insurance Corporation, 
+     which--
+       ``(i) has applied for and been granted trust powers to 
+     manage, acquire, or dispose of assets of a plan by a State or 
+     Government authority having supervision over savings and loan 
+     associations; and
+       ``(ii) has, as of the last day of its latest fiscal year 
+     ending before the date of a determination for the purpose of 
+     this clause, equity capital or net worth in excess of 
+     $1,000,000;
+       ``(C) an insurance company which--
+       ``(i) is qualified under the laws of more than 1 State to 
+     manage, acquire, or dispose of any assets of a plan;
+       ``(ii) has, as of the last day of its latest fiscal year 
+     ending before the date of a determination for the purpose of 
+     this clause, net worth in excess of $1,000,000; and
+       ``(iii) is subject to supervision and examination by a 
+     State authority having supervision over insurance companies; 
+     or
+       ``(D) an investment adviser registered under section 203 of 
+     the Investment Advisers Act of 1940 (15 U.S.C. 80b-3) if the 
+     investment adviser has, on the last day of its latest fiscal 
+     year ending before the date of a determination for the 
+     purpose of this subparagraph, total client assets under its 
+     management and control in excess of $50,000,000, and--
+       ``(i) the investment adviser has, on such day, 
+     shareholder's or partner's equity in excess of $750,000; or
+       ``(ii) payment of all of the investment adviser's 
+     liabilities, including any liabilities which may arise by 
+     reason of a breach or violation of a duty described in 
+     section 131, is unconditionally guaranteed by--
+
+       ``(I) a person (as defined in paragraph (9)) who directly 
+     or indirectly, through 1 or more intermediaries, controls, is 
+     controlled by, or is under common control with the investment 
+     adviser and who has, on the last day of the person's latest 
+     fiscal year ending before the date of a determination for the 
+     purpose of this clause, shareholder's or partner's equity in 
+     an amount which, when added to the amount of the 
+     shareholder's or partner's equity of the investment adviser 
+     on such day, exceeds $750,000;
+       ``(II) a qualified professional asset manager described in 
+     subparagraph (A), (B), or (C); or
+       ``(III) a broker or dealer registered under section 15 of 
+     the Securities Exchange Act of 1934 (15 U.S.C. 78o) that has, 
+     on the last day of the broker's or dealer's latest fiscal 
+     year ending before the date of a determination for the 
+     purpose of this clause, net worth in excess of $750,000;
+
+       ``(8) the term `shareholder's or partner's equity', as used 
+     in paragraph (7)(D) with respect to an investment adviser or 
+     a person (as defined in paragraph (9)) who is affiliated with 
+     the investment adviser in a manner described in clause 
+     (ii)(I) of such paragraph, means the equity shown in the most 
+     recent balance sheet prepared for such investment adviser or 
+     affiliated person, in accordance with generally accepted 
+     accounting principles, within 2 years before the date on 
+     which the investment adviser's status as a qualified 
+     professional asset manager is determined for the purposes of 
+     this section; and
+       ``(9) the term `person' means an individual, partnership, 
+     joint venture, corporation, mutual company, joint-stock 
+     company, trust, estate, unincorporated organization, 
+     association, or labor organization.
+       ``(b) Establishment of Investment Options.--
+       ``(1) Initial funds.--The Board shall establish--
+       ``(A) a Government Securities Investment Fund under which 
+     sums in the Personal Retirement Savings Fund are invested in 
+     securities of the United States Government issued as provided 
+     in subsection (e);
+       ``(B) a Fixed Income Investment Fund under which sums in 
+     the Personal Retirement Savings Fund are invested in--
+       ``(i) insurance contracts;
+       ``(ii) certificates of deposits; or
+       ``(iii) other instruments or obligations selected by 
+     qualified professional asset managers,
+
+     that return the amount invested and pay interest, at a 
+     specified rate or rates, on that amount during a specified 
+     period of time;
+       ``(C) a Common Stock Index Investment Fund as provided in 
+     paragraph (3);
+       ``(2) Additional funds.--The Board may approve diversified, 
+     indexed funds that are not described in paragraph (1) and 
+     that meet such other criteria as the Board may establish for 
+     inclusion among the investment choices offered to account 
+     holders under this title.
+       ``(3) Common stock fund requirements.--
+       ``(A) Selection of index.--The Board shall select an index 
+     which is a commonly recognized index comprised of common 
+     stock the aggregate market value of which is a reasonably 
+     complete representation of the United States equity markets.
+       ``(B) Investment in portfolio.--The Common Stock Index 
+     Investment Fund shall be invested in a portfolio designed to 
+     replicate the performance of the index selected under 
+     subparagraph (A). The portfolio shall be designed such that, 
+     to the extent practicable, the percentage of the Common Stock 
+     Index Investment Fund that is invested in each stock is the 
+     same as the percentage determined by dividing the aggregate 
+     market value of all shares of that stock by the aggregate 
+     market value of all shares of all stocks included in such 
+     index.
+       ``(c) Investment of Fund.--
+       ``(1) In general.--The Executive Director shall invest the 
+     sums available in the Personal Retirement Savings Fund for 
+     investment as provided in elections made under subsection 
+     (d).
+       ``(2) Investment if no election.--If an election has not 
+     been made with respect to any sums in the Personal Retirement 
+     Savings Fund available for investment, the Executive Director 
+     shall invest such sums in the Government Securities 
+     Investment Fund.
+       ``(d) Election of Investments.--
+       ``(1) Twice yearly.--At least twice each year, an account 
+     holder may elect the investment funds referred to in 
+     subsection (b) into which the sums in the Personal Retirement 
+     Savings Fund credited to such individual's account are to be 
+     invested or reinvested.
+       ``(2) Regulations.--An election may be made under paragraph 
+     (1) only in accordance with regulations prescribed by the 
+     Executive Director and within such period as the Executive 
+     Director shall provide in such regulations.
+       ``(e) Government Securities Investment Fund.--
+       ``(1) Authorization to issue certain obligations.--The 
+     Secretary of the Treasury is authorized to issue special 
+     interest-bearing obligations of the United States for 
+     purchase by the Personal Retirement Savings Fund for the 
+     Government Securities Investment Fund.
+       ``(2) Requirements.--
+       ``(A) In general.--Obligations issued for the purpose of 
+     this subsection shall have maturities fixed with due regard 
+     to the needs of such Fund as determined by the Executive 
+     Director, and shall bear interest at a rate equal to the 
+     average market yield (computed by the Secretary of the 
+     Treasury on the basis of market quotations as of the end of 
+     the calendar month next preceding the date of issue of such 
+     obligations) on all marketable interest-bearing obligations 
+     of the United States then forming a part of the public debt 
+     which are not due or callable earlier than 4 years after the 
+     end of such calendar month.
+       ``(B) Rounding.--Any average market yield computed under 
+     subparagraph (A) which is not a multiple of \1/8\ of 1 
+     percent, shall be rounded to the nearest multiple of \1/8\ of 
+     1 percent.
+       ``(f) Limitation on Voting Rights.--The Board, other 
+     Government agencies, the Executive Director, and an account 
+     holder may not exercise voting rights associated with the 
+     ownership of securities by the Personal Retirement Savings 
+     Fund.
+
+     ``SEC. 122. ACCOUNTING AND INFORMATION.
+
+       ``(a) Balance of Personal Retirement Accounts.--
+       ``(1) In general.--The balance in an individual's account 
+     established under section 113 at any time is the excess of--
+       ``(A) the sum of--
+       ``(i) all allocations made to the account under section 
+     113(b); and
+       ``(ii) the total amount of the allocations made to and 
+     reductions made in the account pursuant to paragraph (2), 
+     over
+       ``(B) the amounts paid out of the Personal Retirement 
+     Savings Fund with respect to such individual.
+
+[[Page S9249]]
+
+       ``(2) Allocation of investment earnings and losses.--
+     Pursuant to regulations prescribed by the Executive Director, 
+     the Executive Director shall allocate to each account an 
+     amount equal to a pro rata share of the net earnings and net 
+     losses from each investment of sums in the Personal 
+     Retirement Savings Fund attributable to sums credited to such 
+     account, reduced by an appropriate share of the 
+     administrative expenses paid out of the net earnings under 
+     section 112(d), as determined by the Executive Director.
+       ``(b) Annual, Independent Audits.--
+       ``(1) Definition.--In this subsection, the term `qualified 
+     public accountant' shall have the same meaning as provided in 
+     section 103(a)(3)(D) of the Employee Retirement Income 
+     Security Act of 1974 (29 U.S.C. 1023(a)(3)(D)).
+       ``(2) Independent accountant.--The Executive Director shall 
+     annually engage, on behalf of all account holders under this 
+     title, an independent qualified public accountant, who shall 
+     conduct an examination of all accounts and other books and 
+     records maintained in the administration of this title as the 
+     public accountant considers necessary to enable the public 
+     accountant to make the determination required by paragraph 
+     (3). The examination shall be conducted in accordance with 
+     generally accepted auditing standards and shall involve such 
+     tests of the accounts, books, and records as the public 
+     accountant considers necessary.
+       ``(3) Determination required.--The public accountant 
+     conducting an examination under paragraph (2) shall determine 
+     whether the accounts, books, and records referred to in such 
+     paragraph have been maintained in conformity with generally 
+     accepted accounting principles applied on a basis consistent 
+     with the manner in which such principles were applied during 
+     the examination conducted under such paragraph during the 
+     preceding year. The public accountant shall transmit to the 
+     Board a report on his examination, including his 
+     determination under this paragraph.
+       ``(4) Reliance on actuarial matter.--In making a 
+     determination under paragraph (3), a public accountant may 
+     rely on the correctness of any actuarial matter certified by 
+     an enrolled actuary if the public accountant states his 
+     reliance in the report transmitted to the Board under such 
+     paragraph.
+       ``(c) Statements.--
+       ``(1) In general.--The Board shall prescribe regulations 
+     under which each account holder under this title shall be 
+     furnished with--
+       ``(A) a periodic statement relating to the individual's 
+     account; and
+       ``(B) a summary description of the investment options under 
+     section 121 covering, and an evaluation of, each such option 
+     the 5-year period preceding the date as of which such 
+     evaluation is made.
+       ``(2) Timing.--Information under this subsection shall be 
+     provided at least 30 calendar days before the beginning of 
+     each election period under section 121(d), and in a manner 
+     designed to facilitate informed decisionmaking with respect 
+     to elections under section 121.
+       ``(d) Acknowledgement.--Each account holder who elects to 
+     invest in the Common Stock Index Investment Fund, the Fixed 
+     Income Investment Fund, or any other Fund designated by the 
+     Board shall sign an acknowledgement prescribed by the 
+     Executive Director which states that the account holder 
+     understands that an investment in such Fund is made at the 
+     account holder's risk, that the account holder is not 
+     protected by the Government against any loss on such 
+     investment, and that a return on such investment is not 
+     guaranteed by the Government.
+
+     ``SEC. 123. DISTRIBUTION OF BENEFITS.
+
+       ``(a) Timing of Distributions.--Notwithstanding any other 
+     provision of law, distributions may only be made from a 
+     personal retirement savings account of an individual on or 
+     after the earlier of the date on which the individual begins 
+     receiving old-age benefits under title II or the date of the 
+     individual's death.
+       ``(b) Form of Distribution.--
+       ``(1) In general.--Subject to section 125, an individual is 
+     entitled and may elect to withdraw from the Personal 
+     Retirement Savings Fund the balance of the individual's 
+     personal retirement savings account as--
+       ``(A) an annuity; or
+       ``(B) substantially equal payments to be made over a period 
+     not greater than the life expectancy of the individual or the 
+     joint life expectancies of the individual and the 
+     individual's designated beneficiary.
+       ``(2) Lump-sum required for minimum amounts.--
+     Notwithstanding paragraph (1), if the balance in an 
+     individual's personal retirement savings account is below 
+     such minimum amount as the Board, by regulation, shall 
+     establish, the account shall be distributed in a single lump-
+     sum payment.
+       ``(c) Change of Election of Distribution.--
+       ``(1) In general.--Subject to paragraph (2) and subsections 
+     (a) and (c) of section 125, an account holder may change an 
+     election previously made under this section.
+       ``(2) Limitation.--An account holder may not change an 
+     election under this section on or after the date on which a 
+     payment is made in accordance with such election or, in the 
+     case of an election to receive an annuity, the date on which 
+     an annuity contract is purchased to provide for the annuity 
+     elected by the account holder.
+       ``(d) Rules if No Election.--If an account holder dies 
+     without having made an election under this section or after 
+     having elected an annuity under this section but before 
+     making an election under section 124, an amount equal to the 
+     value of that individual's account (as of death) shall, 
+     subject to any decree, order, or agreement referred to in 
+     section 125(c)(2), be paid in a manner consistent with 
+     section 126(b).
+
+     ``SEC. 124. ANNUITIES: METHODS OF PAYMENT; ELECTION; 
+                   PURCHASE.
+
+       ``(a) Methods of Payment.--
+       ``(1) In general.--The Board shall prescribe methods of 
+     payment of annuities under this title.
+       ``(2) Requirements.--The methods of payment prescribed 
+     under paragraph (1) shall include--
+       ``(A) a method that provides for the payment of a monthly 
+     annuity only to an annuitant during the life of the 
+     annuitant;
+       ``(B) a method that provides for the payment of a monthly 
+     annuity to an annuitant for the joint lives of the annuitant 
+     and the spouse of the annuitant and an appropriate monthly 
+     annuity to the one of them who survives the other of them for 
+     the life of the survivor;
+       ``(C) a method described in subparagraph (A) that provides 
+     for automatic adjustments in the amount of the annuity 
+     payable so long as the amount of the annuity payable in any 1 
+     year shall not be less than the amount payable in the 
+     previous year;
+       ``(D) a method described in subparagraph (B) that provides 
+     for automatic adjustments in the amount of the annuity 
+     payable so long as the amount of the annuity payable in any 1 
+     year shall not be less than the amount payable in the 
+     previous year; and
+       ``(E) a method which provides for the payment of a monthly 
+     annuity--
+       ``(i) to the annuitant for the joint lives of the annuitant 
+     and an individual who is designated by the annuitant under 
+     regulations prescribed by the Executive Director and--
+
+       ``(I) is a former spouse of the annuitant; or
+       ``(II) has an insurable interest in the annuitant; and
+
+       ``(ii) to the one of them who survives the other of them 
+     for the life of the survivor.
+       ``(b) Timing.--Subject to section 125(b), under such 
+     regulations as the Executive Director shall prescribe, an 
+     account holder who elects under section 123 to receive an 
+     annuity under this title shall elect, on or before the date 
+     on which an annuity contract is purchased to provide for that 
+     annuity, one of the methods of payment prescribed under 
+     subsection (a).
+       ``(c) Elimination of Methods.--Notwithstanding the 
+     elimination of a method of payment by the Board, an account 
+     holder may elect the eliminated method if the elimination of 
+     such method becomes effective less than 5 years before the 
+     date on which that account holder's annuity commences.
+       ``(d) Purchase Requirements.--
+       ``(1) Timing.--Not earlier than 90 days (or such shorter 
+     period as the Executive Director may by regulation prescribe) 
+     before an annuity is to commence under this title, the 
+     Executive Director shall expend the balance in the 
+     annuitant's account to purchase an annuity contract from any 
+     entity which, in the normal course of its business, sells and 
+     provides annuities.
+       ``(2) Compliance with program requirements.--The Executive 
+     Director shall ensure, by contract entered into with each 
+     entity from which an annuity contract is purchased under 
+     paragraph (1), that the annuity shall be provided in 
+     accordance with the provisions of this title.
+       ``(3) Additional terms and conditions.--An annuity contract 
+     purchased under paragraph (1) shall include such terms and 
+     conditions as the Executive Director requires for the 
+     protection of the annuitant.
+       ``(4) Bonding requirements.--The Executive Director shall 
+     require, from each entity from which an annuity contract is 
+     purchased under paragraph (1), a bond or proof of financial 
+     responsibility sufficient to protect the annuitant.
+       ``(e) Nonapplication of State Tax.--
+       ``(1) In general.--No tax, fee, or other monetary payment 
+     may be imposed or collected by any State, the District of 
+     Columbia, or the Commonwealth of Puerto Rico, or by any 
+     political subdivision or other governmental authority 
+     thereof, on, or with respect to, any amount paid to purchase 
+     an annuity contract under this section.
+       ``(2) Rule of construction.--Paragraph (1) shall not be 
+     construed to exempt any company or other entity issuing an 
+     annuity contract under this section from the imposition, 
+     payment, or collection of a tax, fee, or other monetary 
+     payment on the net income or profit accruing to or realized 
+     by that entity from the sale of an annuity contract under 
+     this section if that tax, fee, or payment is applicable to a 
+     broad range of business activity.
+
+     ``SEC. 125. PROTECTIONS FOR SPOUSES AND FORMER SPOUSES.
+
+       ``(a) Limitation on Withdrawals.--
+       ``(1) Application of requirements.--
+       ``(A) In general.--A married account holder may withdraw 
+     all or part of a personal retirement savings account under 
+     section 123 or change a withdrawal election only if the 
+     account holder satisfies the requirements of subparagraph 
+     (B).
+       ``(B) Joint written waiver.--An account holder may make an 
+     election or change referred to in subparagraph (A) if the 
+     account holder and the account holder's spouse jointly waive, 
+     by written election, any right that the spouse may have to a 
+     survivor annuity
+
+[[Page S9250]]
+
+     with respect to such account holder under section 124 or 
+     subsection (b).
+       ``(2) Exception.--Paragraph (1) shall not apply to an 
+     election or change of election by an account holder who 
+     establishes to the satisfaction of the Executive Director (at 
+     the time of the election or change and in accordance with 
+     regulations prescribed by the Executive Director)--
+       ``(A) that the spouse's whereabouts cannot be determined; 
+     or
+       ``(B) that, due to exceptional circumstances, requiring the 
+     spouse's waiver would otherwise be inappropriate.
+       ``(b) Method of Annuity.--
+       ``(1) Survivor annuities.--Notwithstanding any election 
+     under section 124(b), the method described in section 
+     124(a)(2)(B) (or, if more than one form of such method is 
+     available, the form that the Board determines to be the one 
+     that for a surviving spouse a survivor annuity most closely 
+     approximating the annuity of a surviving spouse under section 
+     8442 of title 5, United States Code) shall be deemed the 
+     applicable method under section 124(b) in the case of an 
+     account holder who is married on the date on which an annuity 
+     contract is purchased to provide for the account holder's 
+     annuity under this title.
+       ``(2) Exceptions.--Paragraph (1) shall not apply if--
+       ``(A) a joint waiver of such method is made, in writing, by 
+     the account holder and the spouse; or
+       ``(B) the account holder waives such method, in writing, 
+     after establishing to the satisfaction of the Executive 
+     Director that circumstances described under subparagraph (A) 
+     or (B) of subsection (a)(2) make the requirement of a joint 
+     waiver inappropriate.
+       ``(c) Nonapplication of Election.--
+       ``(1) In general.--An election or change of election shall 
+     not be effective under this title to the extent that the 
+     election, change, or transfer conflicts with any court 
+     decree, order, or agreement described in paragraph (2).
+       ``(2) Court decree, order, or agreement described.--A court 
+     decree, order, or agreement described in this paragraph is, 
+     with respect to an account holder, a court decree of divorce, 
+     annulment, or legal separation issued in the case of such 
+     account holder and any former spouse of the account holder or 
+     any court order or court-approved property settlement 
+     agreement incident to such decree if--
+       ``(A) the decree, order, or agreement expressly relates to 
+     any portion of the balance in the individual's personal 
+     retirement savings account; and
+       ``(B) notice of the decree, order, or agreement was 
+     received by the Executive Director before--
+       ``(i) the date on which payment is made, or
+       ``(ii) in the case of an annuity, the date on which an 
+     annuity contract is purchased to provide for the annuity,
+
+     in accordance with the election, change, or contribution 
+     referred to in paragraph (1).
+       ``(3) 2 or more cases.--The Executive Director shall 
+     prescribe regulations under which this subsection shall be 
+     applied in any case in which the Executive Director receives 
+     2 or more decrees, orders, or agreements referred to in 
+     paragraph (1).
+       ``(d) Procedures for Waivers.--Waivers and notifications 
+     required by this section and waivers of the requirements for 
+     such waivers and notifications (as authorized by this 
+     section) may be made only in accordance with procedures 
+     prescribed by the Executive Director.
+       ``(e) Nonapplication.--None of the provisions of this 
+     section requiring notification to, or the consent or waiver 
+     of, a spouse or former spouse of an account holder shall 
+     apply in any case in which the account balance of the 
+     individual is equal to or less than such amount as the Board, 
+     by regulation, shall prescribe.
+
+     ``SEC. 126. DESIGNATION OF BENEFICIARY; ORDER OF PRECEDENCE.
+
+       ``(a) Designation of Beneficiaries.--Under regulations 
+     prescribed by the Board, an account holder may designate 1 or 
+     more beneficiaries under this section.
+       ``(b) Payments.--
+       ``(1) In general.--Benefits authorized to be paid to an 
+     account holder to individuals surviving the account holder 
+     and alive at the time of distribution shall be made according 
+     to the following:
+       ``(A) First, to the beneficiary or beneficiaries designated 
+     by the account holder in a signed and witnessed writing 
+     received by the Executive Director before the death of such 
+     account holder. For this purpose, a designation, change, or 
+     cancellation of beneficiary in a will or other document not 
+     so executed and filed has no force or effect.
+       ``(B) Second, if there is no designated beneficiary, to the 
+     widow or widower of the account holder.
+       ``(C) Third, if none of the above, to the child or children 
+     of the account holder and descendants of deceased children by 
+     representation.
+       ``(D) Fourth, if none of the above, to the parents of the 
+     account holder or the survivor of them.
+       ``(E) Fifth, if none of the above, to the duly appointed 
+     executor or administrator of the estate of the account 
+     holder.
+       ``(F) Sixth, if none of the above, to such other next of 
+     kin of the account holder as the Board determines to be 
+     entitled under the laws of the domicile of the account holder 
+     at the date of death of the account holder.
+       ``(2) Bar on other recoveries.--A payment made in 
+     accordance with paragraph (1) shall bar any other recovery 
+     by--
+       ``(A) the individual receiving the payment; and
+       ``(B) any other individual.
+       ``(3) Definition of child.--In this section, the term 
+     `child' includes a natural child and an adopted child, but 
+     does not include a stepchild.
+       ``(c) Termination of an Annuity.--Any annuity accrued and 
+     unpaid on the termination, except by death, of the annuity of 
+     an annuitant or survivor shall be paid to that individual. 
+     Annuity accrued and unpaid on the death of a survivor shall 
+     be paid in the following order of precedence, and the payment 
+     bars recovery by any other person:
+       ``(1) First, to the duly appointed executor or 
+     administrator of the estate of the survivor.
+       ``(2) Second, if there is no executor or administrator, 
+     payment may be made, after 30 days from the date of death of 
+     the survivor, to such next of kin of the survivor as the 
+     Board determines to be entitled under the laws of the 
+     domicile of the survivor at the date of death.
+
+     ``SEC. 127. TAX TREATMENT OF THE PERSONAL RETIREMENT SAVINGS 
+                   FUND.
+
+       ``For purposes of the Internal Revenue Code of 1986--
+       ``(1) the Personal Retirement Savings Fund shall be treated 
+     as a trust described in section 401(a) of such Code that is 
+     exempt from taxation under section 501(a) of such Code;
+       ``(2) any contribution to, or distribution from, such Fund 
+     shall be treated in the same manner as contributions to or 
+     distributions from such a trust; and
+       ``(3) allocations made to an account holder's personal 
+     retirement savings account shall not be treated as 
+     distributed or made available to the account holder.
+
+     ``SEC. 128. ADMINISTRATIVE PROVISIONS.
+
+       ``(a) Duty of Executive Director.--The Executive Director 
+     shall make or provide for payments and transfers in 
+     accordance with an election of an account holder under 
+     section 123 or 124(b) or, if applicable, in accordance with 
+     section 125.
+       ``(b) Written Requirements.--Any election, change of 
+     election, or modification of a deferred annuity commencement 
+     date made under this title shall be in writing and shall be 
+     filed with the Executive Director in accordance with 
+     regulations prescribed by the Executive Director.
+                 ``Subtitle D--Beneficiary Protections
+
+     ``SEC. 131. FIDUCIARY RESPONSIBILITIES; LIABILITY AND 
+                   PENALTIES.
+
+       ``(a) Definitions.--For the purposes of this section--
+       ``(1) the term `account' is not limited to the personal 
+     retirement savings account established for an individual 
+     under section 113;
+       ``(2) the term `adequate consideration' means--
+       ``(A) in the case of a security for which there is a 
+     generally recognized market--
+       ``(i) the price of the security prevailing on a national 
+     securities exchange that is registered under section 6 of the 
+     Securities Exchange Act of 1934 (15 U.S.C. 78f); or
+       ``(ii) if the security is not traded on such a national 
+     securities exchange, a price not less favorable to the 
+     Personal Retirement Savings Fund than the offering price for 
+     the security as established by the current bid and asked 
+     prices quoted by persons independent of the issuer and of any 
+     party in interest; and
+       ``(B) in the case of an asset other than a security for 
+     which there is a generally recognized market, the fair market 
+     value of the asset as determined in good faith by a fiduciary 
+     or fiduciaries in accordance with regulations prescribed by 
+     the Secretary of Labor;
+       ``(3) the term `fiduciary' means--
+       ``(A) a member of the Board;
+       ``(B) the Executive Director;
+       ``(C) any person who has or exercises discretionary 
+     authority or discretionary control over the management or 
+     disposition of the assets of the Personal Retirement Savings 
+     Fund; and
+       ``(D) any person who, with respect to the Personal 
+     Retirement Savings Fund, is described in section 3(21)(A) of 
+     the Employee Retirement Income Security Act of 1974 (29 
+     U.S.C. 1002(21)(A)); and
+       ``(4) the term `party in interest' includes--
+       ``(A) any fiduciary;
+       ``(B) any counsel to a person who is a fiduciary, with 
+     respect to the actions of such person as a fiduciary;
+       ``(C) any individual for which a personal retirement 
+     account is established under section 113;
+       ``(D) any person providing services to the Board and, with 
+     respect to the actions of the Executive Director as a 
+     fiduciary, any person providing services to the Executive 
+     Director;
+       ``(E) a spouse, sibling, ancestor, lineal descendant, or 
+     spouse of a lineal descendant of a person described in 
+     subparagraph (A), (B), or (D);
+       ``(F) a corporation, partnership, or trust or estate of 
+     which, or in which, at least 50 percent of--
+       ``(i) the combined voting power of all classes of stock 
+     entitled to vote or the total value of shares of all classes 
+     of stock of such corporation;
+       ``(ii) the capital interest or profits interest of such 
+     partnership; or
+       ``(iii) the beneficial interest of such trust or estate;
+
+     is owned directly or indirectly, or held by a person 
+     described in subparagraph (A), (B), or (D);
+
+[[Page S9251]]
+
+       ``(G) an official (including a director) of, or an 
+     individual employed by, a person described in subparagraph 
+     (A), (B), (D), or (F), or an individual having powers or 
+     responsibilities similar to those of such an official;
+       ``(H) a holder (directly or indirectly) of at least 10 
+     percent of the shares in a person described in any 
+     subparagraph referred to in subparagraph (G); and
+       ``(I) a person who, directly or indirectly, is at least a 
+     10 percent partner or joint venturer (measured in capital or 
+     profits) in a person described in any subparagraph referred 
+     to in subparagraph (G).
+       ``(b) Discharge of Responsibilities.--
+       ``(1) In general.--To the extent not inconsistent with the 
+     provisions of this title and the policies prescribed by the 
+     Board, a fiduciary shall discharge his or her 
+     responsibilities with respect to the Personal Retirement 
+     Savings Fund or any applicable portion thereof solely in the 
+     interest of the account holders and beneficiaries of such 
+     Fund and--
+       ``(A) for the exclusive purpose of--
+       ``(i) providing benefits to such account holders and 
+     beneficiaries; and
+       ``(ii) defraying reasonable expenses of administering the 
+     Personal Retirement Savings Fund or applicable portions 
+     thereof;
+       ``(B) with the care, skill, prudence, and diligence under 
+     the circumstances then prevailing that a prudent individual 
+     acting in a like capacity and familiar with such matters 
+     would use in the conduct of an enterprise of a like character 
+     and with like objectives; and
+       ``(C) to the extent permitted by section 121, by 
+     diversifying the investments of the Personal Retirement 
+     Savings Fund or applicable portions thereof so as to minimize 
+     the risk of large losses, unless under the circumstances it 
+     is clearly prudent not to do so.
+       ``(2) Limitation on ownership.--No fiduciary may maintain 
+     the indicia of ownership of any assets of the Personal 
+     Retirement Savings Fund outside the jurisdiction of the 
+     district courts of the United States.
+       ``(c) Limitations on Transactions.--
+       ``(1) Prohibited transactions.--A fiduciary shall not 
+     permit the Personal Retirement Savings Fund to engage in any 
+     of the following transactions, except in exchange for 
+     adequate consideration:
+       ``(A) A transfer of any assets of the Personal Retirement 
+     Savings Fund to any person the fiduciary knows or should know 
+     to be a party in interest or the use of such assets by any 
+     such person.
+       ``(B) An acquisition of any property from or sale of any 
+     property to the Personal Retirement Savings Fund by any 
+     person the fiduciary knows or should know to be a party in 
+     interest.
+       ``(C) A transfer or exchange of services between the 
+     Personal Retirement Savings Fund and any person the fiduciary 
+     knows or should know to be a party in interest.
+       ``(2) Other prohibitions.--Notwithstanding paragraph (1), a 
+     fiduciary with respect to the Personal Retirement Savings 
+     Fund shall not--
+       ``(A) deal with any assets of the Personal Retirement 
+     Savings Fund in his or her own interest or for his or her own 
+     account;
+       ``(B) act, in an individual capacity or any other capacity, 
+     in any transaction involving the Personal Retirement Savings 
+     Fund on behalf of a party, or representing a party, whose 
+     interests are adverse to the interests of the Personal 
+     Retirement Savings Fund or the interests of the account 
+     holders and beneficiaries of such Fund; or
+       ``(C) receive any consideration for his or her own personal 
+     account from any party dealing with sums credited to the 
+     Personal Retirement Savings Fund in connection with a 
+     transaction involving assets of the Personal Retirement 
+     Savings Fund.
+       ``(3) Exemption by the secretary of labor.--
+       ``(A) In general.--The Secretary of Labor may, in 
+     accordance with procedures which the Secretary shall by 
+     regulation prescribe, grant a conditional or unconditional 
+     exemption of any fiduciary or transaction, or class of 
+     fiduciaries or transactions, from all or part of the 
+     restrictions imposed by paragraph (2).
+       ``(B) Nonapplication to other applicable provisions.--An 
+     exemption granted under this paragraph shall not relieve a 
+     fiduciary from any other applicable provision of this title.
+       ``(C) Requirements.--The Secretary of Labor may not grant 
+     an exemption under this paragraph unless the Secretary finds 
+     that such exemption is--
+       ``(i) administratively feasible;
+       ``(ii) in the interests of the Personal Retirement Savings 
+     Fund and of the account holders and beneficiaries of such 
+     Fund; and
+       ``(iii) protective of the rights of such account holders 
+     and beneficiaries.
+       ``(D) Notice.--An exemption under this paragraph may not be 
+     granted unless--
+       ``(i) notice of the proposed exemption is published in the 
+     Federal Register;
+       ``(ii) interested persons are given an opportunity to 
+     present views; and
+       ``(iii) the Secretary of Labor affords an opportunity for a 
+     hearing and makes a determination on the record with respect 
+     to the respective requirements of clauses (i), (ii), and 
+     (iii) of subparagraph (C).
+       ``(E) ERISA exemptions.--Notwithstanding subparagraph (D), 
+     the Secretary of Labor may determine that an exemption 
+     granted for any class of fiduciaries or transactions under 
+     section 408(a) of the Employee Retirement Income Security Act 
+     of 1974 (29 U.S.C. 1108(a)) shall, upon publication of notice 
+     in the Federal Register under this subparagraph, constitute 
+     an exemption for purposes of the provisions of paragraph (2).
+       ``(d) Benefits and Compensation.--This section does not 
+     prohibit any fiduciary from--
+       ``(1) receiving any benefit that the fiduciary is entitled 
+     to receive under this title as a beneficiary of the Personal 
+     Retirement Savings Fund;
+       ``(2) receiving any reasonable compensation authorized by 
+     this title for services rendered, or for reimbursement of 
+     expenses properly and actually incurred, in the performance 
+     of the fiduciary's duties under this title; or
+       ``(3) serving as a fiduciary in addition to being an 
+     officer, employee, agent, or other representative of a party 
+     in interest.
+       ``(e) Breach of Duties.--
+       ``(1) Personal liability.--
+       ``(A) In general.--Any fiduciary that breaches the 
+     responsibilities, duties, and obligations set out in 
+     subsection (b) or violates subsection (c) shall be personally 
+     liable to the Personal Retirement Savings Fund for any losses 
+     to such Fund resulting from each such breach or violation and 
+     to restore to such Fund any profits made by the fiduciary 
+     through use of assets of such Fund by the fiduciary, and 
+     shall be subject to such other equitable or remedial relief 
+     as a court considers appropriate, except as provided in 
+     paragraphs (3) and (4). A fiduciary may be removed for a 
+     breach referred to in the preceding sentence.
+       ``(B) Civil penalties.--The Secretary of Labor may assess a 
+     civil penalty against a party in interest with respect to 
+     each transaction that is engaged in by the party in interest 
+     and is prohibited by subsection (c). The amount of such 
+     penalty shall be equal to 5 percent of the amount involved in 
+     each such transaction (as defined in section 4975(f)(4) of 
+     the Internal Revenue Code of 1986) for each year or part 
+     thereof during which the prohibited transaction continues, 
+     except that, if the transaction is not corrected (in such 
+     manner as the Secretary of Labor shall prescribe by 
+     regulation consistent with section 4975(f)(5) of such Code) 
+     within 90 days after the date the Secretary of Labor 
+     transmits notice to the party in interest (or such longer 
+     period as the Secretary of Labor may permit), such penalty 
+     may be in an amount not more than 100 percent of the amount 
+     involved.
+       ``(C) Acts committed prior to or after service.--A 
+     fiduciary shall not be liable under subparagraph (A) with 
+     respect to a breach of fiduciary duty under subsection (b) 
+     committed before becoming a fiduciary or after ceasing to be 
+     a fiduciary.
+       ``(D) Joint and several liability.--A fiduciary shall be 
+     jointly and severally liable under subparagraph (A) for a 
+     breach of fiduciary duty under subsection (b) by another 
+     fiduciary only if--
+       ``(i) the fiduciary participates knowingly in, or knowingly 
+     undertakes to conceal, an act or omission of such other 
+     fiduciary, knowing such act or omission is such a breach;
+       ``(ii) by the fiduciary's failure to comply with subsection 
+     (b) in the administration of the fiduciary's specific 
+     responsibilities that give rise to the fiduciary status, the 
+     fiduciary has enabled such other fiduciary to commit such a 
+     breach; or
+       ``(iii) the fiduciary has knowledge of a breach by such 
+     other fiduciary, unless the fiduciary makes reasonable 
+     efforts under the circumstances to remedy the breach.
+       ``(E) Regulations.--The Secretary of Labor shall prescribe, 
+     in regulations, procedures for allocating fiduciary 
+     responsibilities among fiduciaries, including investment 
+     managers. Any fiduciary who, pursuant to such procedures, 
+     allocates to a person or persons any fiduciary responsibility 
+     shall not be liable for an act or omission of such person or 
+     persons unless--
+       ``(i) such fiduciary violated subsection (b) with respect 
+     to the allocation, with respect to the implementation of the 
+     procedures prescribed by the Secretary of Labor (or the 
+     Board), or in continuing such allocation; or
+       ``(ii) such fiduciary would otherwise be liable in 
+     accordance with subparagraph (D).
+       ``(2) Requirements for civil actions.--
+       ``(A) In general.--No civil action may be maintained 
+     against any fiduciary with respect to the responsibilities, 
+     liabilities, and penalties authorized or provided for in this 
+     section except in accordance with subparagraphs (B) and (C).
+       ``(B) Jurisdiction.--A civil action may be brought in the 
+     district courts of the United States--
+       ``(i) by the Secretary of Labor against any fiduciary other 
+     than a Member of the Board or the Executive Director of the 
+     Board--
+
+       ``(I) to determine and enforce a liability under paragraph 
+     (1)(A);
+       ``(II) to collect any civil penalty under paragraph (1)(B);
+       ``(III) to enjoin any act or practice that violates any 
+     provision of subsection (b) or (c);
+       ``(IV) to obtain any other appropriate equitable relief to 
+     redress a violation of any such provision; or
+       ``(V) to enjoin any act or practice that violates 
+     subsection (g)(3) or (i) of section 101;
+
+       ``(ii) by any beneficiary or fiduciary against any 
+     fiduciary--
+
+       ``(I) to enjoin any act or practice that violates any 
+     provision of subsection (b) or (c);
+       ``(II) to obtain any other appropriate equitable relief to 
+     redress a violation of any such provision; or
+
+[[Page S9252]]
+
+       ``(III) to enjoin any act or practice that violates 
+     subsection (g)(3) or (i) of section 101; or
+
+       ``(iii) by any beneficiary or fiduciary--
+
+       ``(I) to recover benefits of the beneficiary under the 
+     provisions of this title, to enforce any right of the 
+     beneficiary under such provisions, or to clarify any such 
+     right to future benefits under such provisions; or
+       ``(II) to enforce any claim otherwise cognizable under 
+     sections 1346(b) and 2671 through 2680 of title 28, United 
+     States Code, provided that the remedy against the United 
+     States provided by sections 1346(b) and 2672 of such title 
+     for damages for injury or loss of property caused by the 
+     negligent or wrongful act or omission of any fiduciary while 
+     acting within the scope of his duties or employment shall be 
+     exclusive of any other civil action or proceeding by the 
+     beneficiary for recovery of money by reason of the same 
+     subject matter against the fiduciary (or the estate of such 
+     fiduciary) whose act or omission gave rise to such action or 
+     proceeding, whether or not such action or proceeding is based 
+     on an alleged violation of subsection (b) or (c).
+
+       ``(C) Legal representation.--
+       ``(i) Department of labor.--In all civil actions under 
+     subparagraph (B)(i), attorneys appointed by the Secretary of 
+     Labor may represent the Secretary (except as provided in 
+     section 518(a) of title 28, United States Code), however all 
+     such litigation shall be subject to the direction and control 
+     of the Attorney General.
+       ``(ii) Department of justice.--The Attorney General shall 
+     defend any civil action or proceeding brought in any court 
+     against any fiduciary referred to in subparagraph 
+     (B)(iii)(II) (or the estate of such fiduciary) for any such 
+     injury. Any fiduciary against whom such a civil action or 
+     proceeding is brought shall deliver, within such time after 
+     date of service or knowledge of service as determined by the 
+     Attorney General, all process served upon such fiduciary (or 
+     an attested copy thereof) to the Executive Director of the 
+     Board, who shall promptly furnish copies of the pleading and 
+     process to the Attorney General and the United States 
+     Attorney for the district wherein the action or proceeding is 
+     brought.
+       ``(iii) Removal.--Upon certification by the Attorney 
+     General that a fiduciary described in subparagraph 
+     (B)(iii)(II) was acting in the scope of such fiduciary's 
+     duties or employment as a fiduciary at the time of the 
+     occurrence or omission out of which the action arose, any 
+     such civil action or proceeding commenced in a State court 
+     shall be--
+
+       ``(I) removed without bond at any time before trial by the 
+     Attorney General to the district court of the United States 
+     for the district and division in which it is pending; and
+       ``(II) deemed a tort action brought against the United 
+     States under the provisions of title 28, United States Code, 
+     and all references thereto.
+
+       ``(iv) Settlement.--The Attorney General may compromise or 
+     settle any claim asserted in such civil action or proceeding 
+     in the manner provided in section 2677 of title 28, United 
+     States Code, and with the same effect. To the extent section 
+     2672 of such title provides that persons other than the 
+     Attorney General or his designee may compromise and settle 
+     claims, and that payment of such claims may be made from 
+     agency appropriations, such provisions shall not apply to 
+     claims based upon an alleged violation of subsection (b) or 
+     (c).
+       ``(v) Nonapplication of provision.--For the purposes of 
+     subparagraph (B)(iii)(II), the provisions of section 2680(h) 
+     of title 28, United States Code, shall not apply to any claim 
+     based upon an alleged violation of subsection (b) or (c).
+       ``(vi) Payment.--Notwithstanding sections 1346(b) and 2671 
+     through 2680 of title 28, United States Code, whenever an 
+     award, compromise, or settlement is made under such sections 
+     upon any claim based upon an alleged violation of subsection 
+     (b) or (c), payment of such award, compromise, or settlement 
+     shall be made to the appropriate account within the Personal 
+     Retirement Savings Fund, or where there is no such 
+     appropriate account, to the beneficiary bringing the claim.
+       ``(vii) Limitation on definition of fiduciary.--For 
+     purposes of subparagraph (B)(iii)(II), fiduciary includes 
+     only the members of the Board and the Board's Executive 
+     Director.
+       ``(D) Limitation on recovery.--Any relief awarded against a 
+     member of the Board or the Executive Director of the Board in 
+     a civil action authorized by subparagraph (B) may not include 
+     any monetary damages or any other recovery of money.
+       ``(E) Limitation on commencement of actions.--An action may 
+     not be commenced under subparagraph (B) with respect to a 
+     fiduciary's breach of any responsibility, duty, or obligation 
+     under subsection (b) or a violation of subsection (c) after 
+     the earlier of--
+       ``(i) 6 years after--
+
+       ``(I) the date of the last action that constituted a part 
+     of the breach or violation; or
+       ``(II) in the case of an omission, the latest date on which 
+     the fiduciary could have cured the breach or violation; or
+
+       ``(ii) 3 years after the earliest date on which the 
+     plaintiff had actual knowledge of the breach or violation, 
+     except that, in the case of fraud or concealment, such action 
+     may be commenced not later than 6 years after the date of 
+     discovery of such breach or violation.
+       ``(F) Exclusive jurisdiction.--
+       ``(i) In general.--The district courts of the United States 
+     shall have exclusive jurisdiction of civil actions under this 
+     subsection.
+       ``(ii) Venue.--An action under this subsection may be 
+     brought in the District Court of the United States for the 
+     District of Columbia or a district court of the United States 
+     in the district where the breach alleged in the complaint or 
+     petition filed in the action took place or in the district 
+     where a defendant resides or may be found. Process may be 
+     served in any other district where a defendant resides or may 
+     be found.
+       ``(G) Filing of complaint.--
+       ``(i) Service.--A copy of the complaint or petition filed 
+     in any action brought under this subsection (other than by 
+     the Secretary of Labor) shall be served on the Executive 
+     Director, the Secretary of Labor, and the Secretary of the 
+     Treasury by certified mail.
+       ``(ii) Intervention.--Any officer referred to in clause (i) 
+     of this subparagraph shall have the right in his or her 
+     discretion to intervene in any action. If the Secretary of 
+     Labor brings an action under this paragraph on behalf of a 
+     beneficiary, the officer shall notify the Executive Director 
+     and the Secretary of the Treasury.
+       ``(f) Regulations.--The Secretary of Labor may prescribe 
+     regulations to carry out this section.
+       ``(g) Audits.--
+       ``(1) In general.--The Secretary of Labor shall establish a 
+     program to carry out audits to determine the level of 
+     compliance with the requirements of this section relating to 
+     fiduciary responsibilities and prohibited activities of 
+     fiduciaries.
+       ``(2) Conduct.--An audit under this subsection may be 
+     conducted by the Secretary of Labor, by contract with a 
+     qualified nongovernmental organization, or in cooperation 
+     with the Comptroller General of the United States, as the 
+     Secretary considers appropriate.
+
+     ``SEC. 132. BONDING.
+
+       ``(a) Requirement.--
+       ``(1) In general.--Except as provided in paragraph (2), 
+     each fiduciary and each person who handles funds or property 
+     of the Personal Retirement Savings Fund shall be bonded as 
+     provided in this section.
+       ``(2) Exceptions.--
+       ``(A) In general.--Bond shall not be required of a 
+     fiduciary (or of any officer or employee of such fiduciary) 
+     if such fiduciary--
+       ``(i) is a corporation organized and doing business under 
+     the laws of the United States or of any State;
+       ``(ii) is authorized under such laws to exercise trust 
+     powers or to conduct an insurance business;
+       ``(iii) is subject to supervision or examination by Federal 
+     or State authority; and
+       ``(iv) has at all times a combined capital and surplus in 
+     excess of such minimum amount (not less than $1,000,000) as 
+     the Secretary of Labor prescribes in regulations.
+       ``(B) Banks or other financial institutions.--If--
+       ``(i) a bank or other financial institution would, but for 
+     this subparagraph, not be required to be bonded under this 
+     section by reason of the application of the exception 
+     provided in subparagraph (A);
+       ``(ii) the bank or financial institution is authorized to 
+     exercise trust powers; and
+       ``(iii) the deposits of the bank or financial institution 
+     are not insured by the Federal Deposit Insurance Corporation,
+
+     such exception shall apply to such bank or financial 
+     institution only if the bank or institution meets bonding 
+     requirements under State law which the Secretary of Labor 
+     determines are at least equivalent to those imposed on banks 
+     by Federal law.
+       ``(b) Amount of Bond.--
+       ``(1) Minimum requirements.--The Secretary of Labor shall 
+     prescribe the amount of a bond under this section at the 
+     beginning of each fiscal year. Except as otherwise provided 
+     in this paragraph, such amount shall not be less than 10 
+     percent of the amount of funds handled. In no case shall such 
+     bond be less than $1,000 nor more than $500,000, except that 
+     the Secretary of Labor, after due notice and opportunity for 
+     hearing to all interested parties, and other consideration of 
+     the record, may prescribe an amount in excess of $500,000.
+       ``(2) Determination of amount of funds.--For the purpose of 
+     prescribing the amount of a bond under paragraph (1), the 
+     amount of funds handled shall be determined by reference to 
+     the amount of the funds handled by the person, group, or 
+     class to be covered by such bond or by their predecessor or 
+     predecessors, if any, during the preceding fiscal year, or to 
+     the amount of funds to be handled during the current fiscal 
+     year by such person, group, or class, estimated as provided 
+     in regulations prescribed by the Secretary of Labor.
+       ``(c) Other Requirements.--A bond required by subsection 
+     (a)--
+       ``(1) shall include such terms and conditions as the 
+     Secretary of Labor considers necessary to protect the 
+     Personal Retirement Savings Fund against loss by reason of 
+     acts of fraud or dishonesty on the part of the bonded person 
+     directly or through connivance with others;
+       ``(2) shall have as surety thereon a corporate surety 
+     company that is an acceptable surety on Federal bonds under 
+     authority granted by the Secretary of the Treasury pursuant 
+     to sections 9304 through 9308 of title 31, United States 
+     Code; and
+       ``(3) shall be in a form or of a type approved by the 
+     Secretary of Labor, including individual bonds or schedule or 
+     blanket forms of bonds that cover a group or class.
+
+[[Page S9253]]
+
+       ``(d) Prohibitions.--
+       ``(1) Bond required.--It shall be unlawful for any person 
+     to whom subsection (a) applies, to receive, handle, disburse, 
+     or otherwise exercise custody or control of any of the funds 
+     or other property of the Personal Retirement Savings Fund 
+     without being bonded as required by this section.
+       ``(2) Meet all requirements.--It shall be unlawful for any 
+     fiduciary, or any other person having authority to direct the 
+     performance of functions described in paragraph (1), to 
+     permit any such function to be performed by any person to 
+     whom subsection (a) applies unless such person has met the 
+     requirements of such subsection.
+       ``(e) Nonapplication of Other Laws.--Notwithstanding any 
+     other provision of law, any person who is required to be 
+     bonded as provided in subsection (a) shall be exempt from any 
+     other provision of law that, but for this subsection, would 
+     require such person to be bonded for the handling of the 
+     funds or other property of the Personal Retirement Savings 
+     Fund.
+       ``(f) Regulations.--The Secretary of Labor shall prescribe 
+     such regulations as may be necessary to carry out the 
+     provisions of this section, including exempting a person or 
+     class of persons from the requirements of this section.
+
+     ``SEC. 133. INVESTIGATIVE AUTHORITY.
+
+       Any authority available to the Secretary of Labor under 
+     section 504 of the Employee Retirement Income Security Act of 
+     1974 (29 U.S.C. 1134) is hereby made available to the 
+     Secretary of Labor, and any officer designated by the 
+     Secretary of Labor, to determine whether any person has 
+     violated, or is about to violate, any provision of section 
+     131 or 132.
+
+     ``SEC. 134. EXCULPATORY PROVISIONS; INSURANCE.
+
+       ``(a) Nonapplication of Exculpatory Provisions.--Any 
+     provision in an agreement or instrument that purports to 
+     relieve a fiduciary from responsibility or liability for any 
+     responsibility, obligation, or duty under this title shall be 
+     void.
+       ``(b) Liability Insurance.--Sums credited to the Personal 
+     Retirement Savings Fund may be used at the discretion of the 
+     Executive Director to purchase insurance to cover the 
+     potential liability of persons who serve in a fiduciary 
+     capacity with respect to the Personal Retirement Savings 
+     Fund, without regard to whether a policy of insurance permits 
+     recourse by the insurer against the fiduciary in the case of 
+     a breach of a fiduciary obligation.''.
+
+     SEC. 5. REPORT AND RECOMMENDATIONS REGARDING INVESTMENT 
+                   OPTIONS.
+
+       Not later than 36 months after the date of enactment of 
+     this Act, the Personal Retirement Accounts Board established 
+     under section 101 of the Social Security Act (as amended by 
+     section 4 of this Act) shall submit to the appropriate 
+     committees of Congress a report regarding recommendations for 
+     additional investment options for individuals with personal 
+     retirement accounts established under title I of the Social 
+     Security Act (as so amended). The report shall include 
+     recommendations regarding--
+       (1) whether the Board should make available to such account 
+     holders investment funds managed by qualified professional 
+     asset managers (as defined in section 121(a)(7) of the Social 
+     Security Act (as amended by section 4 of this Act));
+       (2) whether such account holders should be permitted to 
+     transfer all or a portion of the balance in their personal 
+     retirement accounts to a new form of individual retirement 
+     account that would be managed by qualified professional asset 
+     managers (as so defined);
+       (3) whether the Board should provide an alternative for the 
+     investment of a personal retirement account for which no 
+     investment election is made to investment in the Government 
+     Securities Investment Fund provided for under section 
+     121(c)(2) of the Social Security Act (as so amended); and
+       (4) whether the Board should offer diversified investment 
+     selections for such account holders that takes into 
+     consideration the age of the individual.
+                                 ______
+```
