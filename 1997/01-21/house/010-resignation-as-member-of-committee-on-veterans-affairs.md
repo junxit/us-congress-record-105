@@ -1,0 +1,44 @@
+---
+granule: CREC-1997-01-21-pt1-PgH235-3
+date: 1997-01-21
+edition: CREC
+section: HOUSE
+page: H235
+citation: 143 Cong. Rec. H235
+---
+
+# RESIGNATION AS MEMBER OF COMMITTEE ON VETERANS' AFFAIRS
+
+```
+        RESIGNATION AS MEMBER OF COMMITTEE ON VETERANS' AFFAIRS
+
+  The SPEAKER pro tempore laid before the House the following 
+resignation as a member of the Committee on Veterans' Affairs:
+
+                                    Congress of the United States,
+
+
+                                     House of Representatives,
+
+                                 Washington, DC, January 21, 1997.
+     Re Request to take leave from Veterans Committee.
+
+     Hon. Newt Gingrich,
+     The Capitol,
+     Washington, DC.
+       Dear Newt: In light of my new assignment to the House 
+     Committee on Government Reform and Oversight, I hereby 
+     request that I be granted a leave of absence from my assigned 
+     slot on the Committee on Veterans' Affairs.
+       Thank you for your consideration.
+       With warmest regards, I am,
+           Very truly yours,
+                                                         Bob Barr.
+                                               Member of Congress.
+
+  The SPEAKER pro tempore. Without objection, the resignation is 
+accepted.
+  There was no objection.
+
+                          ____________________
+```
