@@ -1,0 +1,122 @@
+---
+granule: CREC-1998-05-15-pt1-PgS4943-5
+date: 1998-05-15
+edition: CREC
+section: SENATE
+page: S4943
+citation: 144 Cong. Rec. S4943
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate May 15, 1998:
+
+
+                             The Judiciary
+
+       Alvin K. Hellerstein, of New York, to be United States 
+     District Judge for the Southern District of New York vice 
+     Louis L. Stanton, retired.
+
+
+                            In the Air Force
+
+       THE FOLLOWING NAMED OFFICERS FOR REGULAR APPOINTMENT IN THE 
+     GRADES INDICATED IN THE UNITED STATES AIR FORCE UNDER TITLE 
+     10, U.S.C., SECTION 531:
+
+                             To be colonel
+
+WILLIAM E. DICKERSON, 0000
+JAMES J. DOUGHERTY, 0000
+MICHAEL L. FARRELL, 0000
+
+                        To be lieutenant colonel
+
+GEORGE W. ESTES, 0000
+DAVID P. KISSINGER, 0000
+WILLIAM E. NELSON, 0000
+
+
+                              In the army
+
+       THE FOLLOWING NAMED ARMY NATIONAL GUARD OF THE UNITED 
+     STATES OFFICERS FOR APPOINTMENT TO THE GRADE INDICATED IN THE 
+     RESERVE OF THE ARMY UNDER TITLE 10, U.S.C., SECTIONS 12203 
+     AND 12211:
+
+                             To be colonel
+
+HERBERT P. FRITTS, 0000
+EDDIE L. NEWMAN, 0000
+WILLIE H. OGLESBY, JR., 0000
+
+
+                              In the Navy
+
+       The following named officer for reappointment in the grade 
+     indicated in the United States Navy from the Temporary 
+     Disability Retired List under Title 10, U.S.C. section 1211:
+
+                            To be lieutenant
+
+Masako Hasebe, 0000
+       THE FOLLOWING NAMED OFFICERS FOR TEMPORARY APPOINTMENT TO 
+     THE GRADE INDICATED IN THE UNITED STATES NAVY UNDER TITLE 10, 
+     U.S.C., SECTION 5721:
+
+                       To be lieutenant commander
+
+RICHARD B. ALSOP, 0000
+DOUGLAS B. BECKER, JR., 0000
+ROY G. BEJSOVEC, 0000
+GUNTER I. BRAUN, 0000
+CHAD D. BROWN, 0000
+ERIK A. BURIAN, 0000
+STEPHEN N. BURKE, 0000
+THOMAS M. CALLENDER, 0000
+JAMES B. CAWRSE, 0000
+BLAKE L. CONVERSE, 0000
+MICHAEL J. COX, 0000
+JOHN R. CRAIG, 0000
+FLOYD R. CRISP, II, 0000
+MICHAEL S. FEYEDELEM, 0000
+KEVIN S. FORD, 0000
+RICHARD A. FREY, 0000
+JAMES P. GOMPPER, 0000
+FRANCIS R.J. GUTIERREZ, 0000
+PAUL HARVEY, 0000
+LYLE E. HOAG, 0000
+THOMAS P. HOLLINGSHEAD, 0000
+KEVIN D. JONES, 0000
+MICHAEL I. KATAHARA, 0000
+KYLE D. KLIEWER, 0000
+KENN M. KNITTEL, 0000
+JOHN J. LAPOINT, 0000
+BRIAN M. LEPINE, 0000
+DONALD B. LESH, 0000
+ALBERT J. MAGNAN, 0000
+CHARLES H. MC GUIRE, IV, 0000
+JAMES C. MINISTER, 0000
+DENNIS W. MITCHELL, 0000
+DANIEL W. MONTGOMERY, 0000
+DONALD R. MORDUS, 0000
+ELMER M. NARRAVO, 0000
+DOUGLAS B. OGLESBY, 0000
+DAVID D. PETRI, 0000
+MARK A. PROKOPIUS, 0000
+TIMOTHY A. REXRODE, 0000
+FARLEY K. REYNOLDS, 0000
+TIMOTHY A. SCHORR, 0000
+MELVIN J. SIMON, JR., 0000
+STEVEN F. SMITH, JR., 0000
+MICHAEL J. STEVENS, 0000
+NEIL A. SZANYI, 0000
+MICHAEL W. TEMME, 0000
+JOHN D. THOMAS, 0000
+STEVEN D. VINCENT, 0000
+THEODORE A. ZOBEL, 0000
+```
