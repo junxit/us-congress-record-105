@@ -1,0 +1,647 @@
+---
+granule: CREC-1997-02-11-pt1-PgS1247-5
+date: 1997-02-11
+edition: CREC
+section: SENATE
+page: S1247
+citation: 143 Cong. Rec. S1247
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate February 11, 1997:
+
+
+              national foundation for arts and humanities
+
+       Tracey D. Conwell, of Texas, to be a Member of the National 
+     Museum Services Board for a term expiring December 6, 2001, 
+     vice Fay S. Howell, term expired.
+
+
+                         department of justice
+
+       Joaquin L. G. Salas, of Guam, to be U.S. Marshal for the 
+     district of Guam and concurrently U.S. Marshal for the 
+     District of the Northern Mariana Islands for the term of 4 
+     years, vice Jose R. Mariano.
+
+
+                             the judiciary
+
+       Mary Ann Gooden Terrell, of the District of Columbia, to be 
+     an Associate Judge of the Superior Court of the District of 
+     Columbia for the term of 15 years, vice Richard Stephen 
+     Salzman, term expired.
+       Patricia A. Broderick, of the District of Columbia, to be 
+     an Associate Judge of the Superior Court of the District of 
+     Columbia for the term of 15 years, vice Harriett Rosen 
+     Taylor, term expired.
+
+
+                           in the coast guard
+
+       The following regular officers of the United States Coast 
+     Guard for the appointment to the grade of rear admiral:
+
+     Robert C. North
+     Timothy W. Josiah
+     Fred L. Ames
+     Richard M. Larrabee III
+     John T. Tozzi
+     Thomas H. Collins
+     Ernest R. Riutta
+
+
+                              marine corps
+
+       The Following-named officers for regular appointment to the 
+     grades indicated in the U.S. Marine Corps under title 10, 
+     United State Code, section 531:
+
+                              To be major
+
+NEITA A. ARMSTRONG, 0000
+MATTHEW A. BARBATO, 0000
+BRIAN K. BARTON, 0000
+MICHAEL R. BROWN, JR., 0000
+FRANCIS X. CARROLL, 0000
+DOUGLAS W. EDWARDS, 0000
+SUSAN L. EDWARDS, 0000
+
+[[Page S1248]]
+
+JEFFERSON D. HOLDEN, 0000
+MICHAEL J. JACKSON, 0000
+NEAL A. JACOB, 0000
+ANNETTE R. JACOBSEN, 0000
+ROBERT B. MORRISON, 0000
+TERRY D. OWENS, 0000
+RANDOLPH A. PETERSON, 0000
+RONALD B. PINER, 0000
+MARK L. ROBERTS, 0000
+RICHARD G. RUTTER, JR., 0000
+KENNETH D. WHITE, 0000
+PAUL R. WILSON, 0000
+
+                             To be captain
+
+BURNELL H. AGE, JR., 0000
+CHRISTOPHE W. ALLEN, 0000
+ILYA R. AMMONS, 0000
+ERIC D. ANDERSON, 0000
+JOHN R. ANDERSON, 0000
+GREGORY D. ANDERSON, 0000
+SAMEUL J. ANTCLIFFE, 0000
+MICHAEL P. ANTONIO, 0000
+DANA I. ARENSON, 0000
+JOSEPH L. ASHBAKER, JR., 0000
+STEPHEN H. ASHLEY, 0000
+PAUL H. ATTERBURY, 0000
+ROBERT B. BABCOCK, 0000
+KENDALL D. BAILEY, 0000
+RAYMOND G. BAKER, 0000
+AHMAD BANDANI, 0000
+STEPHEN S. BARRANCO, JR., 0000
+ERIC E. BATTLE, 0000
+PAUL M. BECKWITH, 0000
+JAMES D. BELSON, 0000
+DAVID BERNATOVICH, 0000
+DAVID P. BERRY, 0000
+CHAD A. BLAIR, 0000
+ARNOLD D. BLANKENSHIP II, 0000
+RUSSELL A. BLAUW, 0000
+BRANTLEY A. BOND, 0000
+ANTHONY W. BOWN, 0000
+STEPHEN E. BROOKS, 0000
+CHARLES L. BROWN, 0000
+AUSTIN D. BRYANT, 0000
+WILLIAM T. BUFKIN II, 0000
+BRIAN E. BUFTON, 0000
+WAYNE M. BUNKER, 0000
+CARL D. BURTNER, JR., 0000
+RUSSELL C. BURTON, 0000
+DAVID W. BUSSEL, 0000
+GREGORY E. BUTCHER, 0000
+KELLY D. CAILLOUET, 0000
+MARKHAM B. CAMPAIGNE, JR., 0000
+MICHEL C. CANCELLIER, 0000
+DAVID CARBONERO, 0000
+CHRISTOPHE U. CARR, 0000
+JOHN R. CASTILLO, 0000
+JAMES C. CHAPMAN, 0000
+CHRISTIAN P. CHARLEVILLE, 0000
+MELVIN L. CHATTMAN, 0000
+ERIK L. CHRISTENSEN, 0000
+J.E. CHRISTIANSEN, 0000
+BENJAMIN R. CLATTERBUCK, 0000
+JOSEPH M. CLOWDSLEY, 0000
+DOUGLAS W. COCHRAN, 0000
+MICHAEL J. COCO, 0000
+STEPHEN C. COHN, 0000
+JAIME O. COLLAZO, 0000
+JAMES L. COMBS, 0000
+KEVIN M. CONSOLE, 0000
+CHAD J. CONYERS, 0000
+IAN D. COURTNEY, 0000
+GERRY R. COX, 0000
+WAYNE O. COX II, 0000
+BRADLEY W. CRABTREE, 0000
+SCOTT N. CRADER, 0000
+JOSEPH A. CRAFT, 0000
+MARK A. CRAWFORD, 0000
+THOMAS W. CRECCA, 0000
+MATTHEW A. CROCE, 0000
+MICHAEL S. CUNINGHAM, 0000
+KEVIN G. CUNNANE, 0000
+BRET R. CURTIS, 0000
+ERIC B. DAILEY, 0000
+THOMAS C. DAMES, 0000
+EARL W. DANIELS, 0000
+JAMES G. DAVIDSON, 0000
+DOUGLAS B. DAVIS, 0000
+MATTHEW A. DAY, 0000
+DEVIN C. DELL, 0000
+MICHAEL P. DELMAS, 0000
+JOHN B. DELUCA, 0000
+DOUGLAS B. DENNIS, 0000
+KENNETH R. DEVERO II, 0000
+THOMAS E. DEVINE, 0000
+daniel j. dewhirst, 0000
+ossen j. dhaiti, 0000
+john w. diedenhofen iv, 0000
+mark d. dietz, 0000
+john e. dobes, 0000
+james k. doris, 0000
+kevin b. doty, 0000
+douglas g. douds, 0000
+timothy m. dougherty, 0000
+ly t. drummond, 0000
+robert m. dukes, 0000
+david p. duma, 0000
+terence j. dunne, 0000
+edward c. durant, 0000
+andrew l. east, 0000
+jeffrey r. eberwein, 0000
+gosch l. ehlers iii, 0000
+eric j. eldred, 0000
+legrand elebash, 0000
+thomasmore j. episcopio, 0000
+thomas c. euler iii, 0000
+paul c. fagan, 0000
+brian e. fagan, 0000
+john p. farnam, 0000
+michael farrell, 0000
+shawn s. farrington, 0000
+daniel e. fennell, 0000
+matthew p. ferguson, 0000
+robert a. fifer, 0000
+donald r. finn, 0000
+alan d. foust, 0000
+richard f. fuerst, 0000
+robert m. fuhrer, 0000
+frank t. fuller, 0000
+brian r. fuller, 0000
+matthew k. gallagher, 0000
+michael gante, jr., 0000
+stephen a. gassner, 0000
+tyson b. geisendorff, 0000
+christian ghee, 0000
+michael p. gilbert, 0000
+gregory o. glaeser, 0000
+gregory n. glasser, 0000
+iv herman glover, 0000
+michael f. gogolin, 0000
+gary j. golembiski, 0000
+david r. goodell iii, 0000
+virgilio gonzalez, 0000
+john m. graham, 0000
+jeffery s. greenwood, 0000
+justin t. greiner, 0000
+charles g. griffin ii, 0000
+christophe r. guilford, 0000
+steve d. hagerty, 0000
+andrew w. hall, 0000
+sean v. halpin, 0000
+DAN HANKS, 0000
+GREGORY J. HANVILLE, 0000
+JAMES W. HARGUS, Jr., 0000
+JAMES F. HARP, 0000
+BRIAN D. HARRELSON, 0000
+MARK S. HARRINGTON, 0000
+WESLEY D. HART, 0000
+PETER W. HART, 0000
+EUGENE K. HARTER III, 0000
+BRIAN W. HAVILAND, 0000
+EVAN B. HAYMES, 0000
+MATTHEW K. HAYS, 0000
+ANTHONY M. HENDERSON, 0000
+ELAINE M. HENSEN, 0000
+RICHARD L. HILL, 0000
+HUNTER H. HOBSON, 0000
+WILLIAM M. HOFMANN, 0000
+MICHAEL T. HOLMES, 0000
+GEORGE N. HOUGH, 0000
+RICHARD B. HOWELL, 0000
+KEVIN M. HUDSON, 0000
+DANIEL C. IRCINK, 0000
+SAMUEL E. JACKSON, 0000
+JOHN B. JENSEN II, 0000
+JAMES E. JENNINGS, 0000
+ALLEN K. JOHNSON, 0000
+RONALD I. JOHNSON, 0000
+CARROLL J. JOUBERT, JR., 0000
+DONALD P. JULIAN, 0000
+KIRIAKOS KALOGIANNIS, 0000
+JOHN F. KELLIHER III, 0000
+CHARLES B. KELLY, 0000
+TRENTON E. KENAGY, 0000
+JAMES R. KENNEDY, 0000
+PETER F. KIELTY, 0000
+CRAIG M. KILHENNY, 0000
+CRAIG T. KILLIAN, 0000
+LAWRENCE E. KILLMEIER, JR., 0000
+MICHAEL G. KING, 0000
+FORREST D. KNOWLTON, 0000
+KEVIN S. KRETZSCHMAR, 0000
+HENRY T. KUEHN, 0000
+ROBERT A. KUROWSKI, 0000
+ROBERT M. LACK, 0000
+RHETT B. LAWING, 0000
+BEAU M. LAWRENCE, 0000
+TREVOR A. LAWS, 0000
+HEATH A. LAWSON, 0000
+MICHAEL J. LEAMY, 0000
+JACK T. LEDFORD, JR., 0000
+IV CARL LEHRKIND, 0000
+BLAKE E. LEMAIRE, 0000
+MARK J. LENNERTON, 0000
+COBY G. LEUSCHKE, 0000
+DARIN E. LIERLY, 0000
+PATRICK A. LINDAUER, 0000
+Thomas M. Loehle, 0000
+Matthew W. Lotz, 0000
+James I. Lukehart, Jr., 0000
+Thomas P. Macauley, 0000
+Daniel W. Mac Donald III, 0000
+Sean R. Madden, 0000
+JOhn E. Mades, 0000
+Scott D. Magidson, 0000
+Frank W. Majdan, Jr., 0000
+Steven P. Manber, 0000
+Damien M. Marsh, 0000
+John J. Martin, 0000
+Gregory R. Martin, 0000
+Kendall A. Martinez, 0000
+Sean P. Mattingly, 0000
+James H. Matts, 0000
+George J. Mautz, 0000
+William B. Mayberry, Jr., 0000
+David B. Mc Cann, 0000
+Joseph T. Mc Cloud, 0000
+Paul R. Mc Connell, 0000
+Paul H. Mc Connell, 0000
+David G. Mc Culloh, 0000
+Katherine M. Mc Donald, 0000
+Daniel B. Mc Dyre, Jr., 0000
+Jason S. Mc Farland, 0000
+John G. Mc Ginnis, 0000
+Arthur B. Mc Keel, 0000
+Christopher A. Mc Phillips, 0000
+Kevin T. Mc Tarsney, 0000
+Halstead Meadows III, 0000
+Thomas M. Meaney, 0000
+Michael W. Melso, 0000
+Sander H. Melvin, 0000
+Jack D. Merkel, 0000
+James L. Miller, 0000
+Paul R. Mogg, 0000
+Jonathan S. Mooneyham, 0000
+Marcus A. Moore, 0000
+David B. Morgan, 0000
+Justin S. Moro, 0000
+Darin S. Morris, 0000
+Andrew J. Moyer, 0000
+David J. Murphy, 0000
+Joseph M. Murray, 0000
+Lionel R. Neder, 0000
+Sean W. Nestler, 0000
+John G. Newhall, Jr., 0000
+Mark R. Nickles, 0000
+Erik R. Nielsen, 0000
+Harry D. Oakley, 0000
+James E. Oharra, 0000
+Brian R. Oleary, 0000
+Duane A. Opperman, 0000
+Lynn W. Oyler, 0000
+Ronald L. Pace, 0000
+MICHAEL L. PAGANO, 0000
+JAY B. PARKER, 0000
+DAVID B. PARKS, 0000
+PATRICK C. PATTERSON, 0000
+TRACY L. PEACOCK, 0000
+JEFFREY P. PFANNENSTEIN, 0000
+WILLIAM C. PIELLI, 0000
+JOHN C. POEHLER, 0000
+GREGORY A. PREWITT, 0000
+FRANK R. PROKUP, 0000
+JOSEPH F. QUINLAN III, 0000
+JOSEPH N. RAFTERY, 0000
+MATTHEW R. RAJKOVICH, 0000
+FRANK E. RAUCH II, 0000
+JOEL R. RAUENHORST, 0000
+TIMOTHY A. RAYNOR, 0000
+LOWELL F. RECTOR, 0000
+WESLEY C. REED, 0000
+BRENDAN REILLY, 0000
+ROBERT J. REYNOLDS, 0000
+WILLIAM D. RICE, 0000
+RICHARD R. RIERSON, 0000
+MICHAEL R. RIES, 0000
+THOMAS E. RINGO, 0000
+TIMOTHY S. ROBERTS, 0000
+HOWARD G. ROBINSON, 0000
+DANIEL J. RODMAN, 0000
+GREGG B. ROGERS, 0000
+JERRY R. ROGERS II, 0000
+PAUL S. ROLLIN, 0000
+THOMAS J. ROMUALD, 0000
+CHARLES D. ROSE, JR., 0000
+STEVEN A. ROSS, 0000
+WILLIAM R. RUSSELL, 0000
+SHAUN L. SADLER, 0000
+SEAN M. SALENE, 0000
+BRENT E. SANDERS, 0000
+ANDREW J. SAUER, 0000
+JOHN M. SCHAAR, 0000
+CHRISTOPHE W. SCHARF, 0000
+GRANT W. SCHNEEMANN, 0000
+JONATHAN B. SCRABECK, 0000
+THOMAS R. SEIFERT, 0000
+GEORGE R. SEWELL, 0000
+BRIAN L. SHATT, 0000
+SANJEEV SHINDE, 0000
+PAUL A. SIMMONDS, 0000
+JOHN T. SIMPSON, 0000
+THOMAS R. SIMS, 0000
+STEPHEN D. SIZEMORE, 0000
+BRUCE K. SIZEMORE, 0000
+ROBERT B. SKANKEY, 0000
+GEORGE J. SLYER III, 0000
+LARRY J. SMITH, 0000
+ROBERT J. SMULLEN, 0000
+MICHAEL L. SNAVELY, 0000
+JON E. SPAAR, 0000
+PAUL L. STARITA, 0000
+SCOTT F. STEBBINS, 0000
+RICHARD G. STEELE, 0000
+MICHAEL S. STEGELMAN, 0000
+BENNETT L. STEINER, 0000
+NOEL C. STEVENS, 0000
+ANDREW V. STICH, 0000
+MICHAEL A. STOLZENBURG, 0000
+DOUGLAS D. STUMPF, 0000
+DAVID A. SUGGS, 0000
+PATRICK C. SULLIVAN, 0000
+JOHN D. SWAIN, 0000
+KURT A. SWANICK, 0000
+ERIK H. SWENSON, 0000
+DOUGLAS K. SWITZER, 0000
+MICHAEL D. TENCATE, 0000
+CHARLES C. TERRASSE, 0000
+MICHAEL C. TERREL, 0000
+ADAM C. THARP, 0000
+BRIAN M. THAYER, 0000
+ALAN D. THOBURN III, 0000
+MATTHEW R. THOMAS, 0000
+PATRICK M. TIMOTHY, 0000
+PETER C. TITCOMB, JR., 0000
+MARK D. TOBIN, 0000
+MATTHEW E. TOLLIVER, 0000
+JOHN R. TOMCZYK, 0000
+WILLIAM P. VANZWOLL, 0000
+WILLIAM A. VARGO, 0000
+JEFFREY M. VERRANT, 0000
+
+[[Page S1249]]
+
+GANPAT V. WAGH, 0000
+THOMAS A. WAGONER, JR., 0000
+GAINES L. WARD, 0000
+MICHAEL T. WARRING, 0000
+ROBERT B. WEHNER, 0000
+DOUGLAS S. WEINMANN, 0000
+ERIC S. WEISSBERGER, 0000
+AARON S. WELLS, 0000
+BRIAN H. WIKTOREK, 0000
+ANTHONY C. WILLIAMS, 0000
+GARY M. WILLIAMS, 0000
+CHRISTOPHE J. WILLIAMS, 0000
+MARCUS W. WILLIAMS, 0000
+STEVEN L. WILSON, 0000
+ALFRED J. WOODFIN, 0000
+PATRICIA L. WOODS, 0000
+MALCOLM J. WOOLFOLK, 0000
+BRUCE D. YOUNGBLUTH, 0000
+WILLIAM A. ZACHARIAS, JR., 0000
+
+                         To be first lieutenant
+
+DANA A. AHRENS, 0000
+ANTHONY L. ALLEN, 0000
+CHARLES M. ANDREWS, JR., 0000
+ERIC M. ARBOGAST, 0000
+WILLIAM L. BABCOCK, JR., 0000
+JAMES H. BAIN, 0000
+ROBERT S. BAKER, 0000
+DAVID G. BARDORF, 0000
+MARTIN L. BARTLETT, 0000
+DAVID A. BECKER, 0000
+HAYNESLY R. BLAKE, 0000
+DEVIN T. BLEA, 0000
+STEVEN R. BOWERS, 0000
+SCOTT H. BRAHIN, 0000
+PAUL B. BRICKLEY, 0000
+MARK W. BUIE, 0000
+TIMOTHY J. BURCH, 0000
+KENNETH A. BURGER, 0000
+KERRY A. CAMPBELL, 0000
+DANIEL T. CANFIELD, JR., 0000
+CORBY S. CARBONE, 0000
+WILLIAM P. CARROLL, 0000
+STEPHEN L. CASTORA, 0000
+MARC A. CESARIO, 0000
+ADAM L. CHALKLEY, 0000
+BENJAMIN D. CHAPMAN, 0000
+TROY L. CLARK, 0000
+DARIN J. CLARKE, 0000
+GREGORY J. CLARKE, 0000
+JOSEPH R. CLEARFIELD, 0000
+JEFFREY L. CONLEY, 0000
+CARL E. COOPER, JR., 0000
+ERIC M. CORCORAN, 0000
+KEVIN F. COUGHLIN, 0000
+JOHN H. COVINGTON, JR., 0000
+PATRICK W. COX, 0000
+DARYL G. CRANE, 0000
+MCCARRELL A. CRUMRINE, 0000
+NICHOLAS E. DAVIS, 0000
+NEAL L. DEFORD, 0000
+PAMELA J. DEMORAT, 0000
+TIMOTHY B. DENTRY, 0000
+JORGE DIAZ, 0000
+DAVID C. DICKEY, 0000
+NICHOLAS L. DITTLINGER, 0000
+ROSWELL V. DIXON, 0000
+DARRYL W. DOTSON, 0000
+CRAIG R. DOTY, 0000
+LANCE A. DOWD, JR., 0000
+ROBERT D. DOZIER, 0000
+KARI DRABICK, 0000
+BRIAN W. ECARIUS, 0000
+JEFFREY A. EICHHOLZ, 0000
+CHRISTIAN T. ELLINGER, 0000
+KYLE B. ELLISON, 0000
+DOUGLAS J. ENGEL, 0000
+MONTGOMERY C. ERFOURTH, 0000
+DAREN J. ERICKSON, 0000
+MANUEL ESCARCEGA, JR., 0000
+PETER C. FARNUM, 0000
+PHILIP B. FARR, 0000
+RONALD M. FARRIS, JR., 0000
+CHRISTOPHE M. FEARS, 0000
+WALKER M. FIELD, 0000
+SHAUN M. FITZSIMMONS, 0000
+DOMINIC FOSTER, 0000
+TYRONE R. FRANKLIN, 0000
+MACEO B. FRANKS, 0000
+WESLEY A. FRASARD, JR., 0000
+KEITH A. FRY, 0000
+JOHN R. GABBARD, 0000
+SEAN C. GALLAGHER, 0000
+SYLVESTER GAVINS, 0000
+PAUL J. GEARY, 0000
+DANIEL W. GEISENHOF, 0000
+MAX GORALNICK, 0000
+MICHAEL T. GREENO, 0000
+THOMAS C. GRESSER II, 0000
+JOHN C. GRISDALE, 0000
+DARYL E. GRISSOM, 0000
+DONG K. HAN, 0000
+ALEXANDER H. HART, 0000
+PATRICK J. HARTNETT, 0000
+CHAD T. HEDLESTON, 0000
+RAPHAEL HERNANDEZ, 0000
+TYLER R. HOLMQUIST, 0000
+JEFFREY C. HOLT, 0000
+LAWRENCE E. HUGGINS, JR., 0000
+KENNETH E. HUMPHREY, 0000
+LAWRENCE K. HUSSEY, 0000
+DENISE M. HYDE, 0000
+CHRISTOPHE B. JACKSON, 0000
+THOMAS C. JARMAN, 0000
+BRIAN E. JONES, 0000
+ROBERT A. KAMINSKI, 0000
+STEPHEN M. KAMPEN, 0000
+MARVIN B. KETTLE, 0000
+DAVID E. KINKAID, 0000
+SCOTT J. KINNER, 0000
+HEIDI E. KINNER, 0000
+STEVEN J. KOTANSKY, 0000
+BRYAN K. KRAMER, 0000
+DAVID E. LANE II, 0000
+WENDELL B. LEIMBACH, JR., 0000
+RODNEY L. LEWIS, 0000
+RICHARD J. LUCIER, 0000
+ERIC M. MARTIN, 0000
+COLLEEN D. MARSHALL, 0000
+ERIC M. MARTINEAU, 0000
+CURTIS A. MASON, 0000
+MELISSA I. MC CAMISH, 0000
+JAMES M. MC GIVNEY, 0000
+HEIDI J. MC KENNA, 0000
+MICHAEL E. MC WILLIAMS, 0000
+ELDON E. METZGER, 0000
+ralph b. meyers, 0000
+michael t. miller, 0000
+james a. mistretta, 0000
+john f. moore, 0000
+juan j. moreno, 0000
+christophe d. morton, 0000
+thomas j. naughton, jr., 0000
+brian w. neil, 0000
+erik p. nelson, 0000
+julie l. nethercot, 0000
+matthew j. noble, 0000
+sean m. noel, 0000
+kevin a. norton, 0000
+edward w. novack, 0000
+john e. orille, 0000
+john j. otoole iii, 0000
+keith e. owens, 0000
+martin j. pallotta, 0000
+todd e. perry, 0000
+tolan m. pica, 0000
+raymond j. placiente, 0000
+michael j. prouty, 0000
+javier t. ramos, 0000
+charles c. randolph ii, 0000
+richard j. reilly, 0000
+gregory f. rhoden, 0000
+carlos r. rodriguez, jr., 0000
+joseph j. russo, 0000
+ronald j. rux, 0000
+michael e. schutte, 0000
+dominic a. setka, 0000
+william d. shannon, 0000
+mark w. shellabarger, 0000
+john h. sorenson, 0000
+anthony m. sparagno, jr., 0000
+robert t. stanford, 0000
+michael c. starling, 0000
+kimberly a. stastny, 0000
+michael j. steele, 0000
+gregg l. stimatze, 0000
+james b. stone iv, 0000
+brian l. strobel, 0000
+keith a. sykes, 0000
+david s. sylvester, 0000
+michael j. targos iii, 0000
+bradford j. tenney, 0000
+john w. thayer, 0000
+clay c. tipton, 0000
+kris a. tlapa, 0000
+eric h. traupe, 0000
+glenn c. vogel, 0000
+dean j. vrable, 0000
+charlene m. walters, 0000
+bradley e. white, 0000
+sean b. whitehouse, 0000
+kevin w. winter, 0000
+bryan k. wood, 0000
+joseph a. wronkowski, 0000
+vincent j. yasaki, 0000
+
+                        To be second lieutenant
+
+michael r. alexander, 0000
+timothy m. bairstow, 0000
+roni r. elmore, 0000
+matthew t. good, 0000
+bryan e. hill, 0000
+steven m. jaconetti, 0000
+gilbert d. juarez, 0000
+matthew r. mc gath, 0000
+jason s. perry, 0000
+john s. postorino, 0000
+kenneth c. potter, 0000
+thomas r. przybelski, 0000
+alan b. rowe, 0000
+edward t. rush, jr., 0000
+matthew p. segrest, 0000
+
+                          ____________________
+```
