@@ -1,0 +1,495 @@
+---
+granule: CREC-1997-07-25-pt1-PgH5804
+date: 1997-07-25
+edition: CREC
+section: HOUSE
+page: H5804
+citation: 143 Cong. Rec. H5804
+---
+
+# MOTION TO CLOSE CONFERENCE COMMITTEE MEETINGS ON H.R. 1119, NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 1998, WHEN CLASSIFIED NATIONAL SECURITY INFORMATION IS UNDER CONSIDERATION
+
+**Speaking:** Spence, Floyd (S000718) [R-SC]
+
+**Measures:** H.R. 1119
+
+```
+ MOTION TO CLOSE CONFERENCE COMMITTEE MEETINGS ON H.R. 1119, NATIONAL 
+    DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 1998, WHEN CLASSIFIED 
+          NATIONAL SECURITY INFORMATION IS UNDER CONSIDERATION
+
+  Mr. SPENCE. Mr. Speaker, pursuant to rule XXVIII, clause 6(a), I move 
+that the conference committee meetings on the bill (H.R. 1119) to 
+authorize appropriations for fiscal years 1998 and 1999 for military 
+activities of the Department of Defense, to prescribe military 
+personnel strengths for fiscal years 1998 and 1999, and for other 
+purposes, be closed to the public at such times as classified national 
+security information is under consideration, provided, however, that 
+any sitting Member of Congress shall have the right to attend any 
+closed or open meeting.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from South Carolina [Mr. Spence].
+  Pursuant to clause 6(a) of rule XXVIII, the yeas and nays are 
+ordered.
+  The vote was taken by electronic device, and there were-- yeas 409, 
+nays 1, not voting 24, as follows:
+
+                             [Roll No. 331]
+
+                               YEAS--409
+
+     Abercrombie
+     Ackerman
+     Aderholt
+     Allen
+     Andrews
+     Archer
+     Armey
+     Bachus
+     Baesler
+     Baldacci
+     Ballenger
+     Barcia
+     Barr
+     Barrett (NE)
+     Barrett (WI)
+     Bartlett
+     Barton
+     Bass
+     Bateman
+     Becerra
+     Bentsen
+     Bereuter
+     Berman
+     Berry
+     Bilbray
+     Bilirakis
+     Bishop
+     Blagojevich
+     Bliley
+     Blunt
+     Boehlert
+     Bonilla
+     Bonior
+     Bono
+     Borski
+     Boswell
+     Boucher
+     Boyd
+     Brady
+     Brown (CA)
+     Brown (FL)
+     Brown (OH)
+     Bryant
+     Bunning
+     Burr
+     Callahan
+     Calvert
+     Camp
+     Campbell
+     Canady
+     Cannon
+     Capps
+     Cardin
+     Carson
+     Castle
+     Chabot
+     Chambliss
+     Christensen
+     Clay
+     Clayton
+     Clement
+     Clyburn
+     Coble
+     Coburn
+     Collins
+     Combest
+     Condit
+     Conyers
+     Cook
+     Cooksey
+     Costello
+     Cox
+     Coyne
+     Cramer
+     Crane
+     Crapo
+     Cummings
+     Cunningham
+     Danner
+     Davis (FL)
+     Davis (IL)
+     Davis (VA)
+     Deal
+     DeGette
+     Delahunt
+     DeLauro
+     DeLay
+     Dellums
+     Deutsch
+     Diaz-Balart
+     Dickey
+     Dicks
+     Dingell
+     Dixon
+     Doggett
+     Dooley
+     Doolittle
+     Doyle
+     Dreier
+     Duncan
+     Dunn
+     Edwards
+     Ehlers
+     Ehrlich
+     Emerson
+     Engel
+     English
+     Ensign
+     Eshoo
+     Etheridge
+     Evans
+     Everett
+     Ewing
+     Farr
+     Fattah
+     Fawell
+     Fazio
+     Filner
+     Flake
+     Foglietta
+     Foley
+     Forbes
+     Ford
+     Fowler
+     Fox
+     Frank (MA)
+     Franks (NJ)
+     Frelinghuysen
+     Frost
+     Furse
+     Ganske
+     Gejdenson
+     Gekas
+     Gephardt
+     Gibbons
+     Gilchrest
+     Gillmor
+     Gilman
+     Goode
+     Goodlatte
+     Goodling
+     Goss
+     Graham
+     Granger
+     Green
+     Greenwood
+     Gutierrez
+     Gutknecht
+     Hall (OH)
+     Hall (TX)
+     Hamilton
+     Hansen
+     Harman
+     Hastert
+     Hastings (FL)
+     Hastings (WA)
+     Hayworth
+     Hefley
+     Hefner
+     Hill
+     Hilleary
+     Hilliard
+     Hinchey
+     Hinojosa
+     Hobson
+     Hoekstra
+     Holden
+     Hooley
+     Horn
+     Hostettler
+     Houghton
+     Hoyer
+     Hulshof
+     Hunter
+     Hutchinson
+     Hyde
+     Inglis
+     Istook
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     Jenkins
+     John
+     Johnson (CT)
+     Johnson (WI)
+     Johnson, E. B.
+     Johnson, Sam
+     Jones
+     Kanjorski
+     Kaptur
+     Kasich
+     Kelly
+     Kennedy (MA)
+     Kennedy (RI)
+     Kennelly
+     Kildee
+     Kilpatrick
+     Kim
+     Kind (WI)
+     King (NY)
+     Kingston
+     Kleczka
+     Klink
+     Klug
+     Knollenberg
+     Kolbe
+     Kucinich
+     LaFalce
+     LaHood
+     Lampson
+     Lantos
+     Largent
+     Latham
+     LaTourette
+     Lazio
+     Leach
+     Levin
+     Lewis (CA)
+     Lewis (GA)
+     Lewis (KY)
+     Linder
+     Livingston
+     LoBiondo
+     Lofgren
+     Lowey
+     Lucas
+     Luther
+     Maloney (CT)
+     Maloney (NY)
+     Manton
+     Manzullo
+     Markey
+     Mascara
+     Matsui
+     McCarthy (MO)
+     McCarthy (NY)
+     McCollum
+     McCrery
+     McDade
+     McDermott
+     McGovern
+     McHale
+     McHugh
+     McInnis
+     McIntosh
+     McIntyre
+     McKeon
+     McKinney
+     McNulty
+     Meehan
+     Menendez
+     Metcalf
+     Mica
+     Millender-McDonald
+     Miller (FL)
+     Minge
+     Mink
+     Moakley
+     Mollohan
+     Moran (KS)
+     Moran (VA)
+     Morella
+     Murtha
+     Myrick
+     Nadler
+     Neal
+     Nethercutt
+     Ney
+     Northup
+     Norwood
+     Nussle
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Owens
+     Oxley
+     Packard
+     Pallone
+     Pappas
+     Parker
+     Pascrell
+     Pastor
+     Paul
+     Paxon
+     Payne
+     Pease
+     Peterson (MN)
+     Peterson (PA)
+     Petri
+     Pickering
+     Pickett
+     Pitts
+     Pombo
+     Pomeroy
+     Porter
+     Portman
+     Poshard
+     Price (NC)
+     Pryce (OH)
+     Quinn
+     Radanovich
+     Rahall
+     Ramstad
+     Rangel
+     Redmond
+     Regula
+     Reyes
+     Riggs
+     Riley
+     Rivers
+     Rodriguez
+     Roemer
+     Rogan
+     Rogers
+     Rohrabacher
+     Rothman
+     Roukema
+     Roybal-Allard
+     Royce
+     Rush
+     Ryun
+     Sabo
+     Salmon
+     Sanchez
+     Sanders
+     Sandlin
+     Sanford
+     Sawyer
+     Saxton
+     Scarborough
+     Schaefer, Dan
+     Schaffer, Bob
+     Schumer
+     Scott
+     Sensenbrenner
+     Serrano
+     Sessions
+     Shadegg
+     Shaw
+     Shays
+     Sherman
+     Shimkus
+     Shuster
+     Sisisky
+     Skaggs
+     Skeen
+     Skelton
+     Slaughter
+     Smith (MI)
+     Smith (NJ)
+     Smith (OR)
+     Smith (TX)
+     Smith, Adam
+     Smith, Linda
+     Snyder
+     Solomon
+     Souder
+     Spence
+     Spratt
+     Stabenow
+     Stearns
+     Stenholm
+     Stokes
+     Strickland
+     Stump
+     Stupak
+     Sununu
+     Talent
+     Tanner
+     Tauscher
+     Tauzin
+     Taylor (MS)
+     Taylor (NC)
+     Thomas
+     Thompson
+     Thornberry
+     Thune
+     Thurman
+     Tiahrt
+     Tierney
+     Torres
+     Towns
+     Traficant
+     Turner
+     Upton
+     Velazquez
+     Vento
+     Visclosky
+     Walsh
+     Wamp
+     Waters
+     Watt (NC)
+     Watts (OK)
+     Waxman
+     Weldon (FL)
+     Weldon (PA)
+     Weller
+     Wexler
+     Weygand
+     White
+     Whitfield
+     Wicker
+     Wise
+     Wolf
+     Woolsey
+     Wynn
+     Yates
+     Young (FL)
+
+                                NAYS--1
+
+       
+     DeFazio
+       
+
+[[Page H5805]]
+
+
+
+                             NOT VOTING--24
+
+     Baker
+     Blumenauer
+     Boehner
+     Burton
+     Buyer
+     Chenoweth
+     Cubin
+     Gallegly
+     Gonzalez
+     Gordon
+     Herger
+     Lipinski
+     Martinez
+     Meek
+     Miller (CA)
+     Molinari
+     Neumann
+     Pelosi
+     Ros-Lehtinen
+     Schiff
+     Snowbarger
+     Stark
+     Watkins
+     Young (AK)
+
+                              {time}  1335
+
+  So the motion was agreed to.
+  The result of the vote was announced as above recorded.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
