@@ -1,0 +1,156 @@
+---
+granule: CREC-1998-07-17-pt1-PgS8535
+date: 1998-07-17
+edition: CREC
+section: SENATE
+page: S8535
+citation: 144 Cong. Rec. S8535
+---
+
+# BANDELIER NATIONAL MONUMENT ADMINISTRATIVE IMPROVEMENT AND WATERSHED PROTECTION ACT OF 1997
+
+**Measures:** S. 1132
+
+```
+ BANDELIER NATIONAL MONUMENT ADMINISTRATIVE IMPROVEMENT AND WATERSHED 
+                         PROTECTION ACT OF 1997
+
+  The Senate proceeded to consider the bill (S. 1132) to modify the 
+boundaries of the Bandelier National Monument to include the lands 
+within the headwater of the Upper Alamo Watershed which drain into the 
+Monument and which are not currently within the jurisdiction of a 
+Federal land management agency, to authorize purchase or donation of 
+those lands and for other purposes, which had been reported from the 
+Committee on Energy and Natural Resources, with amendments; as follows:
+  (The parts of the bill intended to be stricken are shown in boldface 
+brackets and the parts of the bill intended to be inserted are shown in 
+italic.)
+
+                                S. 1132
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled, 
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Bandelier National Monument 
+     Administrative Improvement and Watershed Protection Act of 
+     1997''.
+
+     SEC. 2. FINDINGS AND PURPOSES.
+
+       (a) Findings.--Congress finds that:
+       (1) Bandelier National Monument (hereinafter, the Monument) 
+     was established by Presidential proclamation on February 11, 
+     1916, to preserve the archeological resources of a ``vanished 
+     people, with as much land as may be necessary for the proper 
+     protection thereof. . .'' (No. 1322; 39 Stat. 1746).
+       (2) At various times since its establishment, the Congress 
+     and the President have adjusted the Monument's boundaries and 
+     purpose to further preservation of archeological and natural 
+     resources within the Monument.
+       (A) On February 25, 1932, the Otowi Section of the Santa Fe 
+     National Forest (some 4,699 acres of land) was transferred to 
+     the Monument from the Santa Fe National Forest (Presidential 
+     Proclamation No. 1191; 17 Stat. 2503).
+       (B) In December of 1959, 3,600 acres of Frijoles Mesa were 
+     transferred to the National Park Service from the Atomic 
+     Energy Committee (hereinafter, AEC) and subsequently added to 
+     the Monument on January 9, 1991, because of ``pueblo-type 
+     archeological ruins germane to those in the monument'' 
+     (Presidential Proclamation No. 3388).
+       (C) On May 27, 1963, Upper Canyon, 2,882 acres of land 
+     previously administered by the AEC, was added to the Monument 
+     to preserve ``their unusual scenic character together with 
+     geologic and topographic features, the preservation of which 
+     would implement the purposes'' of the Monument (Presidential 
+     Proclamation No. 3539).
+       (D) In 1976, concerned about upstream land management 
+     activities that could result in flooding and erosion in the 
+     Monument, Congress included the headwaters of the Rito de los 
+     Frijoles and the Canada de Cochiti Grant (a total of 7,310 
+     acres) within the Monument's boundaries (Public Law 94-578; 
+     90 Stat. 2732).
+       (E) In 1976, Congress created the Bandelier Wilderness, a 
+     23,267 acres area that covers over 70 percent of the 
+     Monument.
+       (3) The Monument still has potential threats from flooding, 
+     erosion, and water quality deterioration because of the mixed 
+     ownership of the upper watersheds, along its western border, 
+     particularly in Alamo Canyon.
+       [(b) Purposes.--The purposes of this Act are to] (b) 
+     Purpose.--The purpose of this Act is to modify the boundary 
+     of the Monument to allow for acquisition and enhanced 
+     protection of the lands within the Monument's upper 
+     watershed.
+
+     SEC. 3. BOUNDARY MODIFICATION.
+
+       Effective on the date of enactment of this Act, the 
+     boundaries of the Monument shall be modified to include 
+     approximately 935 acres of land comprised of the Elk Meadows
+
+[[Page S8536]]
+
+     subdivision, the Gardner parcel, the Clark parcel, and the 
+     Baca Land & Cattle Co. lands within the Upper Alamo watershed 
+     as depicted on the map National Park Service map entitled 
+     [``Alamo Headwaters Proposed Additions'' dated 6/97.] 
+     ``Proposed Boundary Expansion Map Bandelier National 
+     Monument'' dated July, 1997. Such map shall be on file and 
+     available for public inspection in the offices of the 
+     Director of the National Park Service, Department of the 
+     Interior.
+
+     [SEC. 4. TRANSFER AND ACQUISITION OF LANDS.
+
+       [Within the boundaries designated by this Act, the 
+     Secretary of the Interior is authorized to acquire lands (or 
+     interests in lands such as he determines shall adequately 
+     protect the Monument from flooding, erosion, and degradation 
+     of its drainage waters) by donation, purchase with donated or 
+     appropriated funds, exchange, or transfer of lands acquired 
+     by other Federal agencies.]
+
+     SEC. 4. LAND ACQUISITION.
+
+       (a) In General.--Except as provided in subsections (b) and 
+     (c), the Secretary of the Interior is authorized to acquire 
+     lands and interests therein within the boundaries of the area 
+     added to the Monument by this Act by donation, purchase with 
+     donated or appropriated funds, transfer with another Federal 
+     agency, or exchange: Provided, That no lands or interests 
+     therein may be acquired except with the consent of the owner 
+     thereof.
+       (b) State and local lands.--Lands or interests therein 
+     owned by the State of New Mexico or a political subdivision 
+     thereof may only be acquired by donation or exchange.
+       (c) Acquisition of less than Fee interests in Land.--The 
+     Secretary may acquire less than fee interests in land only if 
+     the Secretary determines that such less than fee acquisition 
+     will adequately protect the Monument from flooding, erosion, 
+     and degradation of its drainage waters.
+
+     SEC. 5. ADMINISTRATION.
+
+       The Secretary of the Interior, acting through the Director 
+     of the National Park Service, shall manage the national 
+     Monument, including lands added to the Monument by this Act, 
+     in accordance with this Act and the provisions of law 
+     generally applicable to units of National Park System, 
+     including the Act of [August 25, an Act] August 25, 1916, an 
+     Act to establish a National Park Service (39 Stat. 535; 16 
+     U.S.C. 1 et seq.), and such specific legislation as 
+     heretofore has been enacted regarding the Monument.
+
+     SEC. 6. AUTHORIZATION OF APPROPRIATIONS.
+
+       There is authorized to be appropriated such sums as may be 
+     necessary to carry out the purpose of this Act.
+
+  The committee amendments were agreed to.
+  The bill (S. 1132), as amended, was deemed read the third time and 
+passed.
+
+                          ____________________
+```
