@@ -1,0 +1,489 @@
+---
+granule: CREC-1997-07-08-pt1-PgH4877-7
+date: 1997-07-08
+edition: CREC
+section: HOUSE
+page: H4877
+citation: 143 Cong. Rec. H4877
+---
+
+# ATLANTIC STRIPED BASS CONSERVATION ACT AMENDMENTS OF 1997
+
+**Measures:** H.R. 1658
+
+```
+       ATLANTIC STRIPED BASS CONSERVATION ACT AMENDMENTS OF 1997
+
+  The SPEAKER pro tempore (Mr. Goodling). The pending business is the 
+question of suspending the rules and passing the bill, H.R. 1658, as 
+amended.
+  The Clerk read the title of the bill.
+  The SPEAKER pro tempore. The question is on the motion offered by
+
+[[Page H4878]]
+
+the gentleman from Pennsylvania [Mr. Peterson] that the House suspend 
+the rules and pass the bill, H.R. 1658, as amended, on which the yeas 
+and nays are ordered.
+  This is a 5-minute vote.
+  The vote was taken by electronic device, and there were--yeas 399, 
+nays 8, not voting 27, as follows:
+
+                             [Roll No. 248]
+
+                               YEAS--399
+
+     Abercrombie
+     Ackerman
+     Aderholt
+     Allen
+     Andrews
+     Archer
+     Armey
+     Bachus
+     Baesler
+     Baker
+     Baldacci
+     Ballenger
+     Barcia
+     Barrett (NE)
+     Barrett (WI)
+     Bartlett
+     Barton
+     Bass
+     Bateman
+     Bentsen
+     Bereuter
+     Berman
+     Berry
+     Bilirakis
+     Bishop
+     Blagojevich
+     Bliley
+     Blumenauer
+     Blunt
+     Boehlert
+     Boehner
+     Bonilla
+     Bonior
+     Bono
+     Borski
+     Boswell
+     Boucher
+     Boyd
+     Brady
+     Brown (CA)
+     Brown (FL)
+     Bryant
+     Bunning
+     Burr
+     Burton
+     Buyer
+     Callahan
+     Calvert
+     Camp
+     Campbell
+     Canady
+     Cannon
+     Capps
+     Cardin
+     Carson
+     Castle
+     Chabot
+     Chambliss
+     Chenoweth
+     Christensen
+     Clay
+     Clayton
+     Clement
+     Clyburn
+     Coble
+     Coburn
+     Collins
+     Combest
+     Condit
+     Conyers
+     Cook
+     Cooksey
+     Costello
+     Coyne
+     Cramer
+     Crane
+     Crapo
+     Cubin
+     Cummings
+     Cunningham
+     Danner
+     Davis (FL)
+     Davis (IL)
+     Davis (VA)
+     Deal
+     DeFazio
+     DeGette
+     Delahunt
+     DeLauro
+     DeLay
+     Deutsch
+     Diaz-Balart
+     Dickey
+     Dicks
+     Dingell
+     Dixon
+     Doggett
+     Dooley
+     Doolittle
+     Doyle
+     Dreier
+     Duncan
+     Dunn
+     Ehlers
+     Ehrlich
+     Emerson
+     Engel
+     English
+     Ensign
+     Eshoo
+     Etheridge
+     Evans
+     Everett
+     Ewing
+     Farr
+     Fattah
+     Fawell
+     Fazio
+     Filner
+     Flake
+     Foglietta
+     Forbes
+     Ford
+     Fowler
+     Fox
+     Frank (MA)
+     Franks (NJ)
+     Frelinghuysen
+     Furse
+     Gallegly
+     Ganske
+     Gekas
+     Gephardt
+     Gibbons
+     Gilchrest
+     Gillmor
+     Gonzalez
+     Goode
+     Goodlatte
+     Goodling
+     Gordon
+     Goss
+     Graham
+     Granger
+     Green
+     Greenwood
+     Gutierrez
+     Gutknecht
+     Hall (OH)
+     Hall (TX)
+     Hamilton
+     Hansen
+     Harman
+     Hastert
+     Hastings (FL)
+     Hastings (WA)
+     Hayworth
+     Hefley
+     Hefner
+     Herger
+     Hill
+     Hilliard
+     Hinchey
+     Hinojosa
+     Hobson
+     Hoekstra
+     Holden
+     Hooley
+     Horn
+     Hostettler
+     Houghton
+     Hoyer
+     Hulshof
+     Hutchinson
+     Hyde
+     Istook
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     Jenkins
+     John
+     Johnson (CT)
+     Johnson (WI)
+     Johnson, E. B.
+     Johnson, Sam
+     Jones
+     Kanjorski
+     Kaptur
+     Kasich
+     Kelly
+     Kennedy (MA)
+     Kennedy (RI)
+     Kennelly
+     Kildee
+     Kilpatrick
+     Kim
+     Kind (WI)
+     King (NY)
+     Kingston
+     Kleczka
+     Klink
+     Klug
+     Knollenberg
+     Kolbe
+     Kucinich
+     LaFalce
+     LaHood
+     Lampson
+     Largent
+     Latham
+     Lazio
+     Leach
+     Levin
+     Lewis (CA)
+     Lewis (GA)
+     Lewis (KY)
+     Linder
+     Lipinski
+     Livingston
+     LoBiondo
+     Lofgren
+     Lucas
+     Luther
+     Maloney (CT)
+     Maloney (NY)
+     Manton
+     Markey
+     Martinez
+     Mascara
+     Matsui
+     McCarthy (MO)
+     McCarthy (NY)
+     McCollum
+     McCrery
+     McDade
+     McDermott
+     McGovern
+     McHale
+     McHugh
+     McInnis
+     McIntosh
+     McIntyre
+     McKeon
+     McKinney
+     McNulty
+     Meehan
+     Meek
+     Metcalf
+     Millender-McDonald
+     Miller (CA)
+     Miller (FL)
+     Minge
+     Mink
+     Moakley
+     Molinari
+     Mollohan
+     Moran (KS)
+     Moran (VA)
+     Morella
+     Murtha
+     Myrick
+     Nadler
+     Neal
+     Nethercutt
+     Ney
+     Northup
+     Norwood
+     Nussle
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Owens
+     Oxley
+     Packard
+     Pallone
+     Pappas
+     Parker
+     Pascrell
+     Pastor
+     Paxon
+     Payne
+     Pease
+     Pelosi
+     Peterson (MN)
+     Peterson (PA)
+     Petri
+     Pickering
+     Pickett
+     Pitts
+     Pombo
+     Pomeroy
+     Porter
+     Portman
+     Poshard
+     Price (NC)
+     Pryce (OH)
+     Quinn
+     Radanovich
+     Rahall
+     Ramstad
+     Rangel
+     Redmond
+     Regula
+     Reyes
+     Riley
+     Rivers
+     Rodriguez
+     Roemer
+     Rogan
+     Rogers
+     Rohrabacher
+     Ros-Lehtinen
+     Rothman
+     Roukema
+     Roybal-Allard
+     Ryun
+     Sabo
+     Salmon
+     Sanchez
+     Sanders
+     Sandlin
+     Sawyer
+     Saxton
+     Schaefer, Dan
+     Schaffer, Bob
+     Schumer
+     Scott
+     Serrano
+     Sessions
+     Shaw
+     Shays
+     Shimkus
+     Shuster
+     Skaggs
+     Skeen
+     Skelton
+     Slaughter
+     Smith (MI)
+     Smith (OR)
+     Smith (TX)
+     Smith, Adam
+     Smith, Linda
+     Snowbarger
+     Snyder
+     Souder
+     Spence
+     Spratt
+     Stabenow
+     Stark
+     Stearns
+     Stenholm
+     Stokes
+     Strickland
+     Stump
+     Stupak
+     Sununu
+     Talent
+     Tanner
+     Tauscher
+     Tauzin
+     Taylor (MS)
+     Thomas
+     Thompson
+     Thornberry
+     Thune
+     Thurman
+     Tiahrt
+     Tierney
+     Torres
+     Towns
+     Traficant
+     Turner
+     Upton
+     Velazquez
+     Vento
+     Visclosky
+     Walsh
+     Wamp
+     Waters
+     Watkins
+     Watt (NC)
+     Watts (OK)
+     Waxman
+     Weldon (FL)
+     Weldon (PA)
+     Weller
+     Wexler
+     Weygand
+     White
+     Whitfield
+     Wicker
+     Wise
+     Wolf
+     Woolsey
+     Wynn
+     Yates
+     Young (AK)
+     Young (FL)
+
+                                NAYS--8
+
+     Barr
+     Foley
+     Manzullo
+     Neumann
+     Paul
+     Royce
+     Scarborough
+     Sensenbrenner
+
+                             NOT VOTING--27
+
+     Becerra
+     Bilbray
+     Brown (OH)
+     Cox
+     Dellums
+     Edwards
+     Frost
+     Gejdenson
+     Gilman
+     Hilleary
+     Hunter
+     Inglis
+     Lantos
+     LaTourette
+     Lowey
+     Menendez
+     Mica
+     Riggs
+     Rush
+     Sanford
+     Schiff
+     Shadegg
+     Sherman
+     Sisisky
+     Smith (NJ)
+     Solomon
+     Taylor (NC)
+
+                              {time}  1801
+
+  Mr. SCARBOROUGH changed his vote from ``yea'' to ``nay.''
+
+                              {time}  1800
+
+  So (two-thirds having voted in favor thereof) the rules were 
+suspended and the bill was passed.
+  The result of the vote was announced as above recorded.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
