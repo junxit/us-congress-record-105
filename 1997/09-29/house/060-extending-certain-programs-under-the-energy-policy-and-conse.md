@@ -1,0 +1,492 @@
+---
+granule: CREC-1997-09-29-pt1-PgH8113
+date: 1997-09-29
+edition: CREC
+section: HOUSE
+page: H8113
+citation: 143 Cong. Rec. H8113
+---
+
+# EXTENDING CERTAIN PROGRAMS UNDER THE ENERGY POLICY AND CONSERVATION ACT
+
+**Speaking:** Doggett, Lloyd (D000399) [D-TX]
+
+**Measures:** H.R. 2472
+
+```
+EXTENDING CERTAIN PROGRAMS UNDER THE ENERGY POLICY AND CONSERVATION ACT
+
+  The SPEAKER pro tempore. The pending business is the question de novo 
+of suspending the rules and passing the bill, H.R. 2472.
+  The Clerk read the title of the bill.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Idaho [Mr. Crapo] that the House suspend the rules and 
+pass the bill, H.R. 2472.
+
+[[Page H8114]]
+
+  The question was taken.
+
+
+                             Recorded Vote
+
+  Mr. DOGGETT. Mr. Speaker, I demand a recorded vote.
+  A recorded vote was ordered.
+  The SPEAKER pro tempore. This will be a 5-minute vote.
+  The vote was taken by electronic device, and there were--ayes 405, 
+noes 8, not voting 20, as follows:
+
+                             [Roll No. 464]
+
+                               AYES--405
+
+     Abercrombie
+     Ackerman
+     Aderholt
+     Allen
+     Andrews
+     Archer
+     Armey
+     Bachus
+     Baesler
+     Baker
+     Baldacci
+     Ballenger
+     Barcia
+     Barr
+     Barrett (NE)
+     Barrett (WI)
+     Bartlett
+     Barton
+     Bass
+     Bateman
+     Becerra
+     Bentsen
+     Bereuter
+     Berman
+     Berry
+     Bilbray
+     Bilirakis
+     Bishop
+     Blagojevich
+     Bliley
+     Blumenauer
+     Blunt
+     Boehlert
+     Boehner
+     Bonilla
+     Bonior
+     Bono
+     Borski
+     Boswell
+     Boucher
+     Boyd
+     Brady
+     Brown (CA)
+     Brown (FL)
+     Brown (OH)
+     Bryant
+     Bunning
+     Burr
+     Burton
+     Buyer
+     Callahan
+     Calvert
+     Camp
+     Campbell
+     Canady
+     Cannon
+     Capps
+     Cardin
+     Carson
+     Castle
+     Chabot
+     Chambliss
+     Christensen
+     Clay
+     Clayton
+     Clement
+     Clyburn
+     Coble
+     Coburn
+     Collins
+     Combest
+     Condit
+     Cook
+     Costello
+     Cox
+     Coyne
+     Cramer
+     Crane
+     Crapo
+     Cubin
+     Cummings
+     Cunningham
+     Danner
+     Davis (FL)
+     Davis (IL)
+     Davis (VA)
+     Deal
+     DeFazio
+     DeGette
+     Delahunt
+     DeLauro
+     DeLay
+     Dellums
+     Deutsch
+     Diaz-Balart
+     Dickey
+     Dicks
+     Dingell
+     Dixon
+     Doggett
+     Dooley
+     Doyle
+     Dreier
+     Duncan
+     Dunn
+     Edwards
+     Ehlers
+     Ehrlich
+     Emerson
+     Engel
+     English
+     Ensign
+     Eshoo
+     Etheridge
+     Evans
+     Everett
+     Ewing
+     Farr
+     Fawell
+     Fazio
+     Filner
+     Forbes
+     Ford
+     Fowler
+     Fox
+     Franks (NJ)
+     Frelinghuysen
+     Frost
+     Furse
+     Gallegly
+     Ganske
+     Gejdenson
+     Gekas
+     Gibbons
+     Gilchrest
+     Gillmor
+     Gilman
+     Goode
+     Goodlatte
+     Goodling
+     Gordon
+     Goss
+     Graham
+     Granger
+     Green
+     Greenwood
+     Gutierrez
+     Gutknecht
+     Hall (OH)
+     Hall (TX)
+     Hamilton
+     Hansen
+     Hastert
+     Hastings (FL)
+     Hastings (WA)
+     Hayworth
+     Hefley
+     Herger
+     Hill
+     Hilleary
+     Hilliard
+     Hinojosa
+     Hobson
+     Hoekstra
+     Holden
+     Hooley
+     Horn
+     Houghton
+     Hoyer
+     Hulshof
+     Hunter
+     Hutchinson
+     Hyde
+     Inglis
+     Istook
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     Jenkins
+     John
+     Johnson (CT)
+     Johnson (WI)
+     Johnson, E.B.
+     Johnson, Sam
+     Jones
+     Kanjorski
+     Kaptur
+     Kasich
+     Kelly
+     Kennedy (MA)
+     Kennedy (RI)
+     Kennelly
+     Kildee
+     Kilpatrick
+     Kim
+     Kind (WI)
+     King (NY)
+     Kingston
+     Kleczka
+     Klink
+     Klug
+     Knollenberg
+     Kolbe
+     Kucinich
+     LaFalce
+     LaHood
+     Lampson
+     Lantos
+     Largent
+     Latham
+     LaTourette
+     Lazio
+     Leach
+     Levin
+     Lewis (CA)
+     Lewis (GA)
+     Lewis (KY)
+     Linder
+     Lipinski
+     Livingston
+     LoBiondo
+     Lofgren
+     Lowey
+     Lucas
+     Luther
+     Maloney (CT)
+     Maloney (NY)
+     Manton
+     Manzullo
+     Markey
+     Martinez
+     Mascara
+     Matsui
+     McCarthy (MO)
+     McCarthy (NY)
+     McCollum
+     McCrery
+     McDade
+     McDermott
+     McGovern
+     McHale
+     McHugh
+     McInnis
+     McIntosh
+     McIntyre
+     McKeon
+     McKinney
+     McNulty
+     Meehan
+     Meek
+     Menendez
+     Metcalf
+     Mica
+     Millender-McDonald
+     Miller (CA)
+     Miller (FL)
+     Minge
+     Mink
+     Moakley
+     Mollohan
+     Moran (KS)
+     Moran (VA)
+     Morella
+     Murtha
+     Myrick
+     Nadler
+     Nethercutt
+     Ney
+     Northup
+     Norwood
+     Nussle
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Owens
+     Oxley
+     Packard
+     Pallone
+     Pappas
+     Parker
+     Pascrell
+     Pastor
+     Paxon
+     Payne
+     Pease
+     Pelosi
+     Peterson (MN)
+     Peterson (PA)
+     Petri
+     Pickering
+     Pickett
+     Pitts
+     Pombo
+     Pomeroy
+     Porter
+     Portman
+     Poshard
+     Price (NC)
+     Pryce (OH)
+     Radanovich
+     Rahall
+     Ramstad
+     Redmond
+     Regula
+     Reyes
+     Riggs
+     Riley
+     Rivers
+     Rodriguez
+     Roemer
+     Rogan
+     Rogers
+     Ros-Lehtinen
+     Rothman
+     Roukema
+     Roybal-Allard
+     Rush
+     Ryun
+     Sabo
+     Salmon
+     Sanchez
+     Sanders
+     Sandlin
+     Sanford
+     Sawyer
+     Saxton
+     Scarborough
+     Schaefer, Dan
+     Schaffer, Bob
+     Schumer
+     Scott
+     Sensenbrenner
+     Serrano
+     Sessions
+     Shadegg
+     Shaw
+     Shays
+     Sherman
+     Shimkus
+     Shuster
+     Sisisky
+     Skaggs
+     Skeen
+     Skelton
+     Slaughter
+     Smith (MI)
+     Smith (NJ)
+     Smith (OR)
+     Smith (TX)
+     Smith, Adam
+     Smith, Linda
+     Snowbarger
+     Snyder
+     Solomon
+     Souder
+     Spence
+     Spratt
+     Stabenow
+     Stark
+     Stearns
+     Stokes
+     Strickland
+     Stump
+     Stupak
+     Talent
+     Tanner
+     Tauscher
+     Tauzin
+     Taylor (MS)
+     Taylor (NC)
+     Thomas
+     Thompson
+     Thornberry
+     Thune
+     Thurman
+     Tierney
+     Torres
+     Towns
+     Traficant
+     Turner
+     Upton
+     Velazquez
+     Vento
+     Visclosky
+     Walsh
+     Wamp
+     Waters
+     Watt (NC)
+     Watts (OK)
+     Waxman
+     Weldon (FL)
+     Weldon (PA)
+     Weller
+     Wexler
+     Weygand
+     White
+     Whitfield
+     Wicker
+     Wise
+     Wolf
+     Woolsey
+     Wynn
+     Yates
+     Young (AK)
+
+                                NOES--8
+
+     Doolittle
+     Hostettler
+     Neumann
+     Paul
+     Rohrabacher
+     Royce
+     Sununu
+     Tiahrt
+
+                             NOT VOTING--20
+
+     Chenoweth
+     Conyers
+     Cooksey
+     Fattah
+     Flake
+     Foglietta
+     Foley
+     Frank (MA)
+     Gephardt
+     Gonzalez
+     Harman
+     Hefner
+     Hinchey
+     Neal
+     Quinn
+     Rangel
+     Schiff
+     Stenholm
+     Watkins
+     Young (FL)
+
+                              {time}  1850
+
+  Mr. RAMSTAD changed his vote from ``no'' to ``aye.''
+  So (two-thirds having voted in favor thereof) the rules were 
+suspended and the bill was passed.
+  The result of the vote was announced as above recorded.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
