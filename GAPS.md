@@ -21,7 +21,7 @@ failed to produce text, so they have no commit at all.
 
 ## Granules with no text
 
-1,151 granule(s) are listed in their issue and have no
+1,122 granule(s) are listed in their issue and have no
 readable HTML rendition, so the issue's index skips a number where each
 one should be. Ordinals are assigned over every listed granule
 precisely so the hole stays visible rather than being closed up.
